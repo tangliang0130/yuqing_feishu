@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T12:23:05.229284+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2026-03-20T13:10:34.990389+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 12时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 13时10分]"
         },
         {
           "title": "A股第8只千元股",
           "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%AC%AC8%E5%8F%AA%E5%8D%83%E5%85%83%E8%82%A1%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 12时23分]"
+          "appearance_count": 4,
+          "time_info": "[12时21分 ~ 13时10分]"
         },
         {
           "title": "A股三大股指均跌超1%，CPO逆势走强，有色金属重挫，恒指放量大跌2%，腾讯跌近7%，小米涨超3%",
@@ -39,8 +40,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 12时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 13时10分]"
         },
         {
           "title": "A股午评：创业板指半日涨超3%",
@@ -50,8 +51,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 12时23分]"
+          "appearance_count": 4,
+          "time_info": "[12时21分 ~ 13时10分]"
         },
         {
           "title": "A股源杰科技封板涨停，现报1140元/股，成A股市场第二高价股。",
@@ -59,11 +60,60 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14,
-            25
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 13时10分]"
+        },
+        {
+          "title": "上证指数早盘收报4013.16点，涨0.16%。 深证成指早盘收报14119.88点，涨1.57%。 创业板指早盘收报3418.37点，涨3.30%。 沪深300早盘收报4626.90点，涨0.95%。 科创50早盘收报1339.96点，涨0.07%。 中证500早盘收报7921.49点，涨0.56%。 中证1000早盘收报7966.72点，涨0.73%。",
+          "url": "https://wallstreetcn.com/livenews/3073755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时15分 ~ 12时23分]"
+          "time_info": "[12时23分 ~ 13时10分]"
+        },
+        {
+          "title": "3月20日午间收评：创业板指半日涨3.3%，算力硬件、光伏板块集体走强",
+          "url": "https://wallstreetcn.com/livenews/3073754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 13时10分]"
+        },
+        {
+          "title": "创业板指涨超3%，沪指转涨",
+          "url": "https://wallstreetcn.com/livenews/3073751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 13时10分]"
+        },
+        {
+          "title": "A股午评：创业板指半日涨超3%刷新年内新高 BC电池、CPO概念板块领涨大市",
+          "url": "https://flash.jin10.com/detail/20260320114514539800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 13时10分]"
         },
         {
           "title": "A股",
@@ -77,39 +127,6 @@
           "time_info": "[11时13分 ~ 11时15分]"
         },
         {
-          "title": "上证指数早盘收报4013.16点，涨0.16%。 深证成指早盘收报14119.88点，涨1.57%。 创业板指早盘收报3418.37点，涨3.30%。 沪深300早盘收报4626.90点，涨0.95%。 科创50早盘收报1339.96点，涨0.07%。 中证500早盘收报7921.49点，涨0.56%。 中证1000早盘收报7966.72点，涨0.73%。",
-          "url": "https://wallstreetcn.com/livenews/3073755",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
-        },
-        {
-          "title": "3月20日午间收评：创业板指半日涨3.3%，算力硬件、光伏板块集体走强",
-          "url": "https://wallstreetcn.com/livenews/3073754",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
-        },
-        {
-          "title": "创业板指涨超3%，沪指转涨",
-          "url": "https://wallstreetcn.com/livenews/3073751",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
-        },
-        {
           "title": "A股石油加工贸易板块持续走弱，和顺石油触及跌停，新锦动力、泰山石油、中曼石油、洲际油气、广聚能源、海南矿业等跟跌。",
           "url": "https://flash.jin10.com/detail/20260320104811357800",
           "source": "金十数据",
@@ -119,17 +136,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
-        },
-        {
-          "title": "A股午评：创业板指半日涨超3%刷新年内新高 BC电池、CPO概念板块领涨大市",
-          "url": "https://flash.jin10.com/detail/20260320114514539800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
         },
         {
           "title": "A股化工股集体调整，潞化科技触及跌停，金牛化工、中泰化学、江苏索普、中毅达、兴化股份均跌超7%。",
@@ -200,6 +206,188 @@
       ]
     },
     {
+      "keyword_group": "黄金 金价",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "贵金属全线重挫！现货黄金逼近4500美元 白银跌超13%",
+          "url": "https://www.cls.cn/detail/2318687",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时13分 ~ 11时15分]"
+        },
+        {
+          "title": "金价持续下跌",
+          "url": "https://www.douyin.com/hot/2436866",
+          "source": "抖音",
+          "ranks": [
+            6,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 13时10分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 13时10分]"
+        },
+        {
+          "title": "现货黄金白银暴跌",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E6%9A%B4%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 13时10分]"
+        },
+        {
+          "title": "金价暴跌 有金店一天狂卖3斤黄金",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C+%E6%9C%89%E9%87%91%E5%BA%97%E4%B8%80%E5%A4%A9%E7%8B%82%E5%8D%963%E6%96%A4%E9%BB%84%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            22,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 13时10分]"
+        },
+        {
+          "title": "黄金跌破4800,韭菜又被割",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352067&amp;topic_name=%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B44800%2C%E9%9F%AD%E8%8F%9C%E5%8F%88%E8%A2%AB%E5%89%B2",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 13时10分]"
+        },
+        {
+          "title": "国际现货黄金三面受敌，周五的反弹能信吗？",
+          "url": "https://flash.jin10.com/detail/20260320122643970800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
+          "title": "现货黄金重返4700美元关口上方，日内涨1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3073741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 13时10分]"
+        },
+        {
+          "title": "“乱世买黄金”不管用了？一文解析：美伊战火中金银缘何惨遭“血洗”",
+          "url": "https://www.cls.cn/detail/2319114",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时21分 ~ 13时10分]"
+        },
+        {
+          "title": "为何战争越狠，黄金反而跌得越惨？",
+          "url": "https://flash.jin10.com/detail/20260320120110608800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 13时10分]"
+        },
+        {
+          "title": "黄金白银为何暴跌？",
+          "url": "https://wallstreetcn.com/articles/3767962",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时21分 ~ 13时10分]"
+        },
+        {
+          "title": "金十图示：2026年03月20日（周五）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260320115159365800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 13时10分]"
+        },
+        {
+          "title": "金价暴跌真凶",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E7%9C%9F%E5%87%B6%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时13分 ~ 11时15分]"
+        },
+        {
+          "title": "黄金",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时13分 ~ 11时15分]"
+        },
+        {
+          "title": "现货黄金重回4700美元",
+          "url": "https://flash.jin10.com/detail/20260320105040239800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人工智能 AI ChatGPT GPT 大模型",
       "match_count": 14,
       "titles": [
@@ -212,8 +400,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 12时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 13时10分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -223,8 +411,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 12时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 13时10分]"
         },
         {
           "title": "如何看待央视网发布的 AI 短视频《流金谷恩仇录》？",
@@ -238,17 +426,6 @@
           "time_info": "[11时13分 ~ 11时15分]"
         },
         {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-03-20）",
-          "url": "https://flash.jin10.com/detail/20260320115827577800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
-        },
-        {
           "title": "阿里电话会：未来五年，云和AI年收入突破1000亿美元，MaaS将是阿里云最大收入产品",
           "url": "https://wallstreetcn.com/articles/3767932",
           "source": "华尔街见闻",
@@ -256,8 +433,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 12时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 13时10分]"
         },
         {
           "title": "AI万物皆可龙抬头",
@@ -265,11 +442,12 @@
           "source": "抖音",
           "ranks": [
             7,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 12时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 13时10分]"
         },
         {
           "title": "AI龙虾大战我的世界",
@@ -277,11 +455,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             11,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 12时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 13时10分]"
         },
         {
           "title": "上万条春招要求的背后，非技术岗位也要求“会AI”？",
@@ -292,8 +471,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 12时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 13时10分]"
         },
         {
           "title": "让大模型学会选择性记忆",
@@ -301,11 +480,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             19,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 12时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 13时10分]"
         },
         {
           "title": "刘慈欣提出「技术能生成一切，却不能辨认伟大」，有道理吗？这对当下理解 AI 与人的关系有何启示？",
@@ -315,8 +495,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 12时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 13时10分]"
         },
         {
           "title": "AI龙抬头赐我新发型",
@@ -324,11 +504,24 @@
           "source": "抖音",
           "ranks": [
             23,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 12时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 13时10分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-03-20）",
+          "url": "https://flash.jin10.com/detail/20260320115827577800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 13时10分]"
         },
         {
           "title": "阿里最新财季净利同比下滑近7成，重构AI版图能否撑起五年千亿美元目标？|财报解读",
@@ -366,171 +559,6 @@
       ]
     },
     {
-      "keyword_group": "黄金 金价",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "贵金属全线重挫！现货黄金逼近4500美元 白银跌超13%",
-          "url": "https://www.cls.cn/detail/2318687",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 11时15分]"
-        },
-        {
-          "title": "为何战争越狠，黄金反而跌得越惨？",
-          "url": "https://flash.jin10.com/detail/20260320120110608800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
-        },
-        {
-          "title": "金价持续下跌",
-          "url": "https://www.douyin.com/hot/2436866",
-          "source": "抖音",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 12时23分]"
-        },
-        {
-          "title": "现货黄金重返4700美元关口上方，日内涨1.1%。",
-          "url": "https://wallstreetcn.com/livenews/3073741",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 12时23分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 12时23分]"
-        },
-        {
-          "title": "现货黄金白银暴跌",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E6%9A%B4%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 12时23分]"
-        },
-        {
-          "title": "金价暴跌 有金店一天狂卖3斤黄金",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C+%E6%9C%89%E9%87%91%E5%BA%97%E4%B8%80%E5%A4%A9%E7%8B%82%E5%8D%963%E6%96%A4%E9%BB%84%E9%87%91",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 12时23分]"
-        },
-        {
-          "title": "黄金跌破4800,韭菜又被割",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352067&amp;topic_name=%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B44800%2C%E9%9F%AD%E8%8F%9C%E5%8F%88%E8%A2%AB%E5%89%B2",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 12时23分]"
-        },
-        {
-          "title": "“乱世买黄金”不管用了？一文解析：美伊战火中金银缘何惨遭“血洗”",
-          "url": "https://www.cls.cn/detail/2319114",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 12时23分]"
-        },
-        {
-          "title": "黄金白银为何暴跌？",
-          "url": "https://wallstreetcn.com/articles/3767962",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 12时23分]"
-        },
-        {
-          "title": "金价暴跌真凶",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E7%9C%9F%E5%87%B6%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 11时15分]"
-        },
-        {
-          "title": "黄金",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 11时15分]"
-        },
-        {
-          "title": "金十图示：2026年03月20日（周五）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260320115159365800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
-        },
-        {
-          "title": "现货黄金重回4700美元",
-          "url": "https://flash.jin10.com/detail/20260320105040239800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "原油 石油",
       "match_count": 9,
       "titles": [
@@ -542,8 +570,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 12时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 13时10分]"
         },
         {
           "title": "“绕过”霍尔木兹海峡，沙特石油出口“恢复过半”，但这个“B计划”能保得住吗？",
@@ -554,8 +582,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 12时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 13时10分]"
         },
         {
           "title": "沙特能源出口欲绕开霍尔木兹海峡，调整路径恢复逾5成原油出口",
@@ -565,8 +593,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 12时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 13时10分]"
         },
         {
           "title": "美是石油净出口国 为何遏制油价上涨",
@@ -577,8 +605,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 12时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 13时10分]"
         },
         {
           "title": "用伊朗石油给油市“降温”？美财长：或解除海上制裁，可供两周！",
@@ -586,11 +614,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 12时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 13时10分]"
         },
         {
           "title": "伊朗称以色列密谋袭击沙特石油设施",
@@ -601,8 +630,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 12时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 13时10分]"
         },
         {
           "title": "国家统计局：中国1-2月份汽油产量2618.9万吨，同比增长1.3%。 中国1-2月份煤油产量996.6万吨，同比增长9.6%。 中国1-2月份柴油产量3147万吨，同比增长1.6%。 中国1-2月份燃料油产量624.7万吨，同比下降10.0%。 中国1-2月份石脑油产量1399.2万吨，同比增长5.2%。 中国1-2月份液化石油气产量887.2万吨，同比下降2.1%。",
@@ -610,11 +639,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 12时23分]"
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 13时10分]"
         },
         {
           "title": "石油美元黄金到底是什么关系",
@@ -634,7 +664,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         }
@@ -642,7 +672,7 @@
     },
     {
       "keyword_group": "央行 货币政策 降息 降准 加息",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "【早报】深夜跳水，黄金、白银全线重挫；央行：坚定维护金融市场平稳运行",
@@ -652,19 +682,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 12时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 13时10分]"
+        },
+        {
+          "title": "机构：澳洲联储加息周期未了 上调利率峰值预测",
+          "url": "https://flash.jin10.com/detail/20260320123824524800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
         },
         {
           "title": "高盛：预计英国央行在整个2026年将维持利率不变，此前预测为从7月起每季度降息一次。 预计货币政策委员会（MPC）将在2027年逐渐下调利率，最终目标利率为3%。",
           "url": "https://wallstreetcn.com/livenews/3073748",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 13时10分]"
         },
         {
           "title": "法巴：若能源价格维持高位，美联储下月可能释放加息信号",
@@ -684,7 +726,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         },
@@ -695,7 +737,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         },
@@ -706,7 +748,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         },
@@ -728,6 +770,19 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "为什么微软 Office 有几个 GB，而 WPS Office 只有 1GB 多？",
+          "url": "https://www.zhihu.com/question/2011123880824182141",
+          "source": "知乎",
+          "ranks": [
+            19,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 13时10分]"
+        },
+        {
           "title": "华为云CEO周跃峰：下半年将发布一系列面向行业和产品化的“龙虾”",
           "url": "https://flash.jin10.com/detail/20260320110346018800",
           "source": "金十数据",
@@ -743,23 +798,12 @@
           "url": "https://wallstreetcn.com/livenews/3073760",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
-        },
-        {
-          "title": "为什么微软 Office 有几个 GB，而 WPS Office 只有 1GB 多？",
-          "url": "https://www.zhihu.com/question/2011123880824182141",
-          "source": "知乎",
-          "ranks": [
-            19,
-            9
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 12时23分]"
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 13时10分]"
         },
         {
           "title": "华为Mate80官宣新版本",
@@ -791,7 +835,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         },
@@ -802,9 +846,49 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 纳斯达克 道琼斯 标普500",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
+          "url": "https://wallstreetcn.com/articles/3767876",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 13时10分]"
+        },
+        {
+          "title": "美股收盘：三大指数连跌两天 光通信逆市走强 闪迪续刷新高",
+          "url": "https://www.cls.cn/detail/2318884",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 13时10分]"
+        },
+        {
+          "title": "高盛拉响警报！美股或迎猛烈回调，传统的避风港将失灵？",
+          "url": "https://flash.jin10.com/detail/20260320121013817800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
         }
       ]
     },
@@ -817,11 +901,24 @@
           "url": "https://flash.jin10.com/detail/20260320120959003800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 13时10分]"
+        },
+        {
+          "title": "港股光伏太阳能股午盘前再度走强，钧达股份(02865.HK)涨超10%，阳光电源(00757.HK)、信义光能(00968.HK)均涨超6%，福莱特玻璃(06865.HK)占超4%，凯盛新能(01108.HK)涨超3%。",
+          "url": "https://flash.jin10.com/detail/20260320114757994800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 13时10分]"
         },
         {
           "title": "广合科技港股上市首日挂牌高开32%，盘中涨幅一度扩大至106%，最高触及147.9港元，目前涨幅收窄至55%。",
@@ -834,17 +931,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时15分 ~ 12时23分]"
-        },
-        {
-          "title": "港股光伏太阳能股午盘前再度走强，钧达股份(02865.HK)涨超10%，阳光电源(00757.HK)、信义光能(00968.HK)均涨超6%，福莱特玻璃(06865.HK)占超4%，凯盛新能(01108.HK)涨超3%。",
-          "url": "https://flash.jin10.com/detail/20260320114757994800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
         }
       ]
     },
@@ -858,11 +944,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 12时23分]"
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 13时10分]"
         },
         {
           "title": "刘文祥麻辣烫被曝后厨员工穿拖鞋作业，边干活边抽烟，当地市场监管部门已介入，暴露出门店管理存在哪些问题？",
@@ -880,40 +967,12 @@
           "url": "https://flash.jin10.com/detail/20260320114842544800",
           "source": "金十数据",
           "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 纳斯达克 道琼斯 标普500",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
-          "url": "https://wallstreetcn.com/articles/3767876",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
+            13,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 12时23分]"
-        },
-        {
-          "title": "美股收盘：三大指数连跌两天 光通信逆市走强 闪迪续刷新高",
-          "url": "https://www.cls.cn/detail/2318884",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 12时23分]"
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 13时10分]"
         }
       ]
     },
@@ -957,7 +1016,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         },
@@ -987,8 +1046,25 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时13分 ~ 12时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 13时10分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "地缘政治 冲突",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "欧盟呼吁伊朗局势相关冲突方保护平民和民用设施",
+          "url": "https://wallstreetcn.com/livenews/3073770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
         }
       ]
     }
