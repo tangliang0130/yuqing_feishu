@@ -1,282 +1,392 @@
 {
-  "generated_at": "2026-03-22T13:15:08.259806+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-23T13:50:24.953959+08:00",
+  "total_titles_processed": 317,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "人工智能 AI ChatGPT GPT 大模型",
-      "match_count": 8,
+      "keyword_group": "A股 上证指数 深证成指 创业板",
+      "match_count": 12,
       "titles": [
         {
-          "title": "华为成立传媒军团，将聚焦 AIGC 全场景赋能等三大核心方向，如何看待这一布局？将会带来哪些改变？",
-          "url": "https://www.zhihu.com/question/2018341688767160603",
-          "source": "知乎",
+          "title": "A股当前良性调整何时结束？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2320651",
+          "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时13分 ~ 13时15分]"
+          "time_info": "[13时48分 ~ 13时50分]"
         },
         {
-          "title": "最新！Karpathy万字深度长访：我焦虑到AI成瘾，所有可验证的领域，终将属于机器",
-          "url": "https://wallstreetcn.com/articles/3768061",
-          "source": "华尔街见闻",
+          "title": "深证成指跌幅扩大至3%。",
+          "url": "https://flash.jin10.com/detail/20260323132957655800",
+          "source": "金十数据",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 13时15分]"
-        },
-        {
-          "title": "AI演员为啥遭网友抵制",
-          "url": "https://www.douyin.com/hot/2438688",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 13时15分]"
-        },
-        {
-          "title": "韩文秀：全方位应对人工智能冲击，促进高质量充分就业",
-          "url": "https://wallstreetcn.com/livenews/3074495",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时15分"
+          "time_info": "13时50分"
         },
         {
-          "title": "AI演员签约官宣",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E6%BC%94%E5%91%98%E7%AD%BE%E7%BA%A6%E5%AE%98%E5%AE%A3%23&t=31&band_rank=11&Refer=top",
+          "title": "A股行情",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%A1%8C%E6%83%85%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
           "ranks": [
-            11
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时13分 ~ 13时15分]"
+          "time_info": "[13时48分 ~ 13时50分]"
         },
         {
-          "title": "人工智能太绕,AI急需中文名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
-          "source": "贴吧",
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=16&Refer=top",
+          "source": "微博",
           "ranks": [
-            20
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时13分 ~ 13时15分]"
+          "time_info": "[13时48分 ~ 13时50分]"
         },
         {
-          "title": "配音圈集体声讨,抵制AI盗声",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
-          "source": "贴吧",
+          "title": "上证综指日内跌幅扩大至3%，深证成指现跌2.8%，创业板指跌2.47%。",
+          "url": "https://flash.jin10.com/detail/20260323132507522800",
+          "source": "金十数据",
           "ranks": [
-            25
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 13时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         },
         {
-          "title": "韩文秀：全方位应对人工智能冲击，促进高质量充分就业",
-          "url": "https://flash.jin10.com/detail/20260322112847753800",
+          "title": "沪指午后跌幅扩大至3%，深成指跌超2.7%，创业板指跌超2.3%，有色金属、养殖业、机场航运、医药生物等方向跌幅居前，全市场上涨个股数不足400只。",
+          "url": "https://wallstreetcn.com/livenews/3074858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "A股AI应用概念股多数走弱，天地在线跌停，卓易信息跌超8%，生意宝、真视通、创业黑马、新开普跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3074849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "A股旅游板块持续走低，三峡旅游、桂林旅游逼近跌停，峨眉山A、丽江股份、岭南控股、三特索道等多股跌超7%。",
+          "url": "https://flash.jin10.com/detail/20260323131241869800",
           "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金 金价",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "国际金价“八连跌”",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E2%80%9C%E5%85%AB%E8%BF%9E%E8%B7%8C%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 13时15分]"
+          "time_info": "13时50分"
         },
         {
-          "title": "创近43年最大单周跌幅，黄金“投资神话”终结？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32807539",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 13时15分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 13时15分]"
-        },
-        {
-          "title": "黄金创近43年最大单周跌幅",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%88%9B%E8%BF%9143%E5%B9%B4%E6%9C%80%E5%A4%A7%E5%8D%95%E5%91%A8%E8%B7%8C%E5%B9%85",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 13时15分]"
-        },
-        {
-          "title": "信达期货：当前黄金走势的核心在于能源价格上行对利率预期的再约束",
-          "url": "https://flash.jin10.com/detail/20260322112216406800",
+          "title": "紫金矿业A股成交额超100亿元，现跌2.21%。",
+          "url": "https://flash.jin10.com/detail/20260323131104856800",
           "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "A股磷化工板块午后拉升，湖北宜化涨停，六国化工、兴发集团、川发龙蟒、川金诺、川恒股份跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3074845",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时15分"
+          "time_info": "13时50分"
         },
         {
-          "title": "黄金投资者周报上新！",
-          "url": "https://flash.jin10.com/detail/20260322110455118800",
+          "title": "A股大金融板块局部异动，互联金融、多元金融方向领涨，银之杰涨超10%，赢时胜、南华期货、瑞达期货、爱建集团、瑞达期货、安硕信息、华信永道跟涨。",
+          "url": "https://flash.jin10.com/detail/20260323130520719800",
           "source": "金十数据",
           "ranks": [
-            19
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时15分"
+          "time_info": "13时50分"
+        },
+        {
+          "title": "A股磷化工板块午后拉升，湖北宜化涨停，六国化工、兴发集团、川发龙蟒、川金诺、川恒股份跟涨。",
+          "url": "https://flash.jin10.com/detail/20260323130348956800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         }
       ]
     },
     {
-      "keyword_group": "央行 货币政策 降息 降准 加息",
-      "match_count": 5,
+      "keyword_group": "原油 石油",
+      "match_count": 9,
       "titles": [
         {
-          "title": "这一次不一样！股市反应迟钝，央行迟早QE，而黄金难以对冲",
-          "url": "https://wallstreetcn.com/articles/3768062",
+          "title": "日本石油协会会长表示：希望日本政府能够以与第一次相同的规模，释放第二批战略储备。 认为日本应投资于阿拉斯加原油产能扩张，这将有助于供应来源多元化。 从未预料霍尔木兹海峡关闭，因为这将引发全球能源危机。",
+          "url": "https://wallstreetcn.com/livenews/3074866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "日本石油协会主席：我认为日本应投资扩大阿拉斯加的原油产量，这将有助于实现日本能源供应来源的多元化。",
+          "url": "https://flash.jin10.com/detail/20260323132914585800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "日本石油协会主席：我们希望日本政府能够释放第二批次规模与第一批次相当的战略石油储备。",
+          "url": "https://flash.jin10.com/detail/20260323132758388800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "日本石油协会主席：除萨哈林2号项目外，我们并无从俄罗斯进口原油的计划。",
+          "url": "https://flash.jin10.com/detail/20260323132016177800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "日本石油协会主席：厄瓜多尔、哥伦比亚和墨西哥也都是可能的选择。",
+          "url": "https://flash.jin10.com/detail/20260323131831763800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "日本石油协会：需要进行第二次石油储备释放。 北美是替代中东原油供应的潜在来源之一。 厄瓜多尔、哥伦比亚和墨西哥也是可能的选择。",
+          "url": "https://wallstreetcn.com/livenews/3074853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "日本石油协会主席：北美是中东原油替代供应的一个潜在来源。",
+          "url": "https://flash.jin10.com/detail/20260323131714216800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "中国石油集团董事长戴厚良会见道达尔能源公司董事长潘彦磊",
+          "url": "https://wallstreetcn.com/livenews/3074834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "特朗普惦记了40年的哈尔克岛，根本解决不了他的石油难题",
+          "url": "https://flash.jin10.com/detail/20260323125631957800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金 金价",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "特朗普最后通牒还剩24小时，贝森特称“先升级再缓和”，亚洲股市重挫、黄金再跌3%",
+          "url": "https://wallstreetcn.com/articles/3768110",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时13分 ~ 13时15分]"
+          "time_info": "[13时48分 ~ 13时50分]"
         },
         {
-          "title": "“美联储加息”噩梦恐成真？美银：需先满足三大条件",
-          "url": "https://www.cls.cn/detail/2320248",
+          "title": "赤峰黄金易主：紫金集团将成单一最大股东",
+          "url": "https://www.cls.cn/detail/2320802",
           "source": "财联社热门",
           "ranks": [
-            4
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时13分 ~ 13时15分]"
+          "time_info": "[13时48分 ~ 13时50分]"
         },
         {
-          "title": "央行行长潘功胜：运用多种工具保持流动性充裕",
-          "url": "https://wallstreetcn.com/livenews/3074490",
-          "source": "华尔街见闻-快讯",
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=11&Refer=top",
+          "source": "微博",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时15分"
-        },
-        {
-          "title": "高盛宏观交易员警告：各国央行错失了稳定市场的机会，\"能源正在驱动一切\"",
-          "url": "https://wallstreetcn.com/articles/3768076",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时13分 ~ 13时15分]"
+          "time_info": "[13时48分 ~ 13时50分]"
         },
         {
-          "title": "央行行长潘功胜：运用多种工具保持流动性充裕",
-          "url": "https://flash.jin10.com/detail/20260322121203920800",
+          "title": "国内金价跌破1000元",
+          "url": "https://www.toutiao.com/trending/7620270700237950500/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 13时50分]"
+        },
+        {
+          "title": "拿130万抄底黄金刚买68万就遇跌",
+          "url": "https://www.baidu.com/s?wd=%E6%8B%BF130%E4%B8%87%E6%8A%84%E5%BA%95%E9%BB%84%E9%87%91%E5%88%9A%E4%B9%B068%E4%B8%87%E5%B0%B1%E9%81%87%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 13时50分]"
+        },
+        {
+          "title": "黄金跳水失守4340美元 白银大跌超4%",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E8%B7%B3%E6%B0%B4%E5%A4%B1%E5%AE%884340%E7%BE%8E%E5%85%83+%E7%99%BD%E9%93%B6%E5%A4%A7%E8%B7%8C%E8%B6%854%25",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 13时50分]"
+        },
+        {
+          "title": "黄金猴市来了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%8C%B4%E5%B8%82%E6%9D%A5%E4%BA%86%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 13时50分]"
+        },
+        {
+          "title": "黄金年内涨幅几乎归零！伊朗战争第四周，全球债市与油价争夺“恐慌之王”",
+          "url": "https://flash.jin10.com/detail/20260323131638472800",
           "source": "金十数据",
           "ranks": [
-            6
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时15分"
+          "time_info": "13时50分"
         }
       ]
     },
     {
-      "keyword_group": "原油 石油",
+      "keyword_group": "人工智能 AI ChatGPT GPT 大模型",
       "match_count": 4,
       "titles": [
         {
-          "title": "美国发布伊朗石油30天制裁豁免令 贝森特：将向全球供油约1.4亿桶",
-          "url": "https://www.cls.cn/detail/2320263",
-          "source": "财联社热门",
+          "title": "人工智能太绕,AI急需中文名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
+          "source": "贴吧",
           "ranks": [
-            1
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时13分 ~ 13时15分]"
+          "time_info": "[13时48分 ~ 13时50分]"
         },
         {
-          "title": "美军正向中东增派3艘军舰和约2500名海军陆战队员，石油市场还要等3周？",
-          "url": "https://wallstreetcn.com/articles/3768058",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 13时15分]"
-        },
-        {
-          "title": "为何“临时豁免海上伊朗石油”？美国“形势所迫”：全球原油缓冲正迅速减少",
-          "url": "https://wallstreetcn.com/articles/3768051",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 13时15分]"
-        },
-        {
-          "title": "中东疯抢美国狂砸，谁在操纵原油绞肉机？",
-          "url": "https://flash.jin10.com/detail/20260322120026961800",
+          "title": "广东：加强对国家重大科技任务和电子信息、人工智能、低空经济等先进制造业集群的增信",
+          "url": "https://flash.jin10.com/detail/20260323132130985800",
           "source": "金十数据",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时15分"
+          "time_info": "13时50分"
+        },
+        {
+          "title": "广东：加强对国家重大科技任务和电子信息、人工智能、低空经济等先进制造业集群的增信",
+          "url": "https://wallstreetcn.com/livenews/3074856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "OpenAI Codex工程师Tibo：Codex团队正忙于对整个系统进行几乎端到端的全面重构，以适应未来模型能力的扩展；而且很高兴有Codex来协助完成这些重构，否则这将耗费数月时间。",
+          "url": "https://flash.jin10.com/detail/20260323125725631800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         }
       ]
     },
@@ -285,110 +395,121 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "财政部部长：财政政策加大投资于人力度",
-          "url": "https://wallstreetcn.com/livenews/3074496",
-          "source": "华尔街见闻-快讯",
+          "title": "财政政策将聚焦扩大内需",
+          "url": "https://www.toutiao.com/trending/7619357901416844854/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 13时50分]"
+        },
+        {
+          "title": "央视曝光商贩运输活鱼时加麻药，重庆市场监管局通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32812204",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 13时50分]"
+        },
+        {
+          "title": "2500亿元支持消费品以旧换新，财政部将加大直达消费者的普惠政策力度",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32810683",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 13时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "IPO 上市",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【早报】伊朗提出停战六项条件；宇树科技IPO获受理",
+          "url": "https://www.cls.cn/detail/2320760",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 13时50分]"
         },
         {
-          "title": "财政部部长蓝佛安：财政政策加大投资于人力度",
-          "url": "https://flash.jin10.com/detail/20260322115018252800",
-          "source": "金十数据",
+          "title": "磷化铟晶片价格受下游光通信市场需求增加有所上涨 小金属概念股一字涨停 本周机构密集调研相关上市公司",
+          "url": "https://www.cls.cn/detail/2320685",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时15分"
-        },
-        {
-          "title": "苏州更新汽车购新补贴政策：3月21日起至6月30日购买新车最高补贴7000元",
-          "url": "https://flash.jin10.com/detail/20260322113616560800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "华为 苹果 特斯拉 微软 谷歌",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "微软等云大厂开始签“存储采购强制性长约”，“存储周期”将重塑",
-          "url": "https://wallstreetcn.com/articles/3768048",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时13分 ~ 13时15分]"
-        },
-        {
-          "title": "苹果CEO点赞中国创新：中国开发者和制造商正成为新质生产力的典范",
-          "url": "https://wallstreetcn.com/livenews/3074485",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时15分"
-        },
-        {
-          "title": "苹果CEO点赞中国创新：中国开发者和制造商正成为新质生产力的典范",
-          "url": "https://flash.jin10.com/detail/20260322101449336800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时15分"
+          "time_info": "[13时48分 ~ 13时50分]"
         }
       ]
     },
     {
-      "keyword_group": "A股 上证指数 深证成指 创业板",
-      "match_count": 1,
+      "keyword_group": "央行 货币政策 降息 降准 加息",
+      "match_count": 2,
       "titles": [
         {
-          "title": "龙头6天4板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2320337",
+          "title": "加息真要来了？三年未见之变局：美债“宣战”美联储利率天花板",
+          "url": "https://www.cls.cn/detail/2320841",
           "source": "财联社热门",
           "ranks": [
-            8
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时13分 ~ 13时15分]"
+          "time_info": "[13时48分 ~ 13时50分]"
+        },
+        {
+          "title": "花旗：美联储不太可能因油价冲击加息",
+          "url": "https://www.toutiao.com/trending/7620294400437915142/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 13时50分]"
         }
       ]
     },
     {
-      "keyword_group": "美股 纳斯达克 道琼斯 标普500",
-      "match_count": 1,
+      "keyword_group": "制造业 工业",
+      "match_count": 2,
       "titles": [
         {
-          "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
-          "url": "https://www.cls.cn/detail/2320209",
-          "source": "财联社热门",
+          "title": "央视曝光：活鱼被人为麻醉流向餐桌，可能“喝过”工业酒精",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32812206",
+          "source": "澎湃新闻",
           "ranks": [
-            9
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时13分 ~ 13时15分]"
+          "time_info": "[13时48分 ~ 13时50分]"
+        },
+        {
+          "title": "央视财经调查：有商户用工业酒精麻醉活鱼，市场管理人员视而不见",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32811621",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 13时50分]"
         }
       ]
     },
@@ -397,32 +518,49 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "华为发布新一代算力芯片昇腾950PR",
-          "url": "https://wallstreetcn.com/livenews/3074466",
+          "title": "马斯克官宣开建史上最大芯片厂：年产能目标为现有全球产能50倍，80%将直接服务太空任务",
+          "url": "https://wallstreetcn.com/articles/3768085",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 13时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "并购 收购 重组",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "紫金矿业回应并购赤峰黄金：黄金进一步上涨的逻辑没有变化",
+          "url": "https://wallstreetcn.com/livenews/3074835",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时15分"
+          "time_info": "13时50分"
         }
       ]
     },
     {
-      "keyword_group": "IPO 上市",
+      "keyword_group": "财报 业绩",
       "match_count": 1,
       "titles": [
         {
-          "title": "比亚迪ATTO 3 Evo英国上市",
-          "url": "https://www.toutiao.com/trending/7619209796944773170/",
-          "source": "今日头条",
+          "title": "本周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
+          "url": "https://wallstreetcn.com/articles/3768072",
+          "source": "华尔街见闻",
           "ranks": [
-            16
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时13分 ~ 13时15分]"
+          "time_info": "[13时48分 ~ 13时50分]"
         }
       ]
     },
@@ -431,15 +569,49 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "西安警方通报非法营运车辆司机与乘客发生冲突，司机被刑拘",
-          "url": "https://news.ifeng.com/c/8rhHCHXQOGP",
-          "source": "凤凰网",
+          "title": "中东冲突的分歧与推演",
+          "url": "https://wallstreetcn.com/articles/3768095",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时13分 ~ 13时15分]"
+          "time_info": "[13时48分 ~ 13时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为 苹果 特斯拉 微软 谷歌",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特斯拉为什么不抢占 40-60 区间的电车市场？",
+          "url": "https://www.zhihu.com/question/1953138286450157007",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 13时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房地产 房价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "房价环比止跌城市数量创新高",
+          "url": "https://www.toutiao.com/trending/7620244698896010771/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 13时50分]"
         }
       ]
     },
@@ -448,15 +620,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "【早报】金融法草案向社会公开征求意见；关于霍尔木兹海峡通行，伊朗表态",
-          "url": "https://www.cls.cn/detail/2320219",
-          "source": "财联社热门",
+          "title": "世界银行运营常务副行长：及早投资于人，将年轻劳动力与生产性工作连接",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32810846",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时13分 ~ 13时15分]"
+          "time_info": "[13时48分 ~ 13时50分]"
         }
       ]
     }
