@@ -1,300 +1,301 @@
 {
-  "generated_at": "2026-03-29T13:56:34.139425+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-30T14:20:54.236112+08:00",
+  "total_titles_processed": 316,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "人工智能 AI ChatGPT GPT 大模型",
-      "match_count": 9,
+      "keyword_group": "监管 政策",
+      "match_count": 5,
       "titles": [
+        {
+          "title": "欧洲航空安全监管机构负责人警告称，因冲突导致可用空域收窄，相关风险正在上升。我们有能力降低航空风险。",
+          "url": "https://flash.jin10.com/detail/20260330140050723800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
+          "title": "标普：对日本长期评级的展望反映了我们的观点，即尽管存在地缘政治发展的风险，名义GDP和收入增长仍将保持韧性。 随着美日达成协议，美国关税政策的不确定性可能会显著减弱。 考虑到日本拥有约八个月的大规模石油储备，我们认为日本具有抵御供应短缺的能力。",
+          "url": "https://wallstreetcn.com/livenews/3078989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
+          "title": "市场监管总局：推动研究制定《禁止网络不正当竞争条例》",
+          "url": "https://wallstreetcn.com/livenews/3078976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
+          "title": "市场监管总局：防治大型企业等经营者拖欠中小企业账款",
+          "url": "https://wallstreetcn.com/livenews/3078973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
+          "title": "标普：美日达成协议后，美国关税政策的不确定性有望大幅缓解。",
+          "url": "https://flash.jin10.com/detail/20260330133802635800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI ChatGPT GPT 大模型",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "AI勇闯二游圈,引爆米库论战",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
+        },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
+          "time_info": "[14时19分 ~ 14时20分]"
         },
         {
-          "title": "华为盘古大模型负责人王云鹤离职，投身 Agent 创业，前景如何？他的离职对华为大模型发展影响有多大？",
-          "url": "https://www.zhihu.com/question/2021268908196325196",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
-        },
-        {
-          "title": "王兴兴定义具身智能“GPT时刻”：带机器人到陌生场景，语音指令完成80%以上任务",
-          "url": "https://flash.jin10.com/detail/20260329134244688800",
+          "title": "阿里达摩院与东软医疗达成战略合作 推动多癌早筛AI普及",
+          "url": "https://flash.jin10.com/detail/20260330140530245800",
           "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
-          "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32852314",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
-        },
-        {
-          "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
-          "url": "https://www.cls.cn/detail/2327720",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
-        },
-        {
-          "title": "AI神游!原神现六指派蒙",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352454&amp;topic_name=AI%E7%A5%9E%E6%B8%B8%21%E5%8E%9F%E7%A5%9E%E7%8E%B0%E5%85%AD%E6%8C%87%E6%B4%BE%E8%92%99",
-          "source": "贴吧",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
-        },
-        {
-          "title": "一行代码破甲,AI水军现原形",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352439&amp;topic_name=%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E7%A0%B4%E7%94%B2%2CAI%E6%B0%B4%E5%86%9B%E7%8E%B0%E5%8E%9F%E5%BD%A2",
-          "source": "贴吧",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
-        },
-        {
-          "title": "假赛挨重拳,naiyou终身禁赛",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352430&amp;topic_name=%E5%81%87%E8%B5%9B%E6%8C%A8%E9%87%8D%E6%8B%B3%2Cnaiyou%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
-        },
-        {
-          "title": "上海人工智能实验室联合相关主体启动“超智融合算力”平台",
-          "url": "https://wallstreetcn.com/livenews/3078656",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "监管 政策",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "国务院食安办、市场监管总局约谈315晚会曝光问题地方政府负责人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32851798",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
+          "time_info": "14时20分"
         },
         {
-          "title": "广东省市场监管局联合广州市市场监管局召开平台企业座谈会",
-          "url": "https://wallstreetcn.com/livenews/3078661",
+          "title": "市场监管总局：平衡好数据保护和数据利用的关系，加大对人工智能等新兴产业的保护力度",
+          "url": "https://wallstreetcn.com/livenews/3078972",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
-          "title": "“首发上海” 4.0版政策出炉，将加大资金支持",
-          "url": "https://wallstreetcn.com/livenews/3078626",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时56分"
+          "time_info": "14时20分"
         }
       ]
     },
     {
-      "keyword_group": "黄金 金价",
-      "match_count": 3,
+      "keyword_group": "央行 货币政策 降息 降准 加息",
+      "match_count": 4,
       "titles": [
         {
-          "title": "黄金逼近熊市之际，抄底大军来了！",
-          "url": "https://wallstreetcn.com/articles/3768650",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
-        },
-        {
-          "title": "中国黄金集团与山东黄金集团举行工作会商",
-          "url": "https://wallstreetcn.com/livenews/3078644",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
-          "title": "为何说土耳其抛黄金恰是黄金价值的反向确认？",
-          "url": "https://flash.jin10.com/detail/20260329120007037800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 纳斯达克 道琼斯 标普500",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
-          "url": "https://www.cls.cn/detail/2327695",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
-        },
-        {
-          "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
-          "url": "https://wallstreetcn.com/articles/3768658",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片 半导体 集成电路",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中东战火下半导体供应链受阻：氦气之外 这些光刻工艺材料也受影响",
-          "url": "https://www.cls.cn/detail/2327729",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
-        },
-        {
-          "title": "天成半导体成功研制14英寸碳化硅单晶材料",
-          "url": "https://flash.jin10.com/detail/20260329121243205800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 电动汽车 电动车",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "不只便宜还高档，中国电动车在美国越来越受欢迎了",
-          "url": "https://wallstreetcn.com/articles/3768646",
+          "title": "鸽派带头“转鹰”，美联储高官暗示“降息或已结束”，但“加息概率不大”",
+          "url": "https://wallstreetcn.com/articles/3768681",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
+          "time_info": "[14时19分 ~ 14时20分]"
         },
         {
-          "title": "新能源车充电涨价因用油发电系谣言",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%85%85%E7%94%B5%E6%B6%A8%E4%BB%B7%E5%9B%A0%E7%94%A8%E6%B2%B9%E5%8F%91%E7%94%B5%E7%B3%BB%E8%B0%A3%E8%A8%80",
-          "source": "百度热搜",
+          "title": "油价重压叠加热点局势 日本4月加息呼声渐强",
+          "url": "https://flash.jin10.com/detail/20260330135446466800",
+          "source": "金十数据",
           "ranks": [
-            11
+            14
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
+          "title": "西太平洋银行：预测澳洲联储年内三度加息",
+          "url": "https://flash.jin10.com/detail/20260330133745410800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
+          "title": "汇丰：能源价格与加息双重重压 澳大利亚或陷技术性衰退",
+          "url": "https://flash.jin10.com/detail/20260330133636983800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         }
       ]
     },
     {
-      "keyword_group": "华为 苹果 特斯拉 微软 谷歌",
-      "match_count": 2,
+      "keyword_group": "美股 纳斯达克 道琼斯 标普500",
+      "match_count": 3,
       "titles": [
         {
-          "title": "谷歌称可节省 6 倍内存的 TurboQuant 论文疑似造假，RaBitQ 作者独家发文",
-          "url": "https://zhuanlan.zhihu.com/p/2020969476166808284",
-          "source": "知乎",
+          "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
+          "url": "https://wallstreetcn.com/articles/3768688",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
+        },
+        {
+          "title": "中东局势升级，韩股重挫近5%，美股期货续跌跌势，油价破115美元、铝价上涨5%",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
+          "time_info": "[14时19分 ~ 14时20分]"
         },
         {
-          "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
-          "url": "https://www.zhihu.com/question/2021000785224287940",
-          "source": "知乎",
+          "title": "标普500指数期货收复失地，转为涨跌持平。",
+          "url": "https://wallstreetcn.com/livenews/3078962",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 电动汽车 电动车",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "新能源车充电涨价因用油发电系谣言",
+          "url": "https://www.toutiao.com/trending/7621733228176834569/",
+          "source": "今日头条",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
+          "time_info": "[14时19分 ~ 14时20分]"
+        },
+        {
+          "title": "电动车要涨价涨幅200到300元",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%A6%81%E6%B6%A8%E4%BB%B7%E6%B6%A8%E5%B9%85200%E5%88%B0300%E5%85%83%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
+        },
+        {
+          "title": "市场监管总局：着力防治平台经济、光伏、锂电池、新能源汽车等重点行业和领域“内卷式”竞争",
+          "url": "https://wallstreetcn.com/livenews/3078970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "地缘政治 冲突",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "掘金勇士冲突",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%8E%98%E9%87%91%E5%8B%87%E5%A3%AB%E5%86%B2%E7%AA%81%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
+        },
+        {
+          "title": "标普：对日本长期评级的展望反映出，尽管地缘政治局势带来风险，日本名义GDP和税收收入增长仍将保持韧性。",
+          "url": "https://flash.jin10.com/detail/20260330133748279800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "原油 石油",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "特朗普：想要“夺取”伊朗石油，不排除占领哈尔克岛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32860074",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
+        },
+        {
+          "title": "标普：鉴于日本拥有约八个月用量的庞大石油储备，相信日本有充足能力抵御供应短缺。",
+          "url": "https://flash.jin10.com/detail/20260330133818823800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         }
       ]
     },
@@ -303,49 +304,100 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "龙头15天8板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2327820",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 货币政策 降息 降准 加息",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【早报】美国总统特使预计本周将与伊朗举行会谈；央行召开2026年金融稳定工作会议",
-          "url": "https://www.cls.cn/detail/2327698",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "地缘政治 冲突",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "联合国敦促也门胡塞武装停止进一步卷入地区冲突",
-          "url": "https://flash.jin10.com/detail/20260329130938083800",
+          "title": "A股卫星导航板块震荡上行，广联航空、天力复合、超捷股份均涨超13%，长江通信、神剑股份此前涨停，西部材料涨超8%。",
+          "url": "https://flash.jin10.com/detail/20260330134642994800",
           "source": "金十数据",
           "ranks": [
-            13
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时56分"
+          "time_info": "14时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "港股 恒生指数",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "港股开盘恒生指数跌1.68%",
+          "url": "https://www.douyin.com/hot/2448265",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金 金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美银Hartnett：还没看到“抄底信号”，如何理解黄金在内的“抄底交易”？",
+          "url": "https://wallstreetcn.com/articles/3768667",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为 苹果 特斯拉 微软 谷歌",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "新算法公布,谷歌干崩股市",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352482&amp;topic_name=%E6%96%B0%E7%AE%97%E6%B3%95%E5%85%AC%E5%B8%83%2C%E8%B0%B7%E6%AD%8C%E5%B9%B2%E5%B4%A9%E8%82%A1%E5%B8%82",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "制造业 工业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国产摩托车夺冠背后的工业奇迹",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7%E6%91%A9%E6%89%98%E8%BD%A6%E5%A4%BA%E5%86%A0%E8%83%8C%E5%90%8E%E7%9A%84%E5%B7%A5%E4%B8%9A%E5%A5%87%E8%BF%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金融 银行",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "邮储银行行长芦苇：着力推动息差尽快企稳",
+          "url": "https://wallstreetcn.com/livenews/3078968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         }
       ]
     }
