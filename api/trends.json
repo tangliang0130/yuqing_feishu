@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T14:15:31.762453+08:00",
-  "total_titles_processed": 316,
+  "generated_at": "2026-04-02T13:54:07.864295+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
@@ -8,365 +8,483 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "OpenAI完成1220亿美元融资 美法官叫停白宫宴会厅改造项目 | 环球市场",
-          "url": "https://www.cls.cn/detail/2331334",
-          "source": "财联社热门",
+          "title": "我的专业真被AI取代了吗",
+          "url": "https://www.baidu.com/s?wd=%E6%88%91%E7%9A%84%E4%B8%93%E4%B8%9A%E7%9C%9F%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E4%BA%86%E5%90%97",
+          "source": "百度热搜",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时14分 ~ 14时15分]"
+          "time_info": "[13时52分 ~ 13时54分]"
         },
         {
-          "title": "借助AI监控伊朗高官后“定点清除”：以色列如何替美国“干脏活”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865901",
-          "source": "澎湃新闻",
+          "title": "有了 AI 之后，遇到问题忍不住想找 AI 帮忙，长期这样下去会不会丧失思考能力？",
+          "url": "https://www.zhihu.com/question/2020209448975607009",
+          "source": "知乎",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时14分 ~ 14时15分]"
+          "time_info": "[13时52分 ~ 13时54分]"
         },
         {
-          "title": "创纪录！OpenAI完成1220亿美元融资 投后估值达8520亿美元",
-          "url": "https://www.cls.cn/detail/2331423",
-          "source": "财联社热门",
+          "title": "男子利用AI编造谣言获刑6个月",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%88%A9%E7%94%A8AI%E7%BC%96%E9%80%A0%E8%B0%A3%E8%A8%80%E8%8E%B7%E5%88%916%E4%B8%AA%E6%9C%88",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 13时54分]"
+        },
+        {
+          "title": "图解OpenAI债务危机",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E8%A7%A3OpenAI%E5%80%BA%E5%8A%A1%E5%8D%B1%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 13时54分]"
+        },
+        {
+          "title": "Sora退出 可灵AI周度活跃用户环比增长",
+          "url": "https://flash.jin10.com/detail/20260402132833065800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "千问AI眼镜上线充值话费、扫码骑车、点外卖等AI能力",
+          "url": "https://wallstreetcn.com/livenews/3081325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金 金价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "特朗普讲话结束，布油涨4%，黄金一度跌超3%，全球股市走低",
+          "url": "https://wallstreetcn.com/articles/3769052",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时14分 ~ 14时15分]"
+          "time_info": "[13时52分 ~ 13时54分]"
         },
         {
-          "title": "甲骨文启动新一轮大规模裁员，AI数据中心投入持续加码",
-          "url": "https://www.cls.cn/detail/2331293",
-          "source": "财联社热门",
+          "title": "金价瀑布式下跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%80%91%E5%B8%83%E5%BC%8F%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
           "ranks": [
-            12
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时14分 ~ 14时15分]"
+          "time_info": "[13时52分 ~ 13时54分]"
         },
         {
-          "title": "凌晨3点上班,AI卷疯打工人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时14分 ~ 14时15分]"
-        },
-        {
-          "title": "功勋翻译下岗,AI包揽游戏翻译",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352562&amp;topic_name=%E5%8A%9F%E5%8B%8B%E7%BF%BB%E8%AF%91%E4%B8%8B%E5%B2%97%2CAI%E5%8C%85%E6%8F%BD%E6%B8%B8%E6%88%8F%E7%BF%BB%E8%AF%91",
-          "source": "贴吧",
+          "title": "黄金",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=25&Refer=top",
+          "source": "微博",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时14分 ~ 14时15分]"
+          "time_info": "[13时52分 ~ 13时54分]"
+        },
+        {
+          "title": "黄金被流动性冲击“错杀”？渣打预言：金价将重现升势并再破纪录",
+          "url": "https://flash.jin10.com/detail/20260402133750227800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "现货白银日内跌幅达5.5%，报70.92美元/盎司。 现货黄金跌破4650美元，日内跌近2.5%。 上期所沪银主力合约大跌5%，报17730元/千克。",
+          "url": "https://wallstreetcn.com/livenews/3081343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
         }
       ]
     },
     {
-      "keyword_group": "原油 石油",
-      "match_count": 6,
+      "keyword_group": "金融 银行",
+      "match_count": 5,
       "titles": [
         {
-          "title": "俄10万吨石油抵达古巴，特朗普：没有任何意见",
-          "url": "https://news.ifeng.com/c/8rxB6hK0gY7",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时14分 ~ 14时15分]"
-        },
-        {
-          "title": "布伦特原油转跌，下破102美元/桶，最低至101.78美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260401135030729800",
-          "source": "金十数据",
+          "title": "多家银行下调部分存款挂牌利率",
+          "url": "https://www.toutiao.com/trending/7623785096319746084/",
+          "source": "今日头条",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 13时54分]"
         },
         {
-          "title": "布伦特原油日内跌幅达0.5%，报103.34美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3080643",
+          "title": "多家银行4月起下调存款利率",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C4%E6%9C%88%E8%B5%B7%E4%B8%8B%E8%B0%83%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 13时54分]"
+        },
+        {
+          "title": "银行回应老人存10万变7万",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%93%B6%E8%A1%8C%E5%9B%9E%E5%BA%94%E8%80%81%E4%BA%BA%E5%AD%9810%E4%B8%87%E5%8F%987%E4%B8%87%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 13时54分]"
+        },
+        {
+          "title": "伯克希尔在市场波动之际聘请银行安排日元债券发行",
+          "url": "https://wallstreetcn.com/livenews/3081337",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时15分"
+          "time_info": "13时54分"
         },
         {
-          "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
-          "url": "https://wallstreetcn.com/articles/3768886",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时14分 ~ 14时15分]"
-        },
-        {
-          "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32867877",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时14分 ~ 14时15分]"
-        },
-        {
-          "title": "SC原油主力合约日内跌超9%，现报681.1元/桶。燃油主力合约日内大跌6%，现报4232元/吨。低硫燃料油（LU）主力合约日内大跌4%，现报4940元/吨。",
-          "url": "https://flash.jin10.com/detail/20260401133318031800",
+          "title": "市场消息：伯克希尔·哈撒韦公司聘请银行发行日元债券。",
+          "url": "https://flash.jin10.com/detail/20260402131534050800",
           "source": "金十数据",
           "ranks": [
-            16
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时15分"
+          "time_info": "13时54分"
         }
       ]
     },
     {
       "keyword_group": "A股 上证指数 深证成指 创业板",
-      "match_count": 5,
+      "match_count": 4,
       "titles": [
         {
-          "title": "A股电力板块持续下挫，惠天热电、华电辽能触及跌停，深南电A、中闽能源逼近跌停，东方新能、拓日新能跟跌。",
-          "url": "https://wallstreetcn.com/livenews/3080634",
+          "title": "A股医药产业链持续走强，济民健康、合富中国涨停，此前津药药业、益佰制药、北大医药涨停，华人健康、百洋医药、漱玉平民、建发致新、人民同泰等多股涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3081352",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时15分"
+          "time_info": "13时54分"
         },
         {
-          "title": "A股机器人概念股走势活跃，科森科技午后涨停，瑞迪智驱涨超10%，震裕科技、绿的谐波、上纬新材、道通科技涨超6%。",
-          "url": "https://wallstreetcn.com/livenews/3080633",
+          "title": "A股油气股午后再度拉升，科力股份涨超10%，此前中油工程、贝肯能源、蓝焰控股、康普顿涨停，科力股份涨超10%，山东墨龙、通源石油、中曼石油、准油股份、洲际油气等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3081335",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时15分"
+          "time_info": "13时54分"
         },
         {
-          "title": "A股高铁轨交板块持续调整，交大铁发跌超9%，通业科技、日月明、金鹰重工、中铁工业、雷尔伟跌逾5%。",
-          "url": "https://wallstreetcn.com/livenews/3080627",
+          "title": "A股军工板块异动拉升，北方长龙涨超7%，湖南天雁、建设工业、长城军工、捷强装备等纷纷冲高。",
+          "url": "https://wallstreetcn.com/livenews/3081326",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时15分"
-        },
-        {
-          "title": "A股算力硬件概念午后走强，智立方20cm涨停，永鼎股份、天孚通信均涨超9%，长光华芯、德科立、源杰科技跟涨。",
-          "url": "https://flash.jin10.com/detail/20260401133111208800",
-          "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时15分"
+          "time_info": "13时54分"
         },
         {
-          "title": "A股电力板块震荡走低，惠天热电跌停，中闽能源跌超9%，华电辽能跌超8%，深南电A、东方新能、拓日新能跟跌。",
-          "url": "https://flash.jin10.com/detail/20260401132616997800",
-          "source": "金十数据",
+          "title": "创业板指跌超2%，深成指跌1.3%，沪指跌0.7%。全市场下跌个股超4300只。",
+          "url": "https://wallstreetcn.com/livenews/3081323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "原油 石油",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "快速停火期望破灭？特朗普演讲震动市场：原油、美元齐涨 亚太股市转跌",
+          "url": "https://www.cls.cn/detail/2332994",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 13时54分]"
+        },
+        {
+          "title": "日企闹笑话,空气加水造石油",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352658&amp;topic_name=%E6%97%A5%E4%BC%81%E9%97%B9%E7%AC%91%E8%AF%9D%2C%E7%A9%BA%E6%B0%94%E5%8A%A0%E6%B0%B4%E9%80%A0%E7%9F%B3%E6%B2%B9",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 13时54分]"
+        },
+        {
+          "title": "特朗普鼓动去霍尔木兹抢石油",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%BC%93%E5%8A%A8%E5%8E%BB%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%8A%A2%E7%9F%B3%E6%B2%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 13时54分]"
+        },
+        {
+          "title": "特朗普再次鼓动各国去霍尔木兹海峡“抢石油”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32877139",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 13时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "IPO 上市",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "史上最大IPO要来了！马斯克旗下SpaceX据悉已递交上市申请",
+          "url": "https://www.cls.cn/detail/2332689",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 13时54分]"
+        },
+        {
+          "title": "礼来重磅口服减肥药获批上市 股价盘中大涨逾5%",
+          "url": "https://www.cls.cn/detail/2332675",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 13时54分]"
+        },
+        {
+          "title": "礼来口服GLP-1减肥药在美获批上市 已提交中国上市礼来口服GLP-1减肥药在美获批上市 已提交中国上市申请",
+          "url": "https://wallstreetcn.com/livenews/3081312",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时15分"
+          "time_info": "13时54分"
         }
       ]
     },
     {
-      "keyword_group": "美股 纳斯达克 道琼斯 标普500",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
-          "url": "https://wallstreetcn.com/articles/3768819",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时14分 ~ 14时15分]"
-        },
-        {
-          "title": "【早报】伊朗总统：愿在诉求满足前提下结束战争；美股大涨，科技股、中概股大幅走强",
-          "url": "https://www.cls.cn/detail/2331350",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时14分 ~ 14时15分]"
-        },
-        {
-          "title": "美股收盘：美伊均释放冲突缓和言论 道指飙升逾1100点 纳指涨3.8%",
-          "url": "https://www.cls.cn/detail/2331315",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时14分 ~ 14时15分]"
-        },
-        {
-          "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
-          "url": "https://wallstreetcn.com/articles/3768902",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时14分 ~ 14时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "华为 苹果 特斯拉 微软 谷歌",
+      "keyword_group": "央行 货币政策 降息 降准 加息",
       "match_count": 3,
       "titles": [
         {
-          "title": "拉普拉斯午后涨幅缩窄至8%，此前回应“中标特斯拉光伏项目第二期”传闻：截至目前公司并未取得相关订单。",
-          "url": "https://wallstreetcn.com/livenews/3080623",
-          "source": "华尔街见闻-快讯",
+          "title": "多国央行大幅减持美债",
+          "url": "https://www.douyin.com/hot/2452076",
+          "source": "抖音",
           "ranks": [
-            18
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 13时54分]"
         },
         {
-          "title": "拉普拉斯回应“中标特斯拉光伏项目第二期”传闻：截至目前公司并未取得相关订单",
-          "url": "https://wallstreetcn.com/livenews/3080615",
-          "source": "华尔街见闻-快讯",
+          "title": "“滞胀”来袭！美银：美联储今年料降息50基点 油价全年维持100美元",
+          "url": "https://www.cls.cn/detail/2332777",
+          "source": "财联社热门",
           "ranks": [
-            24
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 13时54分]"
         },
         {
-          "title": "原特斯拉中国区总经理孔艳双已入职小米，将接替原小米汽车总监李晓锐负责汽车销售方面工作。（界面）",
-          "url": "https://wallstreetcn.com/livenews/3080607",
+          "title": "中国金融时报：央行连续两日地量操作，不改资金面宽松态势",
+          "url": "https://wallstreetcn.com/livenews/3081308",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时15分"
+          "time_info": "13时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 纳斯达克 道琼斯 标普500",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
+          "url": "https://wallstreetcn.com/articles/3768936",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 13时54分]"
+        },
+        {
+          "title": "美股收盘：投资者聚焦特朗普重要讲话 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2332707",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 13时54分]"
         }
       ]
     },
     {
       "keyword_group": "港股 恒生指数",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "港股汽车股午后走强，蔚来、岚图汽车涨超10%，零跑汽车涨超6%。",
-          "url": "https://wallstreetcn.com/livenews/3080631",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时15分"
-        },
-        {
-          "title": "港股人工智能板块午后冲高，智谱(02513.HK)涨近30%，MINIMAX-W(00100.HK)涨超16%，兆易创新(03986.HK)涨超8%，哔哩哔哩(09626.HK)涨超7%，百度(09888.HK)涨超5%。",
-          "url": "https://flash.jin10.com/detail/20260401132954043800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金融 银行",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谭案说法｜爆雷养老机构的“五步圈钱”法，何以骗过民政部门、银行和集资人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32867102",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时14分 ~ 14时15分]"
-        },
-        {
-          "title": "惠誉：随着流动性收紧，越南银行业面临利润率压力。",
-          "url": "https://flash.jin10.com/detail/20260401134214769800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "地缘政治 冲突",
       "match_count": 1,
       "titles": [
         {
-          "title": "高盛：若中东冲突升级并加剧西方财政担忧，黄金将冲击6100美元！",
-          "url": "https://wallstreetcn.com/articles/3768856",
-          "source": "华尔街见闻",
+          "title": "恒生指数跌破25000点，日内跌幅扩大至1.17%。",
+          "url": "https://wallstreetcn.com/livenews/3081327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "并购 收购 重组",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "商业航天竞争加剧：亚马逊计划收购卫星公司 以与SpaceX星链竞争",
+          "url": "https://www.cls.cn/detail/2332935",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时14分 ~ 14时15分]"
+          "time_info": "[13时52分 ~ 13时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为 苹果 特斯拉 微软 谷歌",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "重金押注研发,华为持续加码",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352676&amp;topic_name=%E9%87%8D%E9%87%91%E6%8A%BC%E6%B3%A8%E7%A0%94%E5%8F%91%2C%E5%8D%8E%E4%B8%BA%E6%8C%81%E7%BB%AD%E5%8A%A0%E7%A0%81",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 13时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "制造业 工业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "印度3月制造业PMI终值 53.9，初值 53.8。",
+          "url": "https://wallstreetcn.com/livenews/3081319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "破产 裁员",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待甲骨文被曝凌晨 6 点突然裁员 3 万人？上季度其净利润刚暴涨 95%，为啥此时会大规模裁人？",
+          "url": "https://www.zhihu.com/question/2022645720885327267",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 13时54分]"
         }
       ]
     }
