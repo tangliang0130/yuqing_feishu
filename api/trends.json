@@ -1,178 +1,305 @@
 {
-  "generated_at": "2026-04-05T13:57:53.759551+08:00",
+  "generated_at": "2026-04-06T14:20:24.599879+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "人工智能 AI ChatGPT GPT 大模型",
-      "match_count": 4,
+      "keyword_group": "央行 货币政策 降息 降准 加息",
+      "match_count": 7,
       "titles": [
         {
-          "title": "夫妻AI写公众号年赚200万",
-          "url": "https://s.weibo.com/weibo?q=%E5%A4%AB%E5%A6%BBAI%E5%86%99%E5%85%AC%E4%BC%97%E5%8F%B7%E5%B9%B4%E8%B5%9A200%E4%B8%87&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时56分 ~ 13时57分]"
-        },
-        {
-          "title": "Space X并购xAI目的何在",
-          "url": "https://search.bilibili.com/all?keyword=Space%20X%E5%B9%B6%E8%B4%ADxAI%E7%9B%AE%E7%9A%84%E4%BD%95%E5%9C%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时56分 ~ 13时57分]"
-        },
-        {
-          "title": "易烊千玺遭AI短剧“盗脸”牟利，平台方已下架相关产品",
-          "url": "https://wallstreetcn.com/livenews/3082550",
+          "title": "日本央行在季度报告中维持对全部9个地区的评估不变。 部分地区表示，中东冲突的影响已经通过油价飙升和供应中断显现出来。 部分地区担忧能源价格上涨和通胀会带来更广泛的供应链中断风险，并损害家庭及企业的信心。 许多地区表示，包括小型企业在内的公司，在2026财年的工资上调幅度可能会接近去年的水平。 部分地区表示，受中东局势发展影响，企业在加薪方面可能会变得谨慎。 许多地区表示，公司仍在继续转嫁不断上涨的劳动力及物流成本。 部分地区表示，受近期日元走软及油价飙升影响，已有企业正在酝酿或宣布提价。",
+          "url": "https://wallstreetcn.com/livenews/3082743",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时57分"
+          "time_info": "14时20分"
         },
         {
-          "title": "新型AI模型可通过血检识别多种神经退行性疾病",
-          "url": "https://wallstreetcn.com/livenews/3082524",
-          "source": "华尔街见闻-快讯",
+          "title": "日本央行官员：报告主要基于截至3月下旬对企业进行的访谈。",
+          "url": "https://flash.jin10.com/detail/20260406132107477800",
+          "source": "金十数据",
           "ranks": [
-            28
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时57分"
+          "time_info": "14时20分"
+        },
+        {
+          "title": "日本央行官员：担忧中东冲突未来影响的企业多于担忧当前直接影响的企业。",
+          "url": "https://flash.jin10.com/detail/20260406131837685800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
+          "title": "日本央行：多地表示企业继续转嫁不断上涨的劳动力和分销成本。",
+          "url": "https://flash.jin10.com/detail/20260406130422975800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
+          "title": "日本央行：部分地区担忧能源价格上涨和通胀加剧将引发更广泛的供应中断，并损害家庭和企业信心。",
+          "url": "https://flash.jin10.com/detail/20260406130312761800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
+          "title": "日本央行：一些地区表示，中东冲突的影响已通过油价飙升和供应中断显现出来。",
+          "url": "https://flash.jin10.com/detail/20260406130308964800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
+          "title": "日本央行在季度报告中维持对日本9个地区的评估。",
+          "url": "https://flash.jin10.com/detail/20260406130029375800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI ChatGPT GPT 大模型",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "最刺激的“调研”？“网红AI研究机构”：公开数据漏报了50%霍尔木兹真实通行量",
+          "url": "https://wallstreetcn.com/articles/3769308",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
+        },
+        {
+          "title": "妈妈不知儿子去世跟 AI 儿子聊了 1 年，AI「复活」逝者的服务有伦理风险吗？如果是你，会更愿意知道真相吗？",
+          "url": "https://www.zhihu.com/question/2024413032667772670",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
+        },
+        {
+          "title": "母亲不知儿子去世跟AI儿子聊了1年",
+          "url": "https://www.toutiao.com/trending/7625239644062023743/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
+        },
+        {
+          "title": "澎湃AI晚新闻丨2026年4月5日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32909915",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
+        },
+        {
+          "title": "妈妈不知儿子去世 跟AI儿子聊了1年",
+          "url": "https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E4%B8%8D%E7%9F%A5%E5%84%BF%E5%AD%90%E5%8E%BB%E4%B8%96+%E8%B7%9FAI%E5%84%BF%E5%AD%90%E8%81%8A%E4%BA%861%E5%B9%B4",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
+        },
+        {
+          "title": "中国AI大模型调用量环比增逾31%，连续五周超越美国",
+          "url": "https://wallstreetcn.com/livenews/3082722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         }
       ]
     },
     {
       "keyword_group": "A股 上证指数 深证成指 创业板",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
-          "title": "【早报】消费领域，多个利好来袭；多家A股公司被证监会立案",
-          "url": "https://www.cls.cn/detail/2335221",
+          "title": "应声20CM涨停！A股一季报行情打响，12家上市公司净利最高同比预增超200%",
+          "url": "https://www.cls.cn/detail/2335507",
           "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时56分 ~ 13时57分]"
+          "time_info": "[14时19分 ~ 14时20分]"
         },
         {
-          "title": "洪灝：黄金会继续下跌，之后向上，可以翻倍，但不是今年；A股可能继续跌到3800，之后上涨",
-          "url": "https://wallstreetcn.com/articles/3769263",
-          "source": "华尔街见闻",
+          "title": "【早报】消费领域，多个利好来袭；多家A股公司被证监会立案",
+          "url": "https://www.cls.cn/detail/2335221",
+          "source": "财联社热门",
           "ranks": [
-            7
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时56分 ~ 13时57分]"
+          "time_info": "[14时19分 ~ 14时20分]"
         },
         {
           "title": "盘中创历史新高A股名单一览：长飞光纤、亨通光电等多只光纤概念股在列",
           "url": "https://www.cls.cn/detail/2335367",
           "source": "财联社热门",
           "ranks": [
-            11
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时56分 ~ 13时57分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股 恒生指数",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "陈茂波：3月港股日均成交额超3000亿港元，同比增加逾8%",
-          "url": "https://flash.jin10.com/detail/20260405113406239800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
+          "time_info": "[14时19分 ~ 14时20分]"
         },
         {
-          "title": "陈茂波：3月港股日均成交额超3000亿港元，同比增加逾8%",
-          "url": "https://wallstreetcn.com/livenews/3082533",
-          "source": "华尔街见闻-快讯",
+          "title": "A股近期将有73.18亿股限售股解禁，总市值约1090.02亿元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32911415",
+          "source": "澎湃新闻",
           "ranks": [
-            20
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "IPO 上市",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "香港财政司司长陈茂波：目前轮候来港上市申请个案已超过500宗",
-          "url": "https://flash.jin10.com/detail/20260405112349132800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "香港财政司司长陈茂波：目前轮候来港上市申请个案已超过500宗",
-          "url": "https://wallstreetcn.com/livenews/3082528",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
         }
       ]
     },
     {
       "keyword_group": "原油 石油",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "沙特阿拉伯将5月份销往亚洲的阿拉伯轻质原油官方售价（OSP）设定为较阿曼/迪拜均价升水19.50美元/桶，较上月上调17美元。这低于彭博社调查中交易员和炼油商预期的每桶40美元溢价。",
+          "url": "https://wallstreetcn.com/livenews/3082745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
+          "title": "美媒警告美石油产量难以弥补当前缺口",
+          "url": "https://www.toutiao.com/trending/7625464964748152374/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
+        },
+        {
+          "title": "时隔七年印度首次宣布购买伊朗原油，并称支付无障碍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32908682",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "监管 政策",
       "match_count": 2,
       "titles": [
         {
-          "title": "国际能源署署长：霍尔木兹海峡持续关闭，4月原油及成品油损失将翻倍",
-          "url": "https://flash.jin10.com/detail/20260405111244673800",
+          "title": "市场监管总局部署清明假期及近期安全生产工作",
+          "url": "https://flash.jin10.com/detail/20260406133429587800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
+          "title": "银河证券：3月民航出行量维持增长，淡季不淡的特征有望在4月政策增量节点上延续",
+          "url": "https://wallstreetcn.com/livenews/3082740",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "贸易战 关税",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据韩联社：韩国产业通商资源部表示，美国修订金属关税可能给韩国各行业带来不均衡的影响，具体影响因产品而异。",
+          "url": "https://flash.jin10.com/detail/20260406134253445800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
+          "title": "特朗普怒斥高院：在关税和出生公民权问题上接连做出“糟糕决定”",
+          "url": "https://flash.jin10.com/detail/20260406125940934800",
           "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "韩国政府声明：韩国财政部长向海湾国家大使请求确保石油、液化天然气、石脑油和尿素的稳定供应。",
-          "url": "https://flash.jin10.com/detail/20260405110239625800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
+          "time_info": "14时20分"
         }
       ]
     },
@@ -181,54 +308,105 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "烧给祖宗的“黄金”卖断货了",
-          "url": "https://www.baidu.com/s?wd=%E7%83%A7%E7%BB%99%E7%A5%96%E5%AE%97%E7%9A%84%E2%80%9C%E9%BB%84%E9%87%91%E2%80%9D%E5%8D%96%E6%96%AD%E8%B4%A7%E4%BA%86",
+          "title": "土耳其两周狂抛近120吨黄金",
+          "url": "https://www.cls.cn/detail/2335361",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
+        },
+        {
+          "title": "泰国二月宝石出口下降29.32%，但黄金出口保持强劲",
+          "url": "https://flash.jin10.com/detail/20260406132445503800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为 苹果 特斯拉 微软 谷歌",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "北京警方紧急提醒苹果手机用户",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E8%AD%A6%E6%96%B9%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%94%A8%E6%88%B7",
           "source": "百度热搜",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时56分 ~ 13时57分]"
+          "time_info": "[14时19分 ~ 14时20分]"
         },
         {
-          "title": "土耳其两周狂抛近120吨黄金",
-          "url": "https://www.cls.cn/detail/2335361",
-          "source": "财联社热门",
+          "title": "微软谷歌争相与SK海力士洽谈DRAM“三年长约”，“打破惯例”引入底价保障及预付定金机制",
+          "url": "https://wallstreetcn.com/articles/3769294",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时56分 ~ 13时57分]"
+          "time_info": "[14时19分 ~ 14时20分]"
         }
       ]
     },
     {
-      "keyword_group": "金融 银行",
-      "match_count": 2,
+      "keyword_group": "美股 纳斯达克 道琼斯 标普500",
+      "match_count": 1,
       "titles": [
         {
-          "title": "客户投诉后银行员工登门要求“谈谈”",
-          "url": "https://www.toutiao.com/trending/7623989674906058806/",
-          "source": "今日头条",
+          "title": "美股期货转涨，纳斯达克100指数期货日内涨0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3082716",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            28
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时56分 ~ 13时57分]"
-        },
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "并购 收购 重组",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "诺和诺德CEO：减肥市场潜力巨大。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3082534",
+          "title": "Neurocrine即将达成一项斥资超过25亿美元收购Soleno Therapeutics的交易。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3082725",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时57分"
+          "time_info": "14时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "财报 业绩",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "本周重磅日程：特朗普再发“最后通牒”、中美通胀数据、三星与天孚通信业绩",
+          "url": "https://wallstreetcn.com/articles/3769257",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
         }
       ]
     },
@@ -237,32 +415,49 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "美国卫星影像供应商暂缓发布中东冲突地区卫星图像",
-          "url": "https://wallstreetcn.com/livenews/3082551",
-          "source": "华尔街见闻-快讯",
+          "title": "美伊冲突以来，卡塔尔LNG船首次尝试穿越霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260406132212398800",
+          "source": "金十数据",
           "ranks": [
-            5
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时57分"
+          "time_info": "14时20分"
         }
       ]
     },
     {
-      "keyword_group": "华为 苹果 特斯拉 微软 谷歌",
+      "keyword_group": "制造业 工业",
       "match_count": 1,
       "titles": [
         {
-          "title": "工信部紧急提醒苹果用户 iOS 13 至 17.2.1 有高危漏洞，或导致用户信息被窃取，该怎样应对？",
-          "url": "https://www.zhihu.com/question/2023674219897123334",
-          "source": "知乎",
+          "title": "阿布扎比媒体办公室：阿布扎比当局表示，防空拦截行动后，穆萨法工业区有碎片坠落，造成一人受伤。",
+          "url": "https://flash.jin10.com/detail/20260406122314480800",
+          "source": "金十数据",
           "ranks": [
-            5
+            30
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时56分 ~ 13时57分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金融 银行",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "欧盟官员正敦促各国政府避免提供过度补贴来抵消激增的能源价格。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3082729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         }
       ]
     }
