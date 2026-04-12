@@ -1,249 +1,210 @@
 {
-  "generated_at": "2026-04-11T13:20:44.661584+08:00",
-  "total_titles_processed": 316,
+  "generated_at": "2026-04-12T14:12:56.139501+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT GPT 大模型",
-      "match_count": 8,
+      "match_count": 7,
       "titles": [
         {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/3E_Vzh_i3rotK1w6yvq7f.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260411124514356800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "人工智能卖瓜",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8D%96%E7%93%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
-        },
-        {
-          "title": "OpenAI：发现涉及Axios的安全问题。 没有证据表明OpenAI用户数据被访问。",
-          "url": "https://wallstreetcn.com/livenews/3086151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "OpenAI：在第三方安全事件中，密码和OpenAI API密钥未受影响。",
-          "url": "https://flash.jin10.com/detail/20260411094848579800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "OpenAI：事件的根本原因是GitHub Actions工作流中的配置错误，已予以解决。",
-          "url": "https://flash.jin10.com/detail/20260411094831132800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "OpenAI：自5月8日起，较旧版本的macOS桌面应用程序将不再接收更新或支持，并且可能无法正常运行。",
-          "url": "https://flash.jin10.com/detail/20260411094803513800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "OpenAI就第三方库安全事件发布公告：未发现用户数据泄露或系统遭入侵",
-          "url": "https://flash.jin10.com/detail/20260411094510379800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "美国白宫针对未来即将面世的一系列AI模型协调网络响应。 白宫准备回应Anthropic与OpenAI的诸多模型。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3086136",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股 上证指数 深证成指 创业板",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "创业板第四套上市标准落地，哪些企业有望率先上市闯关？",
-          "url": "https://www.cls.cn/detail/2341159",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
-        },
-        {
-          "title": "【早报】证监会：增设创业板第四套上市标准；主板ST股涨跌幅拟调整为10%",
-          "url": "https://www.cls.cn/detail/2341141",
-          "source": "财联社热门",
+          "title": "顶尖大模型“能力突变”，算力需求“系统性超越供给”--大摩：“市场乐观的程度可能还不够”",
+          "url": "https://wallstreetcn.com/articles/3769750",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
+          "time_info": "[14时11分 ~ 14时12分]"
         },
         {
-          "title": "创业板暴涨近4%，动力电池领涨，光模块大涨、中际旭创创新高，港股中资券商集体爆发",
-          "url": "https://wallstreetcn.com/articles/3769646",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
-        },
-        {
-          "title": "证监会发布创业板改革意见，增设第四套上市标准",
-          "url": "https://wallstreetcn.com/articles/3769674",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
-        },
-        {
-          "title": "创业板交易端三大改革落地！事关做市商、实时大宗、ETF盘后交易",
-          "url": "https://www.cls.cn/detail/2341166",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 电动汽车 电动车",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "崔东树：3月的A00级电动车剧烈萎缩带来均价的上升，2026年销量增长压力较大",
-          "url": "https://flash.jin10.com/detail/20260411123801965800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "比亚迪与肯德基达成战略合作，这种打通点餐取餐和充电的「人补能 + 车补能」的新模式对新能源车主意味着什么？",
-          "url": "https://www.zhihu.com/question/2025584159024838298",
+          "title": "小米推出 MiMo 大模型订阅套餐，罗福莉称不想「贱卖」词元，将如何影响市场格局？",
+          "url": "https://www.zhihu.com/question/2025491195443311364",
           "source": "知乎",
           "ranks": [
-            14
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
+          "time_info": "[14时11分 ~ 14时12分]"
         },
         {
-          "title": "工信部原副部长苏波：2030年新能源汽车市场渗透率预计超过70%",
-          "url": "https://wallstreetcn.com/livenews/3086152",
-          "source": "华尔街见闻-快讯",
+          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
+          "url": "https://www.cls.cn/detail/2341199",
+          "source": "财联社热门",
           "ranks": [
-            16
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 14时12分]"
         },
         {
-          "title": "工信部原副部长苏波：2030年新能源汽车市场渗透率预计超过70%",
-          "url": "https://flash.jin10.com/detail/20260411095530130800",
+          "title": "公众号批量删除 AI 写作文章，新规则打击自动化方式的创作，这是怎么判断的？会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2025695905764962890",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 14时12分]"
+        },
+        {
+          "title": "让AI与AI互相聊天会聊出什么",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%A9AI%E4%B8%8EAI%E4%BA%92%E7%9B%B8%E8%81%8A%E5%A4%A9%E4%BC%9A%E8%81%8A%E5%87%BA%E4%BB%80%E4%B9%88",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 14时12分]"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/D4supSq6s7-gSzJkAz87N.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260412130705252800",
           "source": "金十数据",
           "ranks": [
-            22
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时20分"
+          "time_info": "14时12分"
+        },
+        {
+          "title": "马斯克：Grok要接近Claude Opus 4.6的水平，需要等到五月，而要达到甚至超越它则需等到六月。以常规标准来看，时间很短，但在人工智能领域，这已经算是很长时间了。",
+          "url": "https://wallstreetcn.com/livenews/3086308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         }
       ]
     },
     {
-      "keyword_group": "芯片 半导体 集成电路",
-      "match_count": 3,
+      "keyword_group": "监管 政策",
+      "match_count": 6,
       "titles": [
         {
-          "title": "美伊谈判前夕，标普终结七连阳，半导体撑纳指逆市收涨，原油微跌",
-          "url": "https://wallstreetcn.com/articles/3769671",
+          "title": "中央台办受权发布十项促进两岸交流合作的政策措施",
+          "url": "https://wallstreetcn.com/articles/3769754",
           "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
+          "time_info": "[14时11分 ~ 14时12分]"
         },
         {
-          "title": "脑机接口融资新世相：机构抢份额 明星项目估值“一周一变” 投半导体、具身智能的机构也来了！",
-          "url": "https://www.cls.cn/detail/2341164",
+          "title": "中央台办受权发布十项促进两岸交流合作的政策措施",
+          "url": "https://www.cls.cn/detail/2341410",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 14时12分]"
+        },
+        {
+          "title": "十项促进两岸交流合作政策措施发布",
+          "url": "https://www.toutiao.com/trending/7627688331135946286/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 14时12分]"
+        },
+        {
+          "title": "打假博主带人“打假”因退赔标准内讧，线索系某监管领导提供？后者否认",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32948979",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 14时12分]"
+        },
+        {
+          "title": "中央台办受权发布十项促进两岸交流合作的政策措施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32954249",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 14时12分]"
+        },
+        {
+          "title": "中央台办受权发布十项促进两岸交流合作的政策措施",
+          "url": "https://wallstreetcn.com/livenews/3086319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股 上证指数 深证成指 创业板",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "锂电池龙头创历史新高 锂矿A股名单及相关产能一览",
+          "url": "https://www.cls.cn/detail/2341275",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 14时12分]"
+        },
+        {
+          "title": "A股一季报行情热火朝天 11家上市公司净利最高同比预增超500%",
+          "url": "https://www.cls.cn/detail/2341254",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 14时12分]"
+        },
+        {
+          "title": "创业板第四套上市标准落地，哪些企业有望率先上市闯关？",
+          "url": "https://www.cls.cn/detail/2341159",
           "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
+          "time_info": "[14时11分 ~ 14时12分]"
         },
         {
-          "title": "蔚来董事长李斌：建议尽快推动电芯标准化和芯片归一化",
-          "url": "https://flash.jin10.com/detail/20260411122537661800",
-          "source": "金十数据",
+          "title": "【早报】证监会：增设创业板第四套上市标准；主板ST股涨跌幅拟调整为10%",
+          "url": "https://www.cls.cn/detail/2341141",
+          "source": "财联社热门",
           "ranks": [
-            7
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 14时12分]"
         }
       ]
     },
@@ -256,101 +217,101 @@
           "url": "https://www.cls.cn/detail/2341126",
           "source": "财联社热门",
           "ranks": [
-            2
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
+          "time_info": "[14时11分 ~ 14时12分]"
         },
         {
-          "title": "标普500指数冲击八连阳 市场聚焦伊美谈判 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2340931",
-          "source": "财联社热门",
+          "title": "李大霄解读美股单周表现",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
+          "source": "bilibili 热搜",
           "ranks": [
-            11
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
+          "time_info": "[14时11分 ~ 14时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金 金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "70年代的黄金牛市：如何开始、如何结束",
+          "url": "https://wallstreetcn.com/articles/3769744",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 14时12分]"
+        },
+        {
+          "title": "黄金投资者周报上新！",
+          "url": "https://flash.jin10.com/detail/20260412113929672800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         }
       ]
     },
     {
       "keyword_group": "原油 石油",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国银行：美国增长与通胀对石油的敏感度亦已降低",
-          "url": "https://flash.jin10.com/detail/20260411122629984800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "美国银行：经济对石油冲击的韧性增强",
-          "url": "https://flash.jin10.com/detail/20260411113254636800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "贸易战 关税",
       "match_count": 1,
       "titles": [
         {
-          "title": "哥伦比亚将对厄瓜多尔输哥商品征收100%关税",
-          "url": "https://wallstreetcn.com/livenews/3086158",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "地缘政治 冲突",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "系好安全带！伊朗冲突点燃油价，今晚美国CPI或创四年最大环比涨幅",
-          "url": "https://wallstreetcn.com/articles/3769663",
+          "title": "当市场聚焦美伊谈判，一场石油争夺战正上演，“未来几周原油缺口将十分巨大”",
+          "url": "https://wallstreetcn.com/articles/3769759",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时19分 ~ 13时20分]"
+          "time_info": "[14时11分 ~ 14时12分]"
         }
       ]
     },
     {
-      "keyword_group": "金融 银行",
+      "keyword_group": "华为 苹果 特斯拉 微软 谷歌",
       "match_count": 1,
       "titles": [
         {
-          "title": "中国银行在雅加达举办本币结算多边对话 聚焦提升LCT效率",
-          "url": "https://wallstreetcn.com/livenews/3086160",
-          "source": "华尔街见闻-快讯",
+          "title": "网曝华为自离 N+1 回归，是真的吗？为什么突然迎来反转？",
+          "url": "https://www.zhihu.com/question/2026048720198788999",
+          "source": "知乎",
           "ranks": [
-            8
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 14时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "制造业 工业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "张雪机车带给制造业哪些启示",
+          "url": "https://www.toutiao.com/trending/7627352089940951078/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 14时12分]"
         }
       ]
     }
