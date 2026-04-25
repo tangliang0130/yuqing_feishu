@@ -1,249 +1,271 @@
 {
-  "generated_at": "2026-04-24T10:08:35.957750+08:00",
+  "generated_at": "2026-04-25T09:58:27.619468+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT GPT 大模型",
-      "match_count": 11,
+      "match_count": 9,
       "titles": [
         {
-          "title": "AI出图太逼真,二游圈炸锅",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353635&amp;topic_name=AI%E5%87%BA%E5%9B%BE%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E7%82%B8%E9%94%85",
+          "title": "AI图以假乱真,恐怖谷效应拉满",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353704&amp;topic_name=AI%E5%9B%BE%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94%E6%8B%89%E6%BB%A1",
           "source": "贴吧",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时07分 ~ 10时08分]"
+          "time_info": "[09时57分 ~ 09时58分]"
         },
         {
-          "title": "人民海军成立77周年丨“吉野号已击毁”！AI让福建舰与北洋水师同框",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33032397",
+          "title": "财晓得｜光纤涨价650%背后：AI需求“挤爆”光通信产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33042568",
           "source": "澎湃新闻",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时07分 ~ 10时08分]"
+          "time_info": "[09时57分 ~ 09时58分]"
         },
         {
-          "title": "锐评GPT5.5有哪些更新",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84GPT5.5%E6%9C%89%E5%93%AA%E4%BA%9B%E6%9B%B4%E6%96%B0",
-          "source": "bilibili 热搜",
+          "title": "一图看懂 | 站在“光”里，苏州这些上市公司藏着AI算力密码",
+          "url": "https://www.cls.cn/detail/2355054",
+          "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时07分 ~ 10时08分]"
+          "time_info": "[09时57分 ~ 09时58分]"
         },
         {
-          "title": "如何评价 OpenAI 最新发布的 GPT-5.5 模型？",
-          "url": "https://www.zhihu.com/question/2030834616181970293",
-          "source": "知乎",
+          "title": "中方反对美方污蔑抹黑中国AI产业",
+          "url": "https://www.douyin.com/hot/2477525",
+          "source": "抖音",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时07分 ~ 10时08分]"
+          "time_info": "[09时57分 ~ 09时58分]"
         },
         {
-          "title": "对比实测3大AI生图模型",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AF%B9%E6%AF%94%E5%AE%9E%E6%B5%8B3%E5%A4%A7AI%E7%94%9F%E5%9B%BE%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 10时08分]"
-        },
-        {
-          "title": "Meta 强制监控员工的鼠标和键盘用于训练 AI，如何看待这种强制「蒸馏」行为？涉嫌违法吗？",
-          "url": "https://www.zhihu.com/question/2030615939436077697",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 10时08分]"
-        },
-        {
-          "title": "AI电力巨头捷报频传 西门子能源因“需求强劲”上调全年业绩指引",
-          "url": "https://www.cls.cn/detail/2354138",
+          "title": "罚没已超33亿，证监会新一轮打击财务造假，强化财务舞弊监管AI大模型应用",
+          "url": "https://www.cls.cn/detail/2355166",
           "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
+        },
+        {
+          "title": "黄仁勋要求英伟达所有员工用OpenAI",
+          "url": "https://www.toutiao.com/trending/7632491668544949786/",
+          "source": "今日头条",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时07分 ~ 10时08分]"
+          "time_info": "[09时57分 ~ 09时58分]"
         },
         {
-          "title": "OpenAI发布GPT-5.5",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E5%8F%91%E5%B8%83GPT-5.5",
-          "source": "百度热搜",
+          "title": "AI出图太逼真,二游圈炸锅",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353635&amp;topic_name=AI%E5%87%BA%E5%9B%BE%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E7%82%B8%E9%94%85",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
+        },
+        {
+          "title": "软银准备为AI数据中心制造电池",
+          "url": "https://wallstreetcn.com/livenews/3094321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "市场消息：美国法官驳回马斯克针对OpenAI和OpenAI创始人奥尔特曼的诉讼中提出的欺诈指控，计划继续就马斯克的其他指控进行庭审。",
+          "url": "https://flash.jin10.com/detail/20260425080632289800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金 金价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "男子30年前被扣押2859克黄金申请退赔，辽宁营口警方：正研究，将尽快答复",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33044575",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
+        },
+        {
+          "title": "男子30年前被扣押2859克黄金未返还",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%9030%E5%B9%B4%E5%89%8D%E8%A2%AB%E6%89%A3%E6%8A%BC2859%E5%85%8B%E9%BB%84%E9%87%91%E6%9C%AA%E8%BF%94%E8%BF%98%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
+        },
+        {
+          "title": "金价跌破神话了吗",
+          "url": "https://www.toutiao.com/trending/7632294513389604393/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
+        },
+        {
+          "title": "金价跌破新低",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少2.571吨，当前持仓量为1046.622吨。",
+          "url": "https://flash.jin10.com/detail/20260425082531965800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片 半导体 集成电路",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "DeepSeek如何适配国产芯片",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%A6%82%E4%BD%95%E9%80%82%E9%85%8D%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
+        },
+        {
+          "title": "美伊有望重回谈判，标普、纳指齐新高，半导体连涨18日，英特尔暴涨24%，原油调整",
+          "url": "https://wallstreetcn.com/articles/3770804",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
+        },
+        {
+          "title": "DeepSeek-V4“解锁”国产芯片",
+          "url": "https://www.toutiao.com/trending/7632342182602477065/",
+          "source": "今日头条",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时07分 ~ 10时08分]"
+          "time_info": "[09时57分 ~ 09时58分]"
         },
         {
-          "title": "有人用AI恶搞保安扇女子耳光视频",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%BA%BA%E7%94%A8AI%E6%81%B6%E6%90%9E%E4%BF%9D%E5%AE%89%E6%89%87%E5%A5%B3%E5%AD%90%E8%80%B3%E5%85%89%E8%A7%86%E9%A2%91%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "“大空头”Michael Burry买入半导体ETF看跌期权，“我知道费城半导体指数会回落”",
+          "url": "https://wallstreetcn.com/livenews/3094317",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            15
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 10时08分]"
-        },
-        {
-          "title": "核心拒绝AI,异环美术光速滑跪",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353572&amp;topic_name=%E6%A0%B8%E5%BF%83%E6%8B%92%E7%BB%9DAI%2C%E5%BC%82%E7%8E%AF%E7%BE%8E%E6%9C%AF%E5%85%89%E9%80%9F%E6%BB%91%E8%B7%AA",
-          "source": "贴吧",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 10时08分]"
-        },
-        {
-          "title": "GPT Image2 有图无真相",
-          "url": "https://s.weibo.com/weibo?q=GPT%20Image2%20%E6%9C%89%E5%9B%BE%E6%97%A0%E7%9C%9F%E7%9B%B8&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 10时08分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         }
       ]
     },
     {
-      "keyword_group": "A股 上证指数 深证成指 创业板",
-      "match_count": 10,
+      "keyword_group": "财报 业绩",
+      "match_count": 4,
       "titles": [
         {
-          "title": "A股煤炭板块震荡走高，华电能源2连板，甘肃能化、昊华能源、安泰集团、恒源煤电、云煤能源跟涨。",
-          "url": "https://flash.jin10.com/detail/20260424094749346800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "创业板跌近1%，算力硬件齐跌、中际旭创盘中市值破万亿，有色金属普跌，恒科指大跌2%，科网股普遍下挫",
-          "url": "https://wallstreetcn.com/articles/3770670",
+          "title": "英特尔Q1财报 ，狠狠打了华尔街的脸",
+          "url": "https://wallstreetcn.com/articles/3770776",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时07分 ~ 10时08分]"
+          "time_info": "[09时57分 ~ 09时58分]"
         },
         {
-          "title": "A股钠电池概念震荡反弹，维科技术涨停，万顺新材、同兴科技、振华新材、翔丰华、传艺科技跟涨。",
-          "url": "https://flash.jin10.com/detail/20260424094629148800",
-          "source": "金十数据",
+          "title": "英特尔财报大超预期盘前涨超30% 最新工作站CPU、GPU发布 高管预计缺货仍将持续",
+          "url": "https://www.cls.cn/detail/2355357",
+          "source": "财联社热门",
           "ranks": [
-            6
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
         },
         {
-          "title": "A股游戏概念震荡调整，完美世界触及跌停，盛天网络、冰川网络、游族网络、昆仑万维、恺英网络跟跌。",
-          "url": "https://flash.jin10.com/detail/20260424093809935800",
-          "source": "金十数据",
+          "title": "首批17家券商季报出炉，业绩温差加大，中信百亿净利是12家中小券商总和3倍",
+          "url": "https://www.cls.cn/detail/2355614",
+          "source": "财联社热门",
           "ranks": [
-            14
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
         },
         {
-          "title": "A股工业气体概念盘初走强，华特气体涨超14%续创历史新高，金宏气体、凯美特气、中船特气、杭氧股份跟涨。",
-          "url": "https://flash.jin10.com/detail/20260424093340510800",
-          "source": "金十数据",
+          "title": "贵州茅台Q1营收、净利双增，“i茅台”营收达215亿元，占比达40% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3770830",
+          "source": "华尔街见闻",
           "ranks": [
-            20
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "上证指数开盘报4081.03点，跌0.30%。 深证成指开盘报14951.74点，跌0.61%。 创业板指开盘报3682.50点，跌1.01%。 沪深300开盘报4771.73点，跌0.30%。 科创50开盘报1443.04点，涨0.73%。 中证500开盘报8244.78点，跌0.61%。 中证1000开盘报8318.60点，跌0.53%。",
-          "url": "https://wallstreetcn.com/livenews/3093610",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "A股半导体产业链盘初活跃，富瀚微逼近20cm涨停，圣邦股份、芯海科技、晶丰明源、海光信息、澜起科技均涨超5%。",
-          "url": "https://flash.jin10.com/detail/20260424093151111800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "A股可燃冰概念股盘初走弱，潜能恒信跌超5%，石化机械跌超4%，神开股份、新锦动力、海默科技跌幅居前。",
-          "url": "https://flash.jin10.com/detail/20260424093117967800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "A股新股N联讯上市首日高开800%，报736.92元。",
-          "url": "https://flash.jin10.com/detail/20260424092746425800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "中国上证综指4月24日（周五）开盘下跌12.22点，跌幅：0.3%，报4081.03点；<br/>中国深证成指4月24日（周五）开盘下跌91.71点，跌幅：0.61%，报14951.74点；<br/>中国沪深300指数4月24日（周五）开盘下跌14.59点，跌幅：0.3%，报4771.73点；<br/>中国创业板指数4月24日（周五）开盘下跌37.75点，跌幅：1.01%，报3682.5点；<br/>中国科创50指数4月24日（周五）开盘上涨10.45点，涨幅：0.73%，报1443.04点。",
-          "url": "https://flash.jin10.com/detail/20260424092738772800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
         }
       ]
     },
@@ -252,188 +274,171 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
-          "url": "https://wallstreetcn.com/articles/3770666",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 10时08分]"
-        },
-        {
-          "title": "美股收盘：中东局势不确定性升温叠加财报分化 三大指数震荡收跌",
-          "url": "https://www.cls.cn/detail/2354164",
+          "title": "美股收盘：美伊和谈将重启 标普、纳指再创新高 英伟达市值突破5万亿美元",
+          "url": "https://www.cls.cn/detail/2355589",
           "source": "财联社热门",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时07分 ~ 10时08分]"
+          "time_info": "[09时57分 ~ 09时58分]"
         },
         {
-          "title": "中东局势再搅市场 油价站上103美元 美股三大期指走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2353918",
+          "title": "美股期指涨跌不一 英特尔盘前一度大涨30% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2355325",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
+        },
+        {
+          "title": "周五（4月24日）纽约尾盘，标普500股指期货最终涨0.78%，道指期货跌0.11%，纳斯达克100股指期货涨1.94%。 罗素2000股指期货涨0.69%。",
+          "url": "https://wallstreetcn.com/livenews/3094309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 货币政策 降息 降准 加息",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "规范金融产品网络营销活动，央行等八部门发布管理办法",
+          "url": "https://www.cls.cn/detail/2354995",
           "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时07分 ~ 10时08分]"
+          "time_info": "[09时57分 ~ 09时58分]"
+        },
+        {
+          "title": "降息预期升温！美司法部终止调查鲍威尔 沃什接任障碍解除",
+          "url": "https://www.cls.cn/detail/2355528",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
+        },
+        {
+          "title": "报道：委内瑞拉与美国洽谈安插反对派到央行的董事会",
+          "url": "https://wallstreetcn.com/livenews/3094312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "监管 政策",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "监管部门向2026年北京车展参展企业列出十大负面行为清单",
+          "url": "https://wallstreetcn.com/livenews/3094334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "空调安装工触电致残疑云：供电说调查结论由应急局出，后者称不在监管范围",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33046338",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
+        },
+        {
+          "title": "市场监管总局谈“幽灵外卖”案：进一步释放了强化网络交易监管、守护人民群众舌尖上安全的强烈信号",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33042240",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 电动汽车 电动车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国产新能源汽车黑科技：越开电越多",
+          "url": "https://www.toutiao.com/trending/7632182781422063158/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
+        },
+        {
+          "title": "泰总理开中国电动车载王毅赴宴",
+          "url": "https://www.toutiao.com/trending/7632141423890173482/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
         }
       ]
     },
     {
       "keyword_group": "原油 石油",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "高盛：海湾大部分石油产量将在海峡重开后数月内恢复",
-          "url": "https://flash.jin10.com/detail/20260424095135362800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "原油系期货涨幅持续扩大，低硫燃料油（LU）主力合约现涨近6%，液化石油气（LPG）主力合约涨超5%，沥青、燃料油、SC原油主力合约涨超3%。",
-          "url": "https://flash.jin10.com/detail/20260424093802697800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "高盛表示，4月份波斯湾石油供应减少1450万桶/日，波斯湾石油供应恢复需要数月时间。",
-          "url": "https://wallstreetcn.com/livenews/3093606",
+          "title": "央视：七成多石油靠进口中国为啥能不慌，原因在这“四招”",
+          "url": "https://wallstreetcn.com/livenews/3094327",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股 恒生指数",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "港股人工智能股调整，金蝶国际(00268.HK)跌5.39%，迈富时(02556.HK)跌3.92%，万国数据(09698.HK)跌2.86%。",
-          "url": "https://flash.jin10.com/detail/20260424094241043800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "恒生科技指数跌幅扩大至1%，恒生指数现跌0.86%。",
-          "url": "https://flash.jin10.com/detail/20260424093559295800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "IPO 上市",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【数读IPO】“易中天”概念股今日上市",
-          "url": "https://www.cls.cn/detail/2354202",
-          "source": "财联社热门",
           "ranks": [
             6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 10时08分]"
-        },
-        {
-          "title": "新易盛低开超9%，公司第一季度实现营业收入83.38亿元，同比增长105.76%，第一季度归属于上市公司股东的净利润为27.80亿元，同比增长76.80%。",
-          "url": "https://wallstreetcn.com/livenews/3093614",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 货币政策 降息 降准 加息",
-      "match_count": 2,
-      "titles": [
+          "time_info": "09时58分"
+        },
         {
-          "title": "凯投宏观：日本央行最早可能在6月加息",
-          "url": "https://flash.jin10.com/detail/20260424093905417800",
+          "title": "据美联社：美国财长贝森特排除了延长对伊朗和俄罗斯石油豁免许可的可能性。",
+          "url": "https://flash.jin10.com/detail/20260425080745999800",
           "source": "金十数据",
           "ranks": [
-            12
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时08分"
-        },
-        {
-          "title": "中国央行公开市场开展50亿元7天期逆回购操作，操作利率1.40%。今日5亿元逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/3093609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "地缘政治 冲突",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "欧洲首富阿尔诺警告：若中东冲突得不到解决将引发“世界灾难”",
-          "url": "https://www.cls.cn/detail/2353942",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 10时08分]"
-        },
-        {
-          "title": "俄乌冲突有哪些新情况",
-          "url": "https://www.toutiao.com/trending/7631490176380485641/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 10时08分]"
+          "time_info": "09时58分"
         }
       ]
     },
@@ -442,95 +447,77 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "特斯拉一季度净利润 4.77 亿美元，同比增长 17%，交付量 35.8 万辆，同比增长 6.5%，如何解读？",
-          "url": "https://www.zhihu.com/question/2030579939343380868",
+          "title": "UP主深度测试华为大阔折",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%B7%B1%E5%BA%A6%E6%B5%8B%E8%AF%95%E5%8D%8E%E4%B8%BA%E5%A4%A7%E9%98%94%E6%8A%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
+        },
+        {
+          "title": "如何理解库克称苹果地图发布是首个重大错误？这款产品为何会成为苹果业务中的一块短板？",
+          "url": "https://www.zhihu.com/question/2030662394523776013",
           "source": "知乎",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时07分 ~ 10时08分]"
-        },
-        {
-          "title": "为什么苹果总能在产品上出现一些非常糟糕的设计？",
-          "url": "https://www.zhihu.com/question/1990076787405914325",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 10时08分]"
+          "time_info": "[09时57分 ~ 09时58分]"
         }
       ]
     },
     {
-      "keyword_group": "芯片 半导体 集成电路",
+      "keyword_group": "5G 6G 通信技术",
       "match_count": 1,
       "titles": [
         {
-          "title": "半导体产业链盘初活跃，富瀚微逼近20cm涨停，圣邦股份、芯海科技、晶丰明源、海光信息、澜起科技均涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3093621",
-          "source": "华尔街见闻-快讯",
+          "title": "6G跟5G最大的区别是啥 你知道吗",
+          "url": "https://www.baidu.com/s?wd=6G%E8%B7%9F5G%E6%9C%80%E5%A4%A7%E7%9A%84%E5%8C%BA%E5%88%AB%E6%98%AF%E5%95%A5+%E4%BD%A0%E7%9F%A5%E9%81%93%E5%90%97",
+          "source": "百度热搜",
           "ranks": [
-            15
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "地缘政治 冲突",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊朗战争丨地缘政治冲突让美国四大军火商赚麻了",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金融 银行",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国进出口银行一季度投放外贸领域贷款超3000亿元",
+          "url": "https://flash.jin10.com/detail/20260425093506957800",
+          "source": "金十数据",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "财报 业绩",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "普华永道同意就虚假财报向恒大股东赔偿10亿港元，另遭罚款3亿港元及停业6个月",
-          "url": "https://wallstreetcn.com/articles/3770705",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 10时08分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "贸易战 关税",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国关税为何吓不到印度",
-          "url": "https://www.toutiao.com/trending/7632027490755546666/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 10时08分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金 金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "女子穿睡衣买12万黄金首饰店主报警",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A9%BF%E7%9D%A1%E8%A1%A3%E4%B9%B012%E4%B8%87%E9%BB%84%E9%87%91%E9%A6%96%E9%A5%B0%E5%BA%97%E4%B8%BB%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 10时08分]"
+          "time_info": "09时58分"
         }
       ]
     }
