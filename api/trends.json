@@ -1,437 +1,311 @@
 {
-  "generated_at": "2026-05-02T10:12:13.393250+08:00",
+  "generated_at": "2026-05-03T10:27:53.298182+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股 纳斯达克 道琼斯 标普500",
-      "match_count": 11,
+      "keyword_group": "人工智能 AI ChatGPT GPT 大模型",
+      "match_count": 9,
       "titles": [
         {
-          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
-          "url": "https://www.cls.cn/detail/2361634",
-          "source": "财联社热门",
+          "title": "云南的水果像极了AI生成的",
+          "url": "https://www.douyin.com/hot/2486796",
+          "source": "抖音",
           "ranks": [
-            6
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "time_info": "[10时26分 ~ 10时27分]"
         },
         {
-          "title": "狼终于来了！日本两年来首度干预，日元飙升，油价、美股和美债“联动”",
-          "url": "https://wallstreetcn.com/articles/3771452",
+          "title": "SemiAnalysis：下游大模型公司已经爆赚，英伟达、台积电还能赚更多",
+          "url": "https://wallstreetcn.com/articles/3771479",
           "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 10时27分]"
+        },
+        {
+          "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
+          "url": "https://www.cls.cn/detail/2362027",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 10时27分]"
+        },
+        {
+          "title": "专访｜赵又廷：别让AI取代我就行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33091903",
+          "source": "澎湃新闻",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "time_info": "[10时26分 ~ 10时27分]"
         },
         {
-          "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
-          "url": "https://wallstreetcn.com/articles/3771451",
+          "title": "AI CPU推高DDR5内存需求，存储芯片“超级周期”或延续至2027年",
+          "url": "https://wallstreetcn.com/articles/3771481",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "time_info": "[10时26分 ~ 10时27分]"
         },
         {
-          "title": "美股总市值突破 75 万亿美元，创历史新高，主要受哪些因素拉动？如何解读这一市值？",
-          "url": "https://www.zhihu.com/question/2033586111524468458",
-          "source": "知乎",
+          "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
+          "url": "https://news.ifeng.com/c/8snnwdxDs8v",
+          "source": "凤凰网",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "time_info": "[10时26分 ~ 10时27分]"
         },
         {
-          "title": "美股存储芯片指数涨3.5%创收盘历史新高，成分股闪迪、希捷、美光领跑",
-          "url": "https://wallstreetcn.com/livenews/3098084",
-          "source": "华尔街见闻-快讯",
+          "title": "赛道挤爆,AI短剧收益不够电费",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353950&amp;topic_name=%E8%B5%9B%E9%81%93%E6%8C%A4%E7%88%86%2CAI%E7%9F%AD%E5%89%A7%E6%94%B6%E7%9B%8A%E4%B8%8D%E5%A4%9F%E7%94%B5%E8%B4%B9",
+          "source": "贴吧",
           "ranks": [
-            16
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 10时27分]"
         },
         {
-          "title": "美股七巨头收盘播报｜周五（5月1日），美国科技股七巨头（Magnificent 7）指数涨1.01%，报215.12点，早盘曾达到216.83点——突破4月27日所创收盘历史最高位215.24点，本周累计上涨0.91%。 “超大”市值科技股指数涨1.26%，报426.01点，突破2025年10月29日所创收盘历史最高位422.72点，刷新盘中历史高位至428.31点，本周累涨1.08%。",
-          "url": "https://wallstreetcn.com/livenews/3098081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "游戏驿站（GME）美股盘后涨4%，报道称该公司考虑收购eBay。 eBay盘后涨幅扩大至13%。",
-          "url": "https://wallstreetcn.com/livenews/3098073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "金十图示：2026年05月01日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260502040603336800",
+          "title": "OpenAI创始人阿尔特曼：我一直在想，相比于让模型变得更聪明，我更希望它们更便宜、更快速。但看来，让模型更聪明一点似乎仍然是最重要的事情。",
+          "url": "https://flash.jin10.com/detail/20260503042107626800",
           "source": "金十数据",
           "ranks": [
-            22
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时12分"
+          "time_info": "10时27分"
         },
         {
-          "title": "金十图示：2026年05月01日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260502040600017800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "道琼斯指数5月1日（周五）收盘下跌152.87点，跌幅0.31%，报49499.27点；<br/>标普500指数5月1日（周五）收盘上涨21.11点，涨幅0.29%，报7230.12点；<br/>纳斯达克综合指数5月1日（周五）收盘上涨222.13点，涨幅0.89%，报25114.44点。",
-          "url": "https://flash.jin10.com/detail/20260502040352597800",
+          "title": "美联储古尔斯比：尽管各界热议人工智能中心建设，但真正拉动经济的仍是消费者需求。 ​​​",
+          "url": "https://flash.jin10.com/detail/20260503021929638800",
           "source": "金十数据",
           "ranks": [
             27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "周五（5月1日）纽约尾盘，标普500股指期货最终涨0.15%，道指期货跌0.40%，纳斯达克100股指期货涨0.76%。 罗素2000股指期货涨0.16%。",
-          "url": "https://wallstreetcn.com/livenews/3098065",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
+          "time_info": "10时27分"
         }
       ]
     },
     {
-      "keyword_group": "人工智能 AI ChatGPT GPT 大模型",
-      "match_count": 7,
+      "keyword_group": "原油 石油",
+      "match_count": 4,
       "titles": [
         {
-          "title": "假设 AI 蒸馏出了「李白的所有创作规律」，然后生成了十万首新诗，那么真正的李白，底牌是什么？",
-          "url": "https://www.zhihu.com/question/2029888609017422176",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
-        },
-        {
-          "title": "AI热潮导致供应短缺 苹果公司将Mac Mini的起售价提高至799美元",
-          "url": "https://flash.jin10.com/detail/20260502095648869800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "女子被AI误导闯入毒蛇窝，AI道歉承认“和送死没有区别”",
-          "url": "https://news.ifeng.com/c/8sn1WIx976g",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
-        },
-        {
-          "title": "美军使用AI技术在霍尔木兹海峡扫雷",
-          "url": "https://www.toutiao.com/trending/7634071718033837610/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
-        },
-        {
-          "title": "AI古代铠甲勇士完结篇",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
-        },
-        {
-          "title": "美军使用AI技术在霍尔木兹海峡扫雷",
-          "url": "https://flash.jin10.com/detail/20260502085918272800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "美军使用AI技术在霍尔木兹海峡扫雷",
-          "url": "https://wallstreetcn.com/livenews/3098092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "财报 业绩",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "92家券商业绩全榜单！头部断层领先，中信一家净利约为后64家之和",
-          "url": "https://www.cls.cn/detail/2361686",
+          "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
+          "url": "https://www.cls.cn/detail/2362134",
           "source": "财联社热门",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
-        },
-        {
-          "title": "沪市公司去年业绩出炉：主板全年分红1.82万亿，科创板营收净利双位数增长",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33088723",
-          "source": "澎湃新闻",
-          "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "time_info": "[10时26分 ~ 10时27分]"
         },
         {
-          "title": "“炸裂财报”成“抛售契机”？闪迪、西部数据绩后盘初重挫，盘中V形反转",
-          "url": "https://wallstreetcn.com/articles/3771446",
-          "source": "华尔街见闻",
+          "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
+          "url": "https://www.cls.cn/detail/2362210",
+          "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "time_info": "[10时26分 ~ 10时27分]"
         },
         {
-          "title": "闪迪财报炸裂却大跌！高盛：大幅上调目标价，股价终将走高",
-          "url": "https://wallstreetcn.com/articles/3771456",
+          "title": "伊拉克称一旦霍尔木兹海峡危机结束，石油产量和出口量可在一周内恢复",
+          "url": "https://flash.jin10.com/detail/20260503080656160800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "乌兹别克斯坦南部因泥流导致石油泄漏",
+          "url": "https://flash.jin10.com/detail/20260503024149813800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 货币政策 降息 降准 加息",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "新美联储通讯社：从“降不降息”到“加息条件”，美联储内部讨论重心转向",
+          "url": "https://wallstreetcn.com/articles/3771482",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "time_info": "[10时26分 ~ 10时27分]"
+        },
+        {
+          "title": "美国芝加哥联储主席Austan Goolsbee：（美联储在上周的会议上按8-4票将政策利率维持在3.5%-3.75%区间）这种存在分歧的决定显示了对货币政策路径提供“前瞻性指引”可能带来的复杂性，在这种情况下，三位支持该会议实际利率决策的官员也提出了异议。 既为鲍威尔能继续提供建议感到高兴，也对沃什的到来感到“兴奋”。 我非常喜欢（鲍威尔）。我很乐意看到他转任理事席位并留在那里。他一直很明智，且富有见地。 自己“很期待看到他（沃什）的到来，以及他将留下怎样的印记”。",
+          "url": "https://wallstreetcn.com/livenews/3098195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "美国芝加哥联储主席Austan Goolsbee：上周的PCE通胀数据对美联储来说是“坏消息”，这意味着在通胀开始消退之前，美联储在降息问题上需要保持谨慎。 我们必须得到一些保证，证明我们正在回到2%的通胀目标。 甚至在服务业中通胀也在上升，而这些行业在很大程度上本应免受关税以及受美国支持的对伊战争所导致的油价上涨的影响。 目前的通胀构成“看起来并不好”。",
+          "url": "https://wallstreetcn.com/livenews/3098194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "财报 业绩",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "伯克希尔一季度净利润增长120%，现金储备创纪录达3970亿美元，连续14个季度净抛售股票｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3771492",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 10时27分]"
         },
         {
           "title": "存储涨不动了？闪迪交出“炸裂”财报 股价盘前却大跌超5%",
           "url": "https://www.cls.cn/detail/2361855",
           "source": "财联社热门",
           "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
-        },
-        {
-          "title": "科技巨头的财报启示",
-          "url": "https://wallstreetcn.com/articles/3771458",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
-        },
-        {
-          "title": "因燃料成本撤回2026年业绩指引，加拿大航空股价下跌",
-          "url": "https://wallstreetcn.com/livenews/3098070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "原油 石油",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "伊朗新谈判方案重创原油，科技股助标普再新高、创一年半最长周涨，日元反弹暂歇但全周走强",
-          "url": "https://wallstreetcn.com/articles/3771459",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
-        },
-        {
-          "title": "9月就是极限！摩根大通：届时原油库存见底，霍尔木兹海峡“无论如何都将重开”",
-          "url": "https://wallstreetcn.com/articles/3771455",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
-        },
-        {
-          "title": "加拿大的石油储备世界第二，为什么大家似乎都关注中东的石油为多呢？",
-          "url": "https://www.zhihu.com/question/30651530",
-          "source": "知乎",
-          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "time_info": "[10时26分 ~ 10时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "贸易战 关税",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
+          "url": "https://www.cls.cn/detail/2362026",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 10时27分]"
         },
         {
-          "title": "美国总统特朗普：已经销售1亿桶委内瑞拉石油。 多家大型美国石油公司正前往委内瑞拉。",
-          "url": "https://wallstreetcn.com/livenews/3098088",
+          "title": "德国经济界：美加征关税或对德产业造成实质性冲击",
+          "url": "https://wallstreetcn.com/livenews/3098207",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时12分"
-        },
+          "time_info": "10时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "地缘政治 冲突",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "国际货币基金组织：安哥拉石油产量显著下降，预计2025年财政和外部形势将进一步恶化。",
-          "url": "https://flash.jin10.com/detail/20260502080342462800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "巴克莱：虽然阿拉伯联合酋长国计划退出石油输出国组织（OPEC，欧佩克）可能有助于缩小非OPEC供应增长与需求之间的中期差距，但不太可能完全弥补这一缺口，并且会降低闲置产能。",
-          "url": "https://wallstreetcn.com/livenews/3098075",
+          "title": "特朗普称将审查伊朗提出的结束冲突新方案",
+          "url": "https://wallstreetcn.com/livenews/3098201",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时12分"
+          "time_info": "10时27分"
         },
         {
-          "title": "惠誉：确认阿布扎比评级为“AA”；展望稳定。 稳定的展望反映了石油出口收入在伊朗战争期间的韧性，这显著抵消了战争带来的负面影响。 伊朗战争结束后，我们预计政府将推出旨在振兴非石油经济的支持计划。",
-          "url": "https://wallstreetcn.com/livenews/3098063",
-          "source": "华尔街见闻-快讯",
+          "title": "黎巴嫩总理呼吁民众摒弃仇恨言论，避免教派冲突。",
+          "url": "https://flash.jin10.com/detail/20260503024948968800",
+          "source": "金十数据",
           "ranks": [
-            30
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时12分"
+          "time_info": "10时27分"
         }
       ]
     },
     {
-      "keyword_group": "IPO 上市",
+      "keyword_group": "制造业 工业",
       "match_count": 2,
       "titles": [
         {
-          "title": "新势力发布4月交付成绩：零跑破7万创新高、小鹏环比回暖 理想、蔚来待新车上市",
-          "url": "https://www.cls.cn/detail/2361886",
-          "source": "财联社热门",
+          "title": "福大毕业生称 211 高校学生盗用其毕业作品参赛获奖，合肥工业大学通报「已开除学籍」，具体怎么回事？",
+          "url": "https://www.zhihu.com/question/2033304713714562887",
+          "source": "知乎",
           "ranks": [
-            10
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "time_info": "[10时26分 ~ 10时27分]"
         },
         {
-          "title": "定档!国产显卡520上市发售",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353917&amp;topic_name=%E5%AE%9A%E6%A1%A3%21%E5%9B%BD%E4%BA%A7%E6%98%BE%E5%8D%A1520%E4%B8%8A%E5%B8%82%E5%8F%91%E5%94%AE",
-          "source": "贴吧",
+          "title": "合肥工业大学：孙某某被开除学籍",
+          "url": "https://www.baidu.com/s?wd=%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%EF%BC%9A%E5%AD%99%E6%9F%90%E6%9F%90%E8%A2%AB%E5%BC%80%E9%99%A4%E5%AD%A6%E7%B1%8D",
+          "source": "百度热搜",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金 金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "女子15年前买的金条完全不含黄金",
-          "url": "https://www.toutiao.com/trending/7634657327857614889/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
-        },
-        {
-          "title": "女子15年前买的金条经检测不含黄金",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%9015%E5%B9%B4%E5%89%8D%E4%B9%B0%E7%9A%84%E9%87%91%E6%9D%A1%E7%BB%8F%E6%A3%80%E6%B5%8B%E4%B8%8D%E5%90%AB%E9%BB%84%E9%87%91",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "time_info": "[10时26分 ~ 10时27分]"
         }
       ]
     },
@@ -440,60 +314,77 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "吉林农商银行回应千万存款流失：涉案员工被采取强制措施，被盗存款追查追缴",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33088328",
-          "source": "澎湃新闻",
+          "title": "银行为何又开始猛推大额存单",
+          "url": "https://www.toutiao.com/trending/7635296783358234148/",
+          "source": "今日头条",
           "ranks": [
-            4
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "time_info": "[10时26分 ~ 10时27分]"
         },
         {
-          "title": "转走储户千万存款银行员工被批捕",
-          "url": "https://www.toutiao.com/trending/7634110925322321974/",
-          "source": "今日头条",
+          "title": "QFII一季度重仓银行、电子板块",
+          "url": "https://wallstreetcn.com/livenews/3098210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 纳斯达克 道琼斯 标普500",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股股指创新高，下跌个股却远超上涨？高盛：动量拥挤，逆转将引发剧烈回撤",
+          "url": "https://wallstreetcn.com/articles/3771483",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "time_info": "[10时26分 ~ 10时27分]"
         }
       ]
     },
     {
-      "keyword_group": "A股 上证指数 深证成指 创业板",
+      "keyword_group": "新能源 电动汽车 电动车",
       "match_count": 1,
       "titles": [
         {
-          "title": "A股三大指数集体高开",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "“全国将开展电动车淘汰赛”系谣言",
+          "url": "https://www.toutiao.com/trending/7634336600944148518/",
+          "source": "今日头条",
           "ranks": [
-            30
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "time_info": "[10时26分 ~ 10时27分]"
         }
       ]
     },
     {
-      "keyword_group": "芯片 半导体 集成电路",
+      "keyword_group": "IPO 上市",
       "match_count": 1,
       "titles": [
         {
-          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
-          "url": "https://wallstreetcn.com/articles/3771450",
-          "source": "华尔街见闻",
+          "title": "新势力发布4月交付成绩：零跑破7万创新高、小鹏环比回暖 理想、蔚来待新车上市",
+          "url": "https://www.cls.cn/detail/2361886",
+          "source": "财联社热门",
           "ranks": [
-            3
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "time_info": "[10时26分 ~ 10时27分]"
         }
       ]
     },
@@ -502,66 +393,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "报道：GME考虑收购eBay",
-          "url": "https://wallstreetcn.com/livenews/3098072",
-          "source": "华尔街见闻-快讯",
+          "title": "网传今年河南蒜薹滞销，收购价低至一两毛不够人工成本，是这样吗？为什么会出现这种「丰产不丰收」的情况？",
+          "url": "https://www.zhihu.com/question/2033127682385429052",
+          "source": "知乎",
           "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 货币政策 降息 降准 加息",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "原日本央行行长黑田东彦：实现了2%这一通胀目标。 有鉴于此，日本无需实施财政宽松、也无需放宽货币政策。 日本央行4月28日对加息选项保持克制是正确的。（日本读卖新闻）",
-          "url": "https://wallstreetcn.com/livenews/3098090",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "监管 政策",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "今起，回扣入刑！医药行业“合规红线”再收紧 穿透式监管直击灰色地带",
-          "url": "https://www.cls.cn/detail/2361707",
-          "source": "财联社热门",
-          "ranks": [
-            12
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "time_info": "[10时26分 ~ 10时27分]"
         }
       ]
     },
     {
-      "keyword_group": "贸易战 关税",
+      "keyword_group": "黄金 金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
-          "url": "https://www.cls.cn/detail/2362026",
-          "source": "财联社热门",
+          "title": "多地中小学春假‌与五一假期衔接，形成‌超长黄金周，你打带娃去哪了？有选择研学吗？",
+          "url": "https://www.zhihu.com/question/2032142179552994728",
+          "source": "知乎",
           "ranks": [
-            9
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "time_info": "[10时26分 ~ 10时27分]"
         }
       ]
     },
@@ -570,32 +427,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "甲亢哥的华为三折叠掉海里了，崩溃捂脸",
-          "url": "https://news.ifeng.com/c/8sn4FWOVLTR",
-          "source": "凤凰网",
+          "title": "苹果iOS27系列新功能",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9CiOS27%E7%B3%BB%E5%88%97%E6%96%B0%E5%8A%9F%E8%83%BD%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            12
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "制造业 工业",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "标普：（关于卡塔尔）因拉斯拉凡工业城基础设施受损导致的液化天然气（LNG）产量下滑，恐需数年时间方能恢复。",
-          "url": "https://flash.jin10.com/detail/20260502040556227800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
+          "time_info": "[10时26分 ~ 10时27分]"
         }
       ]
     }
