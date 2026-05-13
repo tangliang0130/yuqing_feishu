@@ -1,404 +1,426 @@
 {
-  "generated_at": "2026-05-12T10:33:34.154303+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-13T10:40:06.252811+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "A股 上证指数 深证成指 创业板",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "创业板第二只千元股诞生，光模块龙头中际旭创涨超6%，股价突破1000元，成为创业板历史上第二只千元股，也是A股史上第十只千元股，该股自2025年5月12日以来累计上涨超970%，今年累计上涨超63%。",
-          "url": "https://wallstreetcn.com/livenews/3101967",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时33分"
-        },
-        {
-          "title": "A股航天装备板块持续走低，理工导航跌超8%，中天火箭、中国卫星、航天电子、电科蓝天等跟跌。",
-          "url": "https://flash.jin10.com/detail/20260512101336706800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时33分"
-        },
-        {
-          "title": "A股房地产板块部分活跃，深振业A涨超9%，深深房A涨超8%，滨江集团、合肥城建、万通发展、陆家嘴跟涨。",
-          "url": "https://flash.jin10.com/detail/20260512100438436800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时33分"
-        },
-        {
-          "title": "A股电力板块反复活跃，大唐发电5连板，韶能股份直线涨停，甘肃能源、华电辽能、赣能股份、晋控电力、深南电A等纷纷走高。",
-          "url": "https://wallstreetcn.com/livenews/3101958",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时33分"
-        },
-        {
-          "title": "A股光通信概念股延续涨势，红板科技4连板，可川科技一字涨停，光电股份、星网锐捷、方正科技、中富电路涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3101954",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时33分"
-        },
-        {
-          "title": "上证指数开盘报4229.28点，涨0.10%。 深证成指开盘报15952.79点，涨0.34%。 创业板指开盘报3947.14点，涨0.46%。 沪深300开盘报4965.02点，涨0.27%。 科创50开盘报1708.21点，跌0.49%。 中证500开盘报8856.18点，涨0.19%。 中证1000开盘报8880.41点，涨0.15%。",
-          "url": "https://wallstreetcn.com/livenews/3101947",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时33分"
-        },
-        {
-          "title": "A股铜缆高速连接概念持续走高，远东股份此前涨停，金田股份涨超8%，长飞光纤涨超5%，中富电路涨超4%，中航光电跟涨。",
-          "url": "https://flash.jin10.com/detail/20260512094927161800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时33分"
-        },
-        {
-          "title": "A股光纤概念震荡走高，远东股份、通鼎互联双双涨停，吴通控股涨15%，唯科科技涨13%，德科立涨超11%。",
-          "url": "https://flash.jin10.com/detail/20260512094325907800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时33分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人工智能 AI ChatGPT GPT 大模型",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "把AI用到了最有意义的场合",
-          "url": "https://www.douyin.com/hot/2495756",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 10时33分]"
-        },
         {
           "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
           "url": "https://wallstreetcn.com/articles/3772036",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时32分 ~ 10时33分]"
+          "time_info": "[10时38分 ~ 10时40分]"
         },
         {
-          "title": "差点死掉的玻璃厂凭什么成AI的神经",
-          "url": "https://www.toutiao.com/trending/7638646924790205990/",
-          "source": "今日头条",
+          "title": "原油、AI芯片、房租“三连击”，今晚美国CPI恐“热辣滚烫”",
+          "url": "https://wallstreetcn.com/articles/3772081",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时40分]"
+        },
+        {
+          "title": "Create2026百度AI开发者大会",
+          "url": "https://www.baidu.com/s?wd=Create2026%E7%99%BE%E5%BA%A6AI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A",
+          "source": "百度热搜",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时32分 ~ 10时33分]"
+          "time_info": "[10时38分 ~ 10时40分]"
+        },
+        {
+          "title": "从海力士奖金、三星罢工到全民红利，飙升的韩股吓懵了，这是AI时代的预演吗？",
+          "url": "https://wallstreetcn.com/articles/3772082",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时40分]"
+        },
+        {
+          "title": "韩国AI红利：闪崩之后，悬念才刚开始",
+          "url": "https://wallstreetcn.com/articles/3772076",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时40分]"
+        },
+        {
+          "title": "豆包收费 大模型将告别免费时代",
+          "url": "https://www.baidu.com/s?wd=%E8%B1%86%E5%8C%85%E6%94%B6%E8%B4%B9+%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%B0%86%E5%91%8A%E5%88%AB%E5%85%8D%E8%B4%B9%E6%97%B6%E4%BB%A3",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时40分]"
+        },
+        {
+          "title": "AI会员有必要充吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E4%BC%9A%E5%91%98%E6%9C%89%E5%BF%85%E8%A6%81%E5%85%85%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时40分]"
         },
         {
           "title": "AI原创短片国产爱死机",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%8E%9F%E5%88%9B%E7%9F%AD%E7%89%87%E5%9B%BD%E4%BA%A7%E7%88%B1%E6%AD%BB%E6%9C%BA",
           "source": "bilibili 热搜",
           "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 10时33分]"
-        },
-        {
-          "title": "AI时代如何评价各专业",
-          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%90%84%E4%B8%93%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 10时33分]"
-        },
-        {
-          "title": "日本财务大臣片山皋月：意识到 Mythos 及其他先进AI可能构成重大威胁。",
-          "url": "https://wallstreetcn.com/livenews/3101938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时33分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：与美国财长贝森特举行了会谈，讨论了包括汇率在内的市场情况，还讨论了人工智能和关键矿产问题。",
-          "url": "https://wallstreetcn.com/livenews/3101935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 纳斯达克 道琼斯 标普500",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "美伊局势僵持，美股原油齐涨，标普纳指再新高，光通信股集体大涨，白银暴涨7%",
-          "url": "https://wallstreetcn.com/articles/3771942",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 10时33分]"
-        },
-        {
-          "title": "美股收盘：标普500指数再创新高 存储、光通信延续逼空行情",
-          "url": "https://www.cls.cn/detail/2368457",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 10时33分]"
-        },
-        {
-          "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2368275",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 10时33分]"
-        },
-        {
-          "title": "美股芯片板块狂飙暗藏风险 散户此刻大举冲入引发担忧",
-          "url": "https://www.cls.cn/detail/2368431",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 10时33分]"
-        },
-        {
-          "title": "美股正重演2000年泡沫破灭剧本？“大空头”再发警告：纳指100将迎重大逆转！",
-          "url": "https://www.cls.cn/detail/2368550",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 10时33分]"
-        },
-        {
-          "title": "美股和欧洲股指期货走低，标普500指数期货跌0.2%，纳指期货跌0.4%。欧洲斯托克50指数期货下跌0.7%，德国DAX指数期货下跌0.8%，英国富时100指数期货跌0.9%。",
-          "url": "https://flash.jin10.com/detail/20260512095445734800",
-          "source": "金十数据",
-          "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股 恒生指数",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "港股石油股震荡走高，中国石油股份(00857.HK)涨超3%，昆仑能源(00135.HK)、中国石油化工股份(00386.HK)、中国海洋石油(00883.HK)跟涨。",
-          "url": "https://flash.jin10.com/detail/20260512095238898800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时40分]"
         },
         {
-          "title": "港股汽车股多数上涨，吉利汽车(00175.HK)涨超4%，蔚来汽车(09866.HK)涨超3%，奇瑞汽车(09973.HK)、长城汽车(02333.HK)、理想汽车(02015.HK)跟涨。",
-          "url": "https://flash.jin10.com/detail/20260512094807510800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时33分"
-        },
-        {
-          "title": "港股黄金股盘初活跃，中国白银集团(00815.HK)涨超4%，赤峰黄金(06693.HK)、紫金黄金国际(02259.HK)涨超3%，灵宝黄金(03330.HK)涨超2%。",
-          "url": "https://flash.jin10.com/detail/20260512094727401800",
-          "source": "金十数据",
+          "title": "论文严查AI使用率是否合理",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AE%BA%E6%96%87%E4%B8%A5%E6%9F%A5AI%E4%BD%BF%E7%94%A8%E7%8E%87%E6%98%AF%E5%90%A6%E5%90%88%E7%90%86",
+          "source": "bilibili 热搜",
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时40分]"
         },
         {
-          "title": "港股铜矿股集体上涨，中国有色矿业(01258.HK)涨超5%，万国黄金集团(03939.HK)、中国黄金国际(02099.HK)涨超4%，江西铜业股份(00358.HK)、洛阳钼业(03993.HK)、紫金矿业(02899.HK)涨超3%。",
-          "url": "https://flash.jin10.com/detail/20260512094630764800",
-          "source": "金十数据",
+          "title": "全球AI药物递送第一股剂泰科技挂牌港交所",
+          "url": "https://wallstreetcn.com/livenews/3102648",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时33分"
+          "time_info": "10时40分"
         },
         {
-          "title": "港股芯片股多数下跌，澜起科技(06809.HK)跌超6%，上海复旦(01385.HK)、华虹半导体(01347.HK)、芯智控股(02166.HK)、兆易创新(03986.HK)均跌超4%。",
-          "url": "https://flash.jin10.com/detail/20260512094437232800",
-          "source": "金十数据",
+          "title": "李彦宏：AI时代的度量衡是日活智能体数（DAA）",
+          "url": "https://wallstreetcn.com/livenews/3102632",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时33分"
+          "time_info": "10时40分"
         },
         {
-          "title": "港股联想集团(00992.HK)跌超3%，成交额超2.5亿港元。",
-          "url": "https://flash.jin10.com/detail/20260512094045012800",
+          "title": "现代汽车将在韩国光州测试人工智能自动驾驶汽车",
+          "url": "https://flash.jin10.com/detail/20260513100539572800",
           "source": "金十数据",
           "ranks": [
             30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时33分"
+          "time_info": "10时40分"
         }
       ]
     },
     {
-      "keyword_group": "央行 货币政策 降息 降准 加息",
-      "match_count": 3,
+      "keyword_group": "A股 上证指数 深证成指 创业板",
+      "match_count": 6,
       "titles": [
         {
-          "title": "中国央行Q1货币政策执行报告：继续实施好适度宽松的货币政策，密切关注外部输入型通胀影响",
-          "url": "https://wallstreetcn.com/articles/3771998",
-          "source": "华尔街见闻",
+          "title": "A股商业航天概念再度活跃，博云新材触及涨停，瑞华泰涨超13%，华体科技、理工导航、春晖智控、华力创通涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3102656",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 10时33分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
         },
         {
-          "title": "中国央行公开市场开展5亿元7天期逆回购操作，操作利率1.40%，持平上日。今日无逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/3101946",
+          "title": "A股三大指数集体翻红，创业板指此前一度跌超1%，电力电网、培育钻石、算力租赁、液冷服务器等方向领涨，沪深京三市上涨个股超2900只。",
+          "url": "https://wallstreetcn.com/livenews/3102647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "A股三大指数集体翻红，培育钻石、抽水蓄能、虚拟电厂板块涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260513102541813800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "创业板指跌超1%，科创50跌超2.5%，沪指跌0.26%，深成指跌0.55%，半导体、保险、券商、房地产等板块跌幅居前，沪深京三市下跌个股近3000只。",
+          "url": "https://wallstreetcn.com/livenews/3102641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "A股燃气轮机概念早盘拉升，潍柴重机涨停，东方电气、万泽股份、上海电气涨超6%，博盈特焊、中国动力跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3102634",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时33分"
+          "time_info": "10时40分"
         },
         {
-          "title": "日本财务大臣片山皋月：不会对日本央行的具体货币政策工具发表评论。",
-          "url": "https://wallstreetcn.com/livenews/3101937",
+          "title": "A股有色板块震荡走强，华达新材、罗平锌电双双涨停，北方铜业涨超6%，翔鹭钨业、盛屯矿业、金钼股份跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3102630",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金融 银行",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "“5月银行存款计息出新规”不实",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C5%E6%9C%88%E9%93%B6%E8%A1%8C%E5%AD%98%E6%AC%BE%E8%AE%A1%E6%81%AF%E5%87%BA%E6%96%B0%E8%A7%84%E2%80%9D%E4%B8%8D%E5%AE%9E",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 10时33分]"
-        },
-        {
-          "title": "“5月银行存款计息出新规”不实",
-          "url": "https://www.douyin.com/hot/2495595",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 10时33分]"
-        },
-        {
-          "title": "金十图示：2026年05月12日（周二）中国工商银行账户贵金属行情",
-          "url": "https://flash.jin10.com/detail/20260512095103975800",
-          "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时33分"
+          "time_info": "10时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 货币政策 降息 降准 加息",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "泰国央行：二轮通胀效应风险仍然有限。预计明年受供给因素驱动的通胀将减缓。",
+          "url": "https://flash.jin10.com/detail/20260513103143686800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "4月CPI意味着什么？“新美联储通讯社”：降息不再是2026年故事，沃什麻烦了",
+          "url": "https://wallstreetcn.com/articles/3772111",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时40分]"
+        },
+        {
+          "title": "泰国央行：当前政策利率适合支持经济复苏。货币政策应与通胀根源保持一致，而不应对供给侧因素作出反应。预计2026年通胀将因能源价格上涨和成本传导而暂时上升。",
+          "url": "https://flash.jin10.com/detail/20260513103054344800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "经合组织：日本央行利率到2027年底可能达到2%",
+          "url": "https://flash.jin10.com/detail/20260513101324991800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "泰国央行会议纪要：政策应优先考虑结构转型并保留财政空间。",
+          "url": "https://flash.jin10.com/detail/20260513100729213800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "泰国央行会议纪要：企业无法将这些成本转嫁给消费者可能导致企业关闭。委员会认为以消费为基础的刺激措施仅能提供短期经济支持。",
+          "url": "https://flash.jin10.com/detail/20260513100650625800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 纳斯达克 道琼斯 标普500",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美国通胀升温、美伊僵局持续，美股承压，芯片股拖累纳指，美油盘中涨近5%",
+          "url": "https://wallstreetcn.com/articles/3772040",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时40分]"
+        },
+        {
+          "title": "美股收盘： 通胀升温及伊朗局势施压市场 芯片股普遍回调 三大股指涨跌不一",
+          "url": "https://www.cls.cn/detail/2369590",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时40分]"
+        },
+        {
+          "title": "美股半导体指数跌超4%，高通重挫12%，英特尔大跌9.1%",
+          "url": "https://wallstreetcn.com/articles/3772105",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时40分]"
+        },
+        {
+          "title": "5月13日投资避雷针：美股光通信、芯片板块回调 英特尔、闪迪跌超6%",
+          "url": "https://www.cls.cn/detail/2369664",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时40分]"
+        },
+        {
+          "title": "英伟达股价美股夜盘涨超2%。此前白宫证实英伟达CEO黄仁勋将随同特朗普访华。",
+          "url": "https://wallstreetcn.com/livenews/3102620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 电动汽车 电动车",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "新能源车零售渗透率达到 61.4%，首次突破 60% 大关，如何看待这一数据？燃油车还有未来吗？",
+          "url": "https://www.zhihu.com/question/2037167038641198584",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时40分]"
+        },
+        {
+          "title": "数看4月新能源汽车产业成绩单",
+          "url": "https://www.toutiao.com/trending/7639196565483048457/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时40分]"
+        },
+        {
+          "title": "如何看待保时捷 Taycan Turbo GT 以 6：55 成绩超越仰望 U9X 重获纽北最速量产电动车的成绩？",
+          "url": "https://www.zhihu.com/question/2035861938748535820",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时40分]"
+        },
+        {
+          "title": "纯电动汽车保值排名：小米跌出前十",
+          "url": "https://www.toutiao.com/trending/7638539260280258579/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时40分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "港股 恒生指数",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "港股汽车股多数下跌，吉利汽车(00175.HK)跌近5%，比亚迪股份(01211.HK)跌超3%，奇瑞汽车(09973.HK)、赛力斯(09927.HK)、长城汽车(02333.HK)、小鹏集团(09868.HK)跟跌。",
+          "url": "https://flash.jin10.com/detail/20260513101523633800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "港股人工智能股部分下跌，美图(01357.HK)跌超5%，群核科技(00068.HK)、中芯国际(00981.HK)跌超4%，阅文集团(00772.HK)、快手(01024.HK)、百度(09888.HK)跌超3%。",
+          "url": "https://flash.jin10.com/detail/20260513100742929800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
         }
       ]
     },
@@ -407,71 +429,99 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "全球芯片LOF溢价率47%惊呆市场！是机会还是暗藏风险？",
-          "url": "https://www.cls.cn/detail/2368315",
-          "source": "财联社热门",
+          "title": "深圳一对夫妻靠囤芯片，5 个月身价暴涨 320 亿元，存储涨价周期能维持多久？普通人能参与进来吗？",
+          "url": "https://www.zhihu.com/question/2037578815958947124",
+          "source": "知乎",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时32分 ~ 10时33分]"
+          "time_info": "[10时38分 ~ 10时40分]"
         },
         {
-          "title": "沪指站上4200点创近11年新高，科创50创历史新高，芯片、半导体集体爆发、千亿巨头狂拉",
-          "url": "https://wallstreetcn.com/articles/3771947",
-          "source": "华尔街见闻",
+          "title": "恒生科技指数日内跌1%，华虹半导体跌超6%，中芯国际跌近5%。",
+          "url": "https://wallstreetcn.com/livenews/3102642",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 10时33分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
         }
       ]
     },
     {
-      "keyword_group": "监管 政策",
+      "keyword_group": "黄金 金价",
       "match_count": 2,
       "titles": [
         {
-          "title": "日本财务大臣表示正就外汇政策与贝森特进行协调",
-          "url": "https://flash.jin10.com/detail/20260512095115621800",
+          "title": "金十图示：2026年05月13日（周三）上海金早盘价为1029元/克，较国际金价(1026.86元/克)，高2.14元/克",
+          "url": "https://flash.jin10.com/detail/20260513102028905800",
           "source": "金十数据",
           "ranks": [
-            16
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时33分"
+          "time_info": "10时40分"
         },
         {
-          "title": "日本财务大臣片山皋月：没有和贝森特讨论财政政策。",
-          "url": "https://wallstreetcn.com/livenews/3101939",
-          "source": "华尔街见闻-快讯",
+          "title": "现货黄金向下触及4700美元/盎司，日内跌0.32%。",
+          "url": "https://flash.jin10.com/detail/20260513100837446800",
+          "source": "金十数据",
           "ranks": [
-            20
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时33分"
+          "time_info": "10时40分"
         }
       ]
     },
     {
-      "keyword_group": "IPO 上市",
-      "match_count": 1,
+      "keyword_group": "金融 银行",
+      "match_count": 2,
       "titles": [
         {
-          "title": "恒指高开0.34%，报26497.03点；恒生科技指数涨 0.45%。快手涨9.9%，此前报道称快手计划分拆可灵独立上市。中芯国际、携程、蔚来涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3101945",
-          "source": "华尔街见闻-快讯",
+          "title": "各大银行/品牌金条价格排行一览",
+          "url": "https://flash.jin10.com/detail/20260513103128191800",
+          "source": "金十数据",
           "ranks": [
-            15
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时33分"
+          "time_info": "10时40分"
+        },
+        {
+          "title": "中国银行原副行长林景臻被提起公诉",
+          "url": "https://wallstreetcn.com/livenews/3102637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "并购 收购 重组",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中企有意收购墨西哥日产工厂，日本慌了",
+          "url": "https://news.ifeng.com/c/8t4K7JN9tvw",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时40分]"
         }
       ]
     },
@@ -480,32 +530,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "特朗普推迟降低牛肉进口关税。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3101929",
-          "source": "华尔街见闻-快讯",
+          "title": "印度政府上调黄金和白银的进口关税 美参议院确认沃什出任美联储理事 | 环球市场",
+          "url": "https://www.cls.cn/detail/2369615",
+          "source": "财联社热门",
           "ranks": [
-            28
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时40分]"
         }
       ]
     },
     {
-      "keyword_group": "原油 石油",
+      "keyword_group": "华为 苹果 特斯拉 微软 谷歌",
       "match_count": 1,
       "titles": [
         {
-          "title": "日本财务大臣片山皋月：没有干预原油期货市场。",
-          "url": "https://wallstreetcn.com/livenews/3101940",
-          "source": "华尔街见闻-快讯",
+          "title": "科技巨头竞逐太空算力新赛道！谷歌据悉接洽SpaceX发射轨道数据中心",
+          "url": "https://www.cls.cn/detail/2369554",
+          "source": "财联社热门",
           "ranks": [
-            19
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时40分]"
         }
       ]
     }
