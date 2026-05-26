@@ -1,0 +1,749 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>热点新闻分析</title>
+        <style>
+            * { box-sizing: border-box; }
+            body { 
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+                margin: 0; 
+                padding: 16px; 
+                background: #fafafa;
+                color: #333;
+                line-height: 1.5;
+            }
+
+            .container {
+                max-width: 600px;
+                margin: 0 auto;
+                background: white;
+                border-radius: 12px;
+                overflow: hidden;
+                box-shadow: 0 2px 16px rgba(0,0,0,0.06);
+            }
+
+            .header {
+                background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%);
+                color: white;
+                padding: 32px 24px;
+                text-align: center;
+            }
+
+            .header-title {
+                font-size: 22px;
+                font-weight: 700;
+                margin: 0 0 20px 0;
+            }
+
+            .header-info {
+                display: grid;
+                grid-template-columns: repeat(3, 1fr);
+                gap: 12px;
+                font-size: 13px;
+                opacity: 0.95;
+            }
+
+            .info-item {
+                text-align: center;
+            }
+
+            .info-label {
+                display: block;
+                font-size: 12px;
+                opacity: 0.8;
+                margin-bottom: 4px;
+            }
+
+            .info-value {
+                font-weight: 600;
+                font-size: 16px;
+            }
+
+            .content {
+                padding: 24px;
+            }
+
+            .word-group {
+                margin-bottom: 40px;
+            }
+
+            .word-group:first-child {
+                margin-top: 0;
+            }
+
+            .word-header {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                margin-bottom: 20px;
+                padding-bottom: 8px;
+                border-bottom: 1px solid #f0f0f0;
+            }
+
+            .word-info {
+                display: flex;
+                align-items: center;
+                gap: 12px;
+            }
+
+            .word-name {
+                font-size: 17px;
+                font-weight: 600;
+                color: #1a1a1a;
+            }
+
+            .word-count {
+                color: #666;
+                font-size: 13px;
+                font-weight: 500;
+            }
+
+            .word-count.hot { color: #dc2626; font-weight: 600; }
+            .word-count.warm { color: #ea580c; font-weight: 600; }
+
+            .word-index {
+                color: #999;
+                font-size: 12px;
+            }
+
+            .news-item {
+                margin-bottom: 20px;
+                padding: 16px 0;
+                border-bottom: 1px solid #f5f5f5;
+                position: relative;
+                display: flex;
+                gap: 12px;
+                align-items: center;
+            }
+
+            .news-item:last-child {
+                border-bottom: none;
+            }
+
+            .news-item.new::after {
+                content: "NEW";
+                position: absolute;
+                top: 12px;
+                right: 0;
+                background: #fbbf24;
+                color: #92400e;
+                font-size: 9px;
+                font-weight: 700;
+                padding: 3px 6px;
+                border-radius: 4px;
+                letter-spacing: 0.5px;
+            }
+
+            .news-number {
+                color: #999;
+                font-size: 13px;
+                font-weight: 600;
+                min-width: 20px;
+                text-align: center;
+                flex-shrink: 0;
+                background: #f8f9fa;
+                border-radius: 50%;
+                width: 24px;
+                height: 24px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                align-self: flex-start;
+                margin-top: 8px;
+            }
+
+            .news-content {
+                flex: 1;
+                min-width: 0;
+                padding-right: 40px;
+            }
+
+            .news-item.new .news-content {
+                padding-right: 50px;
+            }
+
+            .news-header {
+                display: flex;
+                align-items: center;
+                gap: 8px;
+                margin-bottom: 8px;
+                flex-wrap: wrap;
+            }
+
+            .source-name {
+                color: #666;
+                font-size: 12px;
+                font-weight: 500;
+            }
+
+            .rank-num {
+                color: #fff;
+                background: #6b7280;
+                font-size: 10px;
+                font-weight: 700;
+                padding: 2px 6px;
+                border-radius: 10px;
+                min-width: 18px;
+                text-align: center;
+            }
+
+            .rank-num.top { background: #dc2626; }
+            .rank-num.high { background: #ea580c; }
+
+            .time-info {
+                color: #999;
+                font-size: 11px;
+            }
+
+            .count-info {
+                color: #059669;
+                font-size: 11px;
+                font-weight: 500;
+            }
+
+            .news-title {
+                font-size: 15px;
+                line-height: 1.4;
+                color: #1a1a1a;
+                margin: 0;
+            }
+
+            .news-link {
+                color: #2563eb;
+                text-decoration: none;
+            }
+
+            .news-link:hover {
+                text-decoration: underline;
+            }
+
+            .news-link:visited {
+                color: #7c3aed;
+            }
+
+            .new-section {
+                margin-top: 40px;
+                padding-top: 24px;
+                border-top: 2px solid #f0f0f0;
+            }
+
+            .new-section-title {
+                color: #1a1a1a;
+                font-size: 16px;
+                font-weight: 600;
+                margin: 0 0 20px 0;
+            }
+
+            .new-source-group {
+                margin-bottom: 24px;
+            }
+
+            .new-source-title {
+                color: #666;
+                font-size: 13px;
+                font-weight: 500;
+                margin: 0 0 12px 0;
+                padding-bottom: 6px;
+                border-bottom: 1px solid #f5f5f5;
+            }
+
+            .new-item {
+                display: flex;
+                align-items: center;
+                gap: 12px;
+                padding: 8px 0;
+                border-bottom: 1px solid #f9f9f9;
+            }
+
+            .new-item:last-child {
+                border-bottom: none;
+            }
+
+            .new-item-number {
+                color: #999;
+                font-size: 12px;
+                font-weight: 600;
+                min-width: 18px;
+                text-align: center;
+                flex-shrink: 0;
+                background: #f8f9fa;
+                border-radius: 50%;
+                width: 20px;
+                height: 20px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+
+            .new-item-rank {
+                color: #fff;
+                background: #6b7280;
+                font-size: 10px;
+                font-weight: 700;
+                padding: 3px 6px;
+                border-radius: 8px;
+                min-width: 20px;
+                text-align: center;
+                flex-shrink: 0;
+            }
+
+            .new-item-rank.top { background: #dc2626; }
+            .new-item-rank.high { background: #ea580c; }
+
+            .new-item-content {
+                flex: 1;
+                min-width: 0;
+            }
+
+            .new-item-title {
+                font-size: 14px;
+                line-height: 1.4;
+                color: #1a1a1a;
+                margin: 0;
+            }
+
+            .error-section {
+                background: #fef2f2;
+                border: 1px solid #fecaca;
+                border-radius: 8px;
+                padding: 16px;
+                margin-bottom: 24px;
+            }
+
+            .error-title {
+                color: #dc2626;
+                font-size: 14px;
+                font-weight: 600;
+                margin: 0 0 8px 0;
+            }
+
+            .error-list {
+                list-style: none;
+                padding: 0;
+                margin: 0;
+            }
+
+            .error-item {
+                color: #991b1b;
+                font-size: 13px;
+                padding: 2px 0;
+                font-family: 'SF Mono', Consolas, monospace;
+            }
+
+            @media (max-width: 480px) {
+                body { padding: 12px; }
+                .header { padding: 24px 20px; }
+                .content { padding: 20px; }
+                .header-info { grid-template-columns: repeat(2, 1fr); gap: 12px; }
+                .news-header { gap: 6px; }
+                .news-content { padding-right: 45px; }
+                .news-item { gap: 8px; }
+                .new-item { gap: 8px; }
+                .news-number { width: 20px; height: 20px; font-size: 12px; }
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <div class="header">
+                <div class="header-title">热点新闻分析</div>
+                <div class="header-info">
+                    <div class="info-item">
+                        <span class="info-label">报告类型</span>
+                        <span class="info-value">实时分析</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">新闻总数</span>
+                        <span class="info-value">255 条</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">热点新闻</span>
+                        <span class="info-value">20 条</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">关键词组</span>
+                        <span class="info-value">8 组</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">匹配率</span>
+                        <span class="info-value">7.8%</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">覆盖平台</span>
+                        <span class="info-value">9 个</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">生成时间</span>
+                        <span class="info-value">05-26 10:42</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="content">
+                <div style="margin-bottom: 24px; padding: 20px; background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%); border-radius: 12px; border-left: 4px solid #0284c7;">
+                    <h3 style="color: #0369a1; margin: 0 0 16px 0; font-size: 16px; font-weight: 600; display: flex; align-items: center; gap: 8px;">
+                        <span>🔥</span>
+                        <span>关键词热度排行榜（Top 10）</span>
+                    </h3>
+                    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 12px;">
+                        <div style="padding: 12px; background: white; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); text-align: center;">
+                            <div style="font-size: 20px; margin-bottom: 6px;">🥇</div>
+                            <div style="font-size: 14px; font-weight: 600; color: #1a1a1a; margin-bottom: 4px; word-break: break-word;">IPO 上市</div>
+                            <div style="padding: 4px 8px; border-radius: 6px; font-size: 12px; font-weight: 600; display: inline-block; background: linear-gradient(135deg, #dc2626 0%, #ea580c 100%); color: white;">
+                                5 条
+                            </div>
+                        </div>
+                        <div style="padding: 12px; background: white; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); text-align: center;">
+                            <div style="font-size: 20px; margin-bottom: 6px;">🥈</div>
+                            <div style="font-size: 14px; font-weight: 600; color: #1a1a1a; margin-bottom: 4px; word-break: break-word;">A股 上证指数 深证成指 创业板</div>
+                            <div style="padding: 4px 8px; border-radius: 6px; font-size: 12px; font-weight: 600; display: inline-block; background: linear-gradient(135deg, #dc2626 0%, #ea580c 100%); color: white;">
+                                3 条
+                            </div>
+                        </div>
+                        <div style="padding: 12px; background: white; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); text-align: center;">
+                            <div style="font-size: 20px; margin-bottom: 6px;">🥉</div>
+                            <div style="font-size: 14px; font-weight: 600; color: #1a1a1a; margin-bottom: 4px; word-break: break-word;">人工智能 AI ChatGPT GPT 大模型</div>
+                            <div style="padding: 4px 8px; border-radius: 6px; font-size: 12px; font-weight: 600; display: inline-block; background: linear-gradient(135deg, #dc2626 0%, #ea580c 100%); color: white;">
+                                3 条
+                            </div>
+                        </div>
+                        <div style="padding: 12px; background: white; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); text-align: center;">
+                            <div style="font-size: 20px; margin-bottom: 6px;">⭐</div>
+                            <div style="font-size: 14px; font-weight: 600; color: #1a1a1a; margin-bottom: 4px; word-break: break-word;">华为 苹果 特斯拉 微软 谷歌</div>
+                            <div style="padding: 4px 8px; border-radius: 6px; font-size: 12px; font-weight: 600; display: inline-block; background: #ea580c; color: white;">
+                                3 条
+                            </div>
+                        </div>
+                        <div style="padding: 12px; background: white; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); text-align: center;">
+                            <div style="font-size: 20px; margin-bottom: 6px;">⭐</div>
+                            <div style="font-size: 14px; font-weight: 600; color: #1a1a1a; margin-bottom: 4px; word-break: break-word;">新能源 电动汽车 电动车</div>
+                            <div style="padding: 4px 8px; border-radius: 6px; font-size: 12px; font-weight: 600; display: inline-block; background: #ea580c; color: white;">
+                                2 条
+                            </div>
+                        </div>
+                        <div style="padding: 12px; background: white; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); text-align: center;">
+                            <div style="font-size: 20px; margin-bottom: 6px;">6</div>
+                            <div style="font-size: 14px; font-weight: 600; color: #1a1a1a; margin-bottom: 4px; word-break: break-word;">金融 银行</div>
+                            <div style="padding: 4px 8px; border-radius: 6px; font-size: 12px; font-weight: 600; display: inline-block; background: #f3f4f6; color: #374151;">
+                                2 条
+                            </div>
+                        </div>
+                        <div style="padding: 12px; background: white; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); text-align: center;">
+                            <div style="font-size: 20px; margin-bottom: 6px;">7</div>
+                            <div style="font-size: 14px; font-weight: 600; color: #1a1a1a; margin-bottom: 4px; word-break: break-word;">芯片 半导体 集成电路</div>
+                            <div style="padding: 4px 8px; border-radius: 6px; font-size: 12px; font-weight: 600; display: inline-block; background: #f3f4f6; color: #374151;">
+                                1 条
+                            </div>
+                        </div>
+                        <div style="padding: 12px; background: white; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); text-align: center;">
+                            <div style="font-size: 20px; margin-bottom: 6px;">8</div>
+                            <div style="font-size: 14px; font-weight: 600; color: #1a1a1a; margin-bottom: 4px; word-break: break-word;">原油 石油</div>
+                            <div style="padding: 4px 8px; border-radius: 6px; font-size: 12px; font-weight: 600; display: inline-block; background: #f3f4f6; color: #374151;">
+                                1 条
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="script-section" style="margin-bottom: 30px; padding: 24px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 12px; border-left: 4px solid #4f46e5; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+                    <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 16px; flex-wrap: wrap; gap: 12px;">
+                        <h2 style="color: #4f46e5; margin: 0; font-size: 18px; font-weight: 600; display: flex; align-items: center; gap: 8px;">
+                            <span style="font-size: 20px;">📢</span>
+                            <span>AI财经热点新闻汇总播报</span>
+                        </h2>
+                        <div style="display: flex; gap: 16px; font-size: 12px; color: #666;">
+                            <span>📝 1287 字</span>
+                            <span>⏱️ 约 6 分钟</span>
+                        </div>
+                    </div>
+                    <div style="line-height: 1.9; color: #333; font-size: 15px; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); max-height: 600px; overflow-y: auto;">
+                        <p style="margin: 12px 0;">各位群友大家早上好，今天是2026年05月26日，星期二。欢迎收看本时段的财经热点新闻汇总播报。我是您的主播小糖糖。现在是上午10点41分，市场情绪高涨，我们先来聚焦资本市场最重磅的消息。</p><p style="margin: 12px 0;">首先，IPO领域迎来密集动态。最受关注的是宇树科技，这家“人形机器人第一股”将于6月1日上会迎考，冲击科创板。根据最新招股书，宇树科技一季度营收同比增长68%，但扣非净利润同比下滑52.5%，预计上半年营收在10.5亿至11.3亿元之间。营收增速放缓、利润腰斩，市场对其估值和持续盈利能力存疑，这无疑给6月1日的上会增添了几分悬念。与此同时，广东宣布启动1000亿战新基金，为新兴产业注入强心剂。此外，足疗保健行业也传来IPO消息——真把足疗店给“按”上市了，首家足疗保健第一股正式启动IPO，这反映出A股对消费服务新业态的包容度正在提升。</p><p style="margin: 12px 0;">其次，A股市场今日表现强劲。创业板涨幅超过2%，科创50指数更是狂飙近6%，芯片半导体板块大爆发，中芯国际涨停，寒武纪创出历史新高。期货市场上，“双焦”品种强势涨停，带动周期股情绪。受宇树科技上会消息提振，宇树机器人概念股开盘上涨，相关产业链个股表现活跃。</p><p style="margin: 12px 0;">人工智能方面，热点持续发酵。日本市场出现新动向——“渡边太太”重返战场，AI牛市引爆日本散户狂欢，日股日均成交额飙破10万亿日元，显示出全球AI投资热潮的扩散效应。不过，国内AI应用也引发争议：贴吧上出现AI吸附挂泛滥的讨论，力度碾压端游；而热门作品《一人之下》被指使用AI作画，引发粉丝对原创性的质疑。这些事件提示我们，AI技术在带来效率提升的同时，也需关注监管和伦理边界。</p><p style="margin: 12px 0;">科技巨头方面，华为、特斯拉、苹果均有重要动态。华为发布署名论文，详解刷屏的“芯”技术——华为τ缩放技术，将芯片竞争从“节点”转向“时间”，这标志着芯片设计思路的重大突破。特斯拉方面，市场热议其放弃印度建厂的决定，背后或与印度市场准入政策及全球产能布局调整有关。此外，法拉利首款电动车正式亮相，起售价高达435万人民币，引发市场对超豪华电动车市场的关注。</p><p style="margin: 12px 0;">能源与金融领域同样不平静。国际原油重挫，欧股集体冲高，美伊协议曙光提振市场情绪，油价短期承压。金融方面，法国银行高管强迫女友向487人卖淫的丑闻引发舆论哗然，暴露了金融行业内部管理的潜在风险。国内方面，一则“给阿嬷的情书女主本打算当银行柜员”的暖心新闻登上热搜，展现了金融行业从业者的多元人生选择。</p><p style="margin: 12px 0;">最后，我们关注半导体产业链。芯片半导体大爆发背后，华为τ缩放技术、中芯国际涨停、寒武纪创新高，共同指向一个趋势：国产替代正从“节点”突破转向“时间”维度创新，行业景气度持续回升。</p><p style="margin: 12px 0;">总结来看，今日市场呈现三大主线：一是IPO扩容与质量博弈，宇树科技上会考验市场对高成长但亏损企业的容忍度；二是科技股全面爆发，芯片半导体引领科创板大涨；三是全球能源与金融格局调整，原油大跌与AI投资热潮形成鲜明对比。投资者需密切关注6月1日宇树科技上会结果，以及华为新技术的商业化进展。以上就是今天的财经热点新闻汇总，感谢您的收听，我是小糖糖，我们下期再见。</p>
+                    </div>
+                    <div style="margin-top: 16px; padding-top: 12px; border-top: 1px solid #e5e7eb; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px;">
+                        <div style="font-size: 12px; color: #666;">
+                            <span style="color: #10b981;">✓</span> AI自动生成 | 仅供参考
+                        </div>
+                        <div style="font-size: 11px; color: #9ca3af;">
+                            2026-05-26 10:42:07 生成
+                        </div>
+                    </div>
+                </div>
+                <div class="word-group">
+                    <div class="word-header">
+                        <div class="word-info">
+                            <div class="word-name">IPO 上市</div>
+                            <div class="word-count warm">5 条</div>
+                        </div>
+                        <div class="word-index">1/8</div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">1</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">财联社热门</span><span class="rank-num top">1</span><span class="time-info">10时41分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.cls.cn/detail/2381183" target="_blank" class="news-link">【早报】广东1000亿战新基金正式启动；宇树科技科创板IPO6月1日上会</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">2</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻</span><span class="rank-num high">5</span><span class="time-info">10时41分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3773085" target="_blank" class="news-link">宇树招股书更新：Q1营收增长放缓至68%，扣非净利润同比下降52.5%，预计上半年营收10.5亿-11.3亿元 | IPO见闻</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">3</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">财联社热门</span><span class="rank-num high">5</span><span class="time-info">10时41分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.cls.cn/detail/2381083" target="_blank" class="news-link">真把足疗店给“按”上市了？足疗保健第一股启动IPO</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">4</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">知乎</span><span class="rank-num ">6</span><span class="time-info">10时41分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.zhihu.com/question/2042348445197756320" target="_blank" class="news-link">宇树 IPO 将于 6 月 1 日上会，一季度营收增 68% 利润却腰斩，这会对 IPO 产生影响吗？</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">5</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">抖音</span><span class="rank-num ">7</span><span class="time-info">10时41分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.douyin.com/hot/2512228" target="_blank" class="news-link">宇树科技IPO将于6月1日上会</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="word-group">
+                    <div class="word-header">
+                        <div class="word-info">
+                            <div class="word-name">A股 上证指数 深证成指 创业板</div>
+                            <div class="word-count ">3 条</div>
+                        </div>
+                        <div class="word-index">2/8</div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">1</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">财联社热门</span><span class="rank-num top">3</span><span class="time-info">10时41分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.cls.cn/detail/2381067" target="_blank" class="news-link">宇树科技6月1日上会迎考 冲击A股“人形机器人第一股”</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">2</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻</span><span class="rank-num ">9</span><span class="time-info">10时41分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3773021" target="_blank" class="news-link">创业板涨超2%，科创50狂飙近6%，芯片半导体大爆发，中芯国际涨停、寒武纪创历史新高，“双焦”强势涨停</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">3</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">百度热搜</span><span class="rank-num ">20</span><span class="time-info">10时41分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.baidu.com/s?wd=A%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A6%82%E5%BF%B5%E8%82%A1%E4%B8%8A%E6%B6%A8" target="_blank" class="news-link">A股开盘：宇树机器人概念股上涨</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="word-group">
+                    <div class="word-header">
+                        <div class="word-info">
+                            <div class="word-name">人工智能 AI ChatGPT GPT 大模型</div>
+                            <div class="word-count ">3 条</div>
+                        </div>
+                        <div class="word-index">3/8</div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">1</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">贴吧</span><span class="rank-num ">6</span><span class="time-info">10时41分</span>
+                            </div>
+                            <div class="news-title"><a href="https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8" target="_blank" class="news-link">AI吸附挂泛滥,力度碾压端游</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">2</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">抖音</span><span class="rank-num ">9</span><span class="time-info">10时41分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.douyin.com/hot/2512287" target="_blank" class="news-link">一人之下被指用AI作画</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">3</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻</span><span class="rank-num ">10</span><span class="time-info">10时41分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3773034" target="_blank" class="news-link">“渡边太太”重返战场！AI牛市引爆日本散户狂欢，日股日均成交额飙破10万亿日元</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="word-group">
+                    <div class="word-header">
+                        <div class="word-info">
+                            <div class="word-name">华为 苹果 特斯拉 微软 谷歌</div>
+                            <div class="word-count ">3 条</div>
+                        </div>
+                        <div class="word-index">4/8</div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">1</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">bilibili 热搜</span><span class="rank-num top">2</span><span class="time-info">10时41分</span>
+                            </div>
+                            <div class="news-title"><a href="https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%96%AF%E6%8B%89%E6%94%BE%E5%BC%83%E5%8D%B0%E5%BA%A6%E5%BB%BA%E5%8E%82" target="_blank" class="news-link">如何看特斯拉放弃印度建厂</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">2</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">微博</span><span class="rank-num ">7</span><span class="time-info">10时41分</span>
+                            </div>
+                            <div class="news-title"><a href="https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA&amp;t=31&amp;band_rank=7&amp;Refer=top" target="_blank" class="news-link">华为</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">3</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻</span><span class="rank-num ">8</span><span class="time-info">10时41分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3773031" target="_blank" class="news-link">何庭波署名论文发布，详解刷屏的华为“芯”技术</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="word-group">
+                    <div class="word-header">
+                        <div class="word-info">
+                            <div class="word-name">新能源 电动汽车 电动车</div>
+                            <div class="word-count ">2 条</div>
+                        </div>
+                        <div class="word-index">5/8</div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">1</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">百度热搜</span><span class="rank-num ">10</span><span class="time-info">10时41分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.baidu.com/s?wd=%E6%B3%95%E6%8B%89%E5%88%A9%E9%A6%96%E6%AC%BE%E7%94%B5%E5%8A%A8%E8%BD%A6%E4%BA%AE%E7%9B%B8+%E8%B5%B7%E5%94%AE%E4%BB%B7435%E4%B8%87" target="_blank" class="news-link">法拉利首款电动车亮相 起售价435万</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">2</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">微博</span><span class="rank-num ">18</span><span class="time-info">10时41分</span>
+                            </div>
+                            <div class="news-title"><a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E6%8B%89%E5%88%A9%E5%8F%B2%E4%B8%8A%E9%A6%96%E6%AC%BE%E7%94%B5%E5%8A%A8%E8%BD%A6%E4%BA%AE%E7%9B%B8%23&amp;t=31&amp;band_rank=18&amp;Refer=top" target="_blank" class="news-link">法拉利史上首款电动车亮相</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="word-group">
+                    <div class="word-header">
+                        <div class="word-info">
+                            <div class="word-name">金融 银行</div>
+                            <div class="word-count ">2 条</div>
+                        </div>
+                        <div class="word-index">6/8</div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">1</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">今日头条</span><span class="rank-num ">13</span><span class="time-info">10时41分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.toutiao.com/trending/7643975302640700955/" target="_blank" class="news-link">给阿嬷的情书女主本打算当银行柜员</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">2</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">微博</span><span class="rank-num ">19</span><span class="time-info">10时41分</span>
+                            </div>
+                            <div class="news-title"><a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E9%93%B6%E8%A1%8C%E9%AB%98%E7%AE%A1%E5%BC%BA%E8%BF%AB%E5%A5%B3%E5%8F%8B%E5%90%91487%E4%BA%BA%E5%8D%96%E6%B7%AB%23&amp;t=31&amp;band_rank=19&amp;Refer=top" target="_blank" class="news-link">法国银行高管强迫女友向487人卖淫</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="word-group">
+                    <div class="word-header">
+                        <div class="word-info">
+                            <div class="word-name">芯片 半导体 集成电路</div>
+                            <div class="word-count ">1 条</div>
+                        </div>
+                        <div class="word-index">7/8</div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">1</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻</span><span class="rank-num high">4</span><span class="time-info">10时41分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3773040" target="_blank" class="news-link">华为τ缩放：芯片竞争从“节点”转向“时间”</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="word-group">
+                    <div class="word-header">
+                        <div class="word-info">
+                            <div class="word-name">原油 石油</div>
+                            <div class="word-count ">1 条</div>
+                        </div>
+                        <div class="word-index">8/8</div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">1</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">财联社热门</span><span class="rank-num ">13</span><span class="time-info">10时41分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.cls.cn/detail/2381139" target="_blank" class="news-link">欧股集体冲高国际原油重挫 美伊协议曙光提振市场情绪</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+    </html>
+    
