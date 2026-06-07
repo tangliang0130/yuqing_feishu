@@ -1,545 +1,401 @@
 {
-  "generated_at": "2026-06-06T10:40:22.177913+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-07T10:58:52.600684+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股 纳斯达克 道琼斯 标普500",
-      "match_count": 13,
+      "keyword_group": "人工智能 AI ChatGPT GPT 大模型",
+      "match_count": 11,
       "titles": [
         {
-          "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
-          "url": "https://wallstreetcn.com/articles/3773946",
+          "title": "债券巨头买入债券，为AI泡沫破裂做准备",
+          "url": "https://wallstreetcn.com/articles/3774027",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "appearance_count": 1,
+          "time_info": "10时58分"
         },
         {
-          "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
-          "url": "https://www.cls.cn/detail/2392497",
+          "title": "硅片行业的“结构性牛市”：AI芯片“喂饱”硅片巨头，国产硅片迎来黄金窗口",
+          "url": "https://wallstreetcn.com/premium/articles/3773871?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "OpenAI等公司向美国提交了一项让全民分享人工智能红利（AI股权）的计划提案。 该人工智能提案涉及建立一个全新的主权财富基金式实体。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3115505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
+          "url": "https://www.cls.cn/detail/2392589",
           "source": "财联社热门",
           "ranks": [
-            1
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "appearance_count": 1,
+          "time_info": "10时58分"
         },
         {
-          "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
-          "url": "https://wallstreetcn.com/articles/3773949",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "美股三大指数集体收跌，纳指跌超 1100 点，美国非农数据大幅超预期，加息预期升温，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2046360260902909588",
+          "title": "AI 让个人效率涨 10 倍，为什么公司却没赚更多的钱？",
+          "url": "https://www.zhihu.com/question/2025012000539846038",
           "source": "知乎",
           "ranks": [
-            5
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "appearance_count": 1,
+          "time_info": "10时58分"
         },
         {
-          "title": "美股泡沫爆破或渐行渐近",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E6%B3%A1%E6%B2%AB%E7%88%86%E7%A0%B4%E6%88%96%E6%B8%90%E8%A1%8C%E6%B8%90%E8%BF%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "6 月 5 日「黑色星期五」再临，美股，加密货币、黄金、石油等大宗商品均大幅重挫，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2046503055248699881",
+          "title": "为什么现在 AI 生成到了人人喊打的境遇？大量劣质一眼假的东西泛滥成灾？",
+          "url": "https://www.zhihu.com/question/2044941270087463980",
           "source": "知乎",
           "ranks": [
-            14
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "appearance_count": 1,
+          "time_info": "10时58分"
         },
         {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=17&Refer=top",
-          "source": "微博",
+          "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33325056",
+          "source": "澎湃新闻",
           "ranks": [
-            17
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "appearance_count": 1,
+          "time_info": "10时58分"
         },
         {
-          "title": "美股三大指数齐跌 纳指跌逾千点",
-          "url": "https://www.toutiao.com/trending/7647681791742214171/",
-          "source": "今日头条",
+          "title": "AI 有可能代替人类从事数学研究吗？",
+          "url": "https://www.zhihu.com/question/41212111",
+          "source": "知乎",
           "ranks": [
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "美股芯片巨头暴跌",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收跌超6.5%，英伟达也跌6.2%",
-          "url": "https://wallstreetcn.com/livenews/3115381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "10时58分"
         },
         {
-          "title": "周五（6月5日），美股存储芯片与硬件供应链指数收跌10.92%，报198.69点，本周累计下跌5.67%，整体冲高回落。 周五当天，成分股全线溃败，Rambus收跌14.20%，美光科技跌13.25%，泰瑞达、闪迪至少跌11.39%，西部数据跌11.08%，拉姆研究、应用材料、希捷科技至少跌8.48%。",
-          "url": "https://wallstreetcn.com/livenews/3115378",
+          "title": "报道：美国白宫AI政策顾问Krisnan将离职",
+          "url": "https://wallstreetcn.com/livenews/3115486",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "周五（6月5日），美股信息科技指数收跌9.01%，报410.70点，本周累计下跌6.06%，6月1-4日持稳于455点附近，5日发布非农就业报告之后低开低走。 成分股哀鸿遍野，迈威尔科技/美满电子收跌16.74%，Rigetti计算跌14.40%，D-Wave Quantum、IonQ、美光科技至少跌13.25%，Ondas、Nebius集团、Iren、泰瑞达至少跌12.03%，BigBear.ai、Astera Labs、闪迪、英特尔、超微电脑、西部数据、安森美半导体至少跌11.05%，高通、AMD、高意公司Coherent、芯源系统MPWR、应用数字公司、康宁公司也至少跌10.18%，苹果跌1.25%表现顺数第五，儒博技术公司ROP涨0.11%，是唯一收涨的成分股。",
-          "url": "https://wallstreetcn.com/livenews/3115385",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "周五（6月5日），美股超大规模云服务商（Hyperscalers）收跌3.91%，报99.37点，本周累计下跌6.08%。 成分股全线溃败，甲骨文收跌9.59%，Meta跌5.51%，亚马逊跌3.06%，微软跌2.66%，谷歌A跌0.98%。",
-          "url": "https://wallstreetcn.com/livenews/3115384",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI ChatGPT GPT 大模型",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "马上评｜该对AI外呼骚扰电话出手了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33316001",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "【焦点复盘】沪指冲高回落失守半年线，TMT产业链遭深幅回调，物理AI概念逆势活跃",
-          "url": "https://www.cls.cn/detail/2391959",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "appearance_count": 1,
+          "time_info": "10时58分"
         },
         {
           "title": "严防作弊!高考期间AI搜题关停",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
           "source": "贴吧",
           "ranks": [
-            13
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "appearance_count": 1,
+          "time_info": "10时58分"
         },
         {
-          "title": "腾讯高管称今年大部分代码由 AI 生成，工程师更侧重架构设计，怎样看待这一变化？会成为行业趋势吗？",
-          "url": "https://www.zhihu.com/question/2046240341729042945",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "抖音副总裁回应豆包误判蘑菇致用户中毒，称 AI 回应仅供参考，如何看待这一回应？这件事豆包该背锅吗？",
-          "url": "https://www.zhihu.com/question/2046268823192302620",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "开麦丨AI在电话那头等你，接还是不接？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33316762",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "印度高温背后的AI问题",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E9%AB%98%E6%B8%A9%E8%83%8C%E5%90%8E%E7%9A%84AI%E9%97%AE%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金 金价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "深夜巨震！黄金跌穿4330美元、纳指重挫3%、比特币失守6万美元关口",
-          "url": "https://www.cls.cn/detail/2392464",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "男子偷走百万黄金 留下半瓶可乐",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E8%B5%B0%E7%99%BE%E4%B8%87%E9%BB%84%E9%87%91+%E7%95%99%E4%B8%8B%E5%8D%8A%E7%93%B6%E5%8F%AF%E4%B9%90",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=14&Refer=top",
+          "title": "高考新增AI监考员",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%96%B0%E5%A2%9EAI%E7%9B%91%E8%80%83%E5%91%98%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
-            14
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "现货黄金抹去今年涨幅",
-          "url": "https://www.toutiao.com/trending/7647060727076880438/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "金饰价格跌回2025年 专家建议：黄金占资产配比10%",
-          "url": "https://flash.jin10.com/detail/20260606092732683800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "10时58分"
         }
       ]
     },
     {
       "keyword_group": "央行 货币政策 降息 降准 加息",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
-          "title": "非农重燃通胀担忧，“新美联储通讯社”：美联储鹰派或重启加息",
-          "url": "https://wallstreetcn.com/articles/3773984",
-          "source": "华尔街见闻",
+          "title": "中国央行连续第19个月增持黄金",
+          "url": "https://wallstreetcn.com/livenews/3115513",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "中国央行连续第19个月增持黄金",
+          "url": "https://flash.jin10.com/detail/20260607100117805800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "中国央行加速增持黄金！连续19个月增持，5月环比增加32万盎司",
+          "url": "https://wallstreetcn.com/articles/3774030",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
         },
         {
           "title": "美国5月非农延续“爆表”节奏 美联储降息选项被彻底扫下台面",
           "url": "https://www.cls.cn/detail/2392300",
           "source": "财联社热门",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "美非农大超预期打击降息前景 纳指期货盘前跌超1% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2392284",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "华泰证券：5月非农再超预期推升美联储加息必要性",
-          "url": "https://flash.jin10.com/detail/20260606095844025800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "IPO 上市",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "深度详解“史上最大IPO”--SpaceX",
-          "url": "https://wallstreetcn.com/articles/3773924",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "IPO前夕再获重磅订单！谷歌每月支付9.2亿美元租用SpaceX算力",
-          "url": "https://www.cls.cn/detail/2392502",
-          "source": "财联社热门",
-          "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "appearance_count": 1,
+          "time_info": "10时58分"
         },
         {
-          "title": "SpaceX IPO已获得2倍认购资金",
-          "url": "https://flash.jin10.com/detail/20260606090611055800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "华为 苹果 特斯拉 微软 谷歌",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "欧洲议会弃用谷歌 转用法国搜索引擎",
-          "url": "https://wallstreetcn.com/livenews/3115400",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "欧洲议会弃用谷歌 转用法国搜索引擎",
-          "url": "https://flash.jin10.com/detail/20260606100207987800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "谷歌关联的预付能源债券引发市政债券交易员抢购潮",
-          "url": "https://wallstreetcn.com/livenews/3115375",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股 上证指数 深证成指 创业板",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "招商证券：想在A股赚钱，第一条铁律是“叙事”风向",
-          "url": "https://www.cls.cn/detail/2392216",
+          "title": "美联储“喉舌”：从“三次降息”到“重启加息” 沃什首次议息会议便遭遇空前考验",
+          "url": "https://www.cls.cn/detail/2392722",
           "source": "财联社热门",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "创业板大跌超3%，机器人午后爆发，芯片半导体集体下挫，恒科指跌近2%，AI大模型股急跌",
-          "url": "https://wallstreetcn.com/articles/3773923",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时39分"
+          "time_info": "10时58分"
         }
       ]
     },
     {
-      "keyword_group": "芯片 半导体 集成电路",
+      "keyword_group": "美股 纳斯达克 道琼斯 标普500",
       "match_count": 2,
       "titles": [
         {
-          "title": "全球首款硅基氮化镓射频芯片交付",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E7%A1%85%E5%9F%BA%E6%B0%AE%E5%8C%96%E9%95%93%E5%B0%84%E9%A2%91%E8%8A%AF%E7%89%87%E4%BA%A4%E4%BB%98",
-          "source": "百度热搜",
+          "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
+          "url": "https://www.cls.cn/detail/2392497",
+          "source": "财联社热门",
           "ranks": [
-            24
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "appearance_count": 1,
+          "time_info": "10时58分"
         },
         {
-          "title": "美国芯片股单日蒸发逾万亿美元市值，费城半导体指数创六年最大单日跌幅",
-          "url": "https://wallstreetcn.com/articles/3773996",
-          "source": "华尔街见闻",
+          "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
+          "url": "https://www.cls.cn/detail/2392638",
+          "source": "财联社热门",
           "ranks": [
-            9
+            3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "10时58分"
         }
       ]
     },
     {
-      "keyword_group": "监管 政策",
+      "keyword_group": "新能源 电动汽车 电动车",
       "match_count": 2,
       "titles": [
         {
-          "title": "全面加强监管！国务院办公厅：建立私募基金风险集中监测平台，严控新设政府投资基金",
-          "url": "https://wallstreetcn.com/articles/3773965",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "香港金管局：银行界已落实最新监管要求 确保开户流程合规有序",
-          "url": "https://flash.jin10.com/detail/20260606101200373800",
+          "title": "我国新能源车要减肥了",
+          "url": "https://flash.jin10.com/detail/20260607091552369800",
           "source": "金十数据",
           "ranks": [
-            10
+            17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "并购 收购 重组",
-      "match_count": 1,
-      "titles": [
+          "time_info": "10时58分"
+        },
         {
-          "title": "巴西陷入困境的糖业和乙醇生产商Raízen SA与债权人达成130亿美元庭外重组计划。",
-          "url": "https://wallstreetcn.com/livenews/3115382",
-          "source": "华尔街见闻-快讯",
+          "title": "多款新能源车涨价了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%AC%BE%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E6%B6%A8%E4%BB%B7%E4%BA%86%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
-            18
+            19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "10时58分"
         }
       ]
     },
     {
       "keyword_group": "地缘政治 冲突",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "一图看懂｜“停火就是以更温和的方式开火”，中东多场冲突停而不止",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33324916",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "世界杯热身赛葡萄牙智利爆发冲突",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E7%83%AD%E8%BA%AB%E8%B5%9B%E8%91%A1%E8%90%84%E7%89%99%E6%99%BA%E5%88%A9%E7%88%86%E5%8F%91%E5%86%B2%E7%AA%81%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金 金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2026年06月07日（周日）中国黄金及外汇储备",
+          "url": "https://flash.jin10.com/detail/20260607102642433800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "深夜巨震！黄金跌穿4330美元、纳指重挫3%、比特币失守6万美元关口",
+          "url": "https://www.cls.cn/detail/2392464",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为 苹果 特斯拉 微软 谷歌",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "合计700亿美元！SpaceX先后与Anthropic和谷歌签下大单，“算力租赁”ARR高达260亿美元",
+          "url": "https://wallstreetcn.com/articles/3774016",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "特斯拉和印度的建厂谈判正式告吹，原因分析",
+          "url": "https://news.ifeng.com/c/8tkrzR3CiFe",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股 上证指数 深证成指 创业板",
       "match_count": 1,
       "titles": [
         {
-          "title": "联合国：支持俄乌解决冲突实现停火",
-          "url": "https://wallstreetcn.com/livenews/3115399",
+          "title": "龙头五连板！本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2392448",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "财报 业绩",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "亮眼财报后股价大跌？博通CEO：永远不关心股价，死磕技术客户就不会跑，看好“博通-谷歌-Anthropic”铁三角",
+          "url": "https://wallstreetcn.com/articles/3774025",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "原油 石油",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "日本将菲律宾列为石油储备支持的“首要重点”",
+          "url": "https://flash.jin10.com/detail/20260607092040531800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金融 银行",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美联储巴尔警告：放宽华尔街银行规则伴随重大风险",
+          "url": "https://wallstreetcn.com/livenews/3115485",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "10时58分"
         }
       ]
     }
