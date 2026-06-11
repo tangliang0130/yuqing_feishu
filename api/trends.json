@@ -1,404 +1,349 @@
 {
-  "generated_at": "2026-06-10T10:53:41.769738+08:00",
-  "total_titles_processed": 323,
+  "generated_at": "2026-06-11T11:25:20.692267+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "A股 上证指数 深证成指 创业板",
-      "match_count": 9,
+      "keyword_group": "黄金 金价",
+      "match_count": 10,
       "titles": [
         {
-          "title": "跨境荐股！\"白毛股神\"连续三天\"搅动A股风云\"",
-          "url": "https://wallstreetcn.com/articles/3774218",
-          "source": "华尔街见闻",
+          "title": "【早报】美军空袭伊朗；黄金、白银继续大跌",
+          "url": "https://www.cls.cn/detail/2396599",
+          "source": "财联社热门",
           "ranks": [
-            4
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时52分 ~ 10时53分]"
+          "time_info": "[11时24分 ~ 11时25分]"
         },
         {
-          "title": "A股CPO等算力硬件股持续走低，长进光子跌超10%，腾景科技、通鼎互联、中天科技、天孚通信、光库科技、中富电路等多股跌超6%。",
-          "url": "https://wallstreetcn.com/livenews/3117182",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "深成指、创业板指均跌超2%，沪指跌0.6%，贵金属、算力硬件、电力电网等方向跌幅居前，沪深京三市下跌个股超4400只。",
-          "url": "https://wallstreetcn.com/livenews/3117176",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "A股旅游酒店板块震荡走高，天府文旅涨停，大连圣亚涨超8%，西藏旅游、云南旅游、长白山、西域旅游等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260610103053247800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "创业板指跌超2%，贵金属、CPO、电力等方向跌幅居前，沪深京三市下跌个股超3800只。",
-          "url": "https://wallstreetcn.com/livenews/3117140",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "A股零售板块短线走高，全新好涨超5%，合百集团、宁波中百、赫美集团、海宁皮城等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260610102646255800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "A股银行板块震荡走高，青岛银行涨超3%，建设银行、农业银行、中国银行均涨超2%，厦门银行、工商银行、沪农商行、渝农商行等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260610101845398800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "上证指数开盘报3985.12点，跌0.62%。 深证成指开盘报15062.51点，跌1.35%。 创业板指开盘报3897.73点，跌1.62%。 沪深300开盘报4753.12点，跌1.01%。 科创50开盘报1662.85点，跌0.02%。 中证500开盘报8094.14点，跌1.00%。 中证1000开盘报8232.02点，跌1.04%。",
-          "url": "https://wallstreetcn.com/livenews/3117130",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI ChatGPT GPT 大模型",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
-          "url": "https://wallstreetcn.com/articles/3774181",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时52分 ~ 10时53分]"
-        },
-        {
-          "title": "苹果发布 Siri AI 等 AI 功能，市值一夜蒸发超 5700 亿元，为何投资者反应平平？",
-          "url": "https://www.zhihu.com/question/2047616042067834810",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时52分 ~ 10时53分]"
-        },
-        {
-          "title": "上周五的暴跌只是预演？高盛、巴克莱齐发警告：AI交易拥挤度已爆表",
-          "url": "https://wallstreetcn.com/articles/3774243",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时52分 ~ 10时53分]"
-        },
-        {
-          "title": "Siri AI将如何改变苹果",
-          "url": "https://search.bilibili.com/all?keyword=Siri%20AI%E5%B0%86%E5%A6%82%E4%BD%95%E6%94%B9%E5%8F%98%E8%8B%B9%E6%9E%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时52分 ~ 10时53分]"
-        },
-        {
-          "title": "2026 年高考志愿填报，孩子应该选择电气、能动、机械、医学、计算机、还是火爆的人工智能？",
-          "url": "https://www.zhihu.com/question/2045653689407477325",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时52分 ~ 10时53分]"
-        },
-        {
-          "title": "AI入口重燃战火？多家互联网企业官宣接入微信AI生态，能带来什么",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33343767",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时52分 ~ 10时53分]"
-        },
-        {
-          "title": "Meta Platforms(META.O)：公司在印度与依赖人工智能的数据中心达成合作。",
-          "url": "https://flash.jin10.com/detail/20260610103144080800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "IPO 上市",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "世纪IPO炸场！报道：SpaceX认购规模狂飙至2500亿美元，近四倍超额认购",
-          "url": "https://wallstreetcn.com/articles/3774260",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时52分 ~ 10时53分]"
-        },
-        {
-          "title": "IPO前“秀肌肉”：Anthropic推出最强公开模型Fable 5，戴安全枷锁解封Mythos级能力",
-          "url": "https://wallstreetcn.com/articles/3774258",
-          "source": "华尔街见闻",
+          "title": "金价抹去今年全部涨幅",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%8A%B9%E5%8E%BB%E4%BB%8A%E5%B9%B4%E5%85%A8%E9%83%A8%E6%B6%A8%E5%B9%85",
+          "source": "百度热搜",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时52分 ~ 10时53分]"
+          "time_info": "[11时24分 ~ 11时25分]"
         },
         {
-          "title": "华尔街抢疯了！SpaceX上市认购火爆 据称机构订单远超发行规模",
-          "url": "https://www.cls.cn/detail/2395371",
+          "title": "91天“闪电入熊”！黄金到底为什么崩了？",
+          "url": "https://www.cls.cn/detail/2396736",
           "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时52分 ~ 10时53分]"
-        },
-        {
-          "title": "脑机接口公司博睿康完成IPO辅导",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33339692",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时52分 ~ 10时53分]"
-        },
-        {
-          "title": "香港财政司司长陈茂波：仍鼓励资本通过正规渠道流入，香港2026年IPO市场“当然”比2025年更好。",
-          "url": "https://wallstreetcn.com/livenews/3117163",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金 金价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "金价下跌黄金却卖不动了吗",
-          "url": "https://www.douyin.com/hot/2528192",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时52分 ~ 10时53分]"
-        },
-        {
-          "title": "黄金",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=12&Refer=top",
-          "source": "微博",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时52分 ~ 10时53分]"
+          "time_info": "[11时24分 ~ 11时25分]"
+        },
+        {
+          "title": "黄金一直跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%B8%80%E7%9B%B4%E8%B7%8C%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 11时25分]"
         },
         {
           "title": "跌跌不休!印度抛黄金救卢比",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354999&amp;topic_name=%E8%B7%8C%E8%B7%8C%E4%B8%8D%E4%BC%91%21%E5%8D%B0%E5%BA%A6%E6%8A%9B%E9%BB%84%E9%87%91%E6%95%91%E5%8D%A2%E6%AF%94",
           "source": "贴吧",
           "ranks": [
-            14
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时52分 ~ 10时53分]"
+          "time_info": "[11时24分 ~ 11时25分]"
         },
         {
-          "title": "经纬度：三峡水运新通道开工，中国“黄金水道”再扩容",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33341489",
+          "title": "黄金进入4年以来首个熊市",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E8%BF%9B%E5%85%A54%E5%B9%B4%E4%BB%A5%E6%9D%A5%E9%A6%96%E4%B8%AA%E7%86%8A%E5%B8%82%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 11时25分]"
+        },
+        {
+          "title": "金十图示：2026年06月11日（周四）上海金早盘价为892.83元/克，较国际金价(887.35元/克)，高5.48元/克",
+          "url": "https://flash.jin10.com/detail/20260611110147671800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "新加坡的星展银行将在2026年下半年向散户提供代币化实物黄金。",
+          "url": "https://flash.jin10.com/detail/20260611110050137800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "黄金牛市结束了吗？分析师：别慌，这轮牛市对标70年代，还要再涨两倍",
+          "url": "https://flash.jin10.com/detail/20260611105917581800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "美国连续第二日对伊朗进行打击，现货黄金盘初一度跌破4030美元，卖出信号仍强。后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）。",
+          "url": "https://flash.jin10.com/detail/20260611105833861800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股 上证指数 深证成指 创业板",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "创业板指跌超1%，此前一度涨超1.4%，物理AI、影视传媒、游戏、体育等板块跌幅居前，沪深京三市下跌个股超4500家。",
+          "url": "https://wallstreetcn.com/livenews/3117872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "A股氦气概念震荡走高，华特气体涨超14%，和远气体涨停，凯美特气涨超6%，金宏气体、正帆科技、广钢气体、蜀道装备等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260611104836969800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "A股宽基指数样本即将大调整 近9000亿元规模指数基金同步调仓",
+          "url": "https://flash.jin10.com/detail/20260611104509815800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "北证50指数跌超3%，创业板指冲高回落翻绿，沪指、深成指均跌超0.4%，影视传媒、物理AI、旅游、机器人等板块跌幅居前，沪深京三市下跌个股超4300只。",
+          "url": "https://wallstreetcn.com/livenews/3117853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "创业板指跌超1%，传媒、AI智能体、减速器等概念跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260611103503168800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "IPO 上市",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "SpaceX等超级IPO排队来袭 华尔街警告加密货币市场压力加剧",
+          "url": "https://www.cls.cn/detail/2396534",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 11时25分]"
+        },
+        {
+          "title": "IPO前夜，SpaceX CFO详解“五位一体超级闭环”",
+          "url": "https://wallstreetcn.com/articles/3774325",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 11时25分]"
+        },
+        {
+          "title": "如何交易SpaceX上市？记住两个关键时间点：“7月7日入纳指”和“7月财报会两天后的解禁”",
+          "url": "https://wallstreetcn.com/articles/3774302",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 11时25分]"
+        },
+        {
+          "title": "SpaceX上市在即 约400名持股员工身价预计将达1亿美元",
+          "url": "https://flash.jin10.com/detail/20260611104947316800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 纳斯达克 道琼斯 标普500",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
+          "url": "https://wallstreetcn.com/articles/3774300",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 11时25分]"
+        },
+        {
+          "title": "美股收盘：避险情绪升温芯片板块再现抛售潮 道指纳指跌近2%",
+          "url": "https://www.cls.cn/detail/2396570",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 11时25分]"
+        },
+        {
+          "title": "美银：美股净抛售创纪录，科技板块外流达2008年以来最高",
+          "url": "https://wallstreetcn.com/articles/3774357",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 11时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI ChatGPT GPT 大模型",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "抖音AI创作大赛来了",
+          "url": "https://www.douyin.com/hot/2529851",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 11时25分]"
+        },
+        {
+          "title": "当患者开始带着AI回答来就诊：打破医患信息差还是增加风险？责任如何界定？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33350280",
           "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 11时25分]"
+        },
+        {
+          "title": "于娜看到已故老公AI形象崩溃大哭",
+          "url": "https://www.toutiao.com/trending/7649760127175904777/",
+          "source": "今日头条",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时52分 ~ 10时53分]"
-        },
-        {
-          "title": "国际油价金价大跌",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时52分 ~ 10时53分]"
+          "time_info": "[11时24分 ~ 11时25分]"
         }
       ]
     },
     {
       "keyword_group": "央行 货币政策 降息 降准 加息",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
         {
-          "title": "印尼央行副行长：印尼央行周三上午已开始与亚洲投资者进行类似的电话会议。",
-          "url": "https://flash.jin10.com/detail/20260610103653799800",
+          "title": "韩国央行：五月份对家庭贷款净额环比增长6.9万亿韩元，创2024年8月以来最大增幅，4月份为增长2.1万亿韩元。",
+          "url": "https://flash.jin10.com/detail/20260611110322273800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时53分"
+          "time_info": "11时25分"
         },
         {
-          "title": "印尼央行副行长：印尼央行与欧洲和美国的投资者进行了电话会议，解释了意外加息的原因。",
-          "url": "https://flash.jin10.com/detail/20260610103548051800",
+          "title": "机构：日本央行行长缺席下周会议不会带来太多明显变化",
+          "url": "https://flash.jin10.com/detail/20260611110313507800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时53分"
+          "time_info": "11时25分"
         },
         {
-          "title": "美银：下周日本央行若鹰派加息，将对日元构成支撑",
-          "url": "https://flash.jin10.com/detail/20260610102543319800",
+          "title": "植田和男住院缺席议息会议，市场担忧央行沟通不畅",
+          "url": "https://flash.jin10.com/detail/20260611104621946800",
           "source": "金十数据",
           "ranks": [
-            24
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "中国央行进行1,590亿元7天期逆回购操作，操作利率1.4%，持平上次。今日无逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/3117129",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股 恒生指数",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "香港恒生指数跌1.1%，恒生科技指数跌1.5%。智谱跌超7%，蔚来、联想集团跌超6%。",
-          "url": "https://wallstreetcn.com/livenews/3117178",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "恒生科技指数跌破4700点，创今年4月8日以来新低；恒生指数现跌超1%。",
-          "url": "https://flash.jin10.com/detail/20260610103332107800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "港股新能源车企股走弱，小鹏集团(09868.HK)、蔚来-SW(09866.HK)、零跑汽车(09863.HK)均跌超5%，赛力斯(09927.HK)、小米集团(01810.HK)、比亚迪股份(01211.HK)、理想汽车(02015.HK)等个股跟跌。",
-          "url": "https://flash.jin10.com/detail/20260610102317486800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
+          "time_info": "11时25分"
         }
       ]
     },
@@ -407,99 +352,189 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "【早报】美伊又打起来了；黄金、白银、原油集体下跌",
-          "url": "https://www.cls.cn/detail/2395413",
+          "title": "原油并不需要狂飙至120美元才能重创风险资产",
+          "url": "https://flash.jin10.com/detail/20260611110328491800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "伊朗对所有船只关闭霍尔木兹海峡 国际原油价格持续走高 | 环球市场",
+          "url": "https://www.cls.cn/detail/2396606",
           "source": "财联社热门",
           "ranks": [
-            1
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时52分 ~ 10时53分]"
+          "time_info": "[11时24分 ~ 11时25分]"
         },
         {
-          "title": "国际油价重挫5%！美能源部长称霍尔木兹海峡石油运输量正显著回升",
-          "url": "https://www.cls.cn/detail/2395328",
-          "source": "财联社热门",
+          "title": "英媒：欧盟欲劝七国集团给俄罗斯石油压价",
+          "url": "https://wallstreetcn.com/livenews/3117876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "港股 恒生指数",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "香港恒生指数日内跌幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3117855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "恒生科技指数日内跌幅扩大至1.3%，恒生指数跌0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3117851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 电动汽车 电动车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "华为首款超跑 SUV 智界 RX 正式官宣，会对新能源高端市场带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2048020930757239453",
+          "source": "知乎",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时52分 ~ 10时53分]"
+          "time_info": "[11时24分 ~ 11时25分]"
         },
         {
-          "title": "美国副国务卿兰道：美国正努力释放能源储备，并增加向东盟销售液化石油气和液化天然气的数量。",
-          "url": "https://flash.jin10.com/detail/20260610103423698800",
-          "source": "金十数据",
+          "title": "电动汽车两项新国标将落地",
+          "url": "https://www.toutiao.com/trending/7649937304627118122/",
+          "source": "今日头条",
           "ranks": [
-            9
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 11时25分]"
         }
       ]
     },
     {
-      "keyword_group": "芯片 半导体 集成电路",
+      "keyword_group": "地缘政治 冲突",
       "match_count": 2,
       "titles": [
         {
-          "title": "全球芯片LOF复牌跌超5%。",
-          "url": "https://flash.jin10.com/detail/20260610103126090800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "半导体板块盘初拉升，中晶科技2连板，康强电子直线涨停，海光信息涨超10%，气派科技、富满微、杰华特跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3117144",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 纳斯达克 道琼斯 标普500",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股收盘：芯片板块“惊魂一跳”后持续修复 纳指收盘跌约1%",
-          "url": "https://www.cls.cn/detail/2395384",
-          "source": "财联社热门",
+          "title": "美伊冲突最新进展",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E4%BC%8A%E5%86%B2%E7%AA%81%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95",
+          "source": "百度热搜",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时52分 ~ 10时53分]"
+          "time_info": "[11时24分 ~ 11时25分]"
+        },
+        {
+          "title": "俄乌冲突最新战报",
+          "url": "https://www.toutiao.com/trending/7649624309103427634/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 11时25分]"
         }
       ]
     },
     {
-      "keyword_group": "制造业 工业",
+      "keyword_group": "并购 收购 重组",
       "match_count": 1,
       "titles": [
         {
-          "title": "军工板块异动拉升，湖南天雁直线涨停，晨曦航空涨超10%，长城军工、北方长龙、北方导航、建设工业、内蒙一机涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3117147",
+          "title": "长春市：近年来一汽产销出现下滑，未来或将面临央企战略重组的压力",
+          "url": "https://wallstreetcn.com/livenews/3117863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "财报 业绩",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "数据中心成本担忧加剧，甲骨文资本开支超预期，新财年计划融资翻倍至400亿美元，盘后大跌｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3774364",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 11时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "监管 政策",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "香港财经事务及库务局局长许正宇：受监管的稳定币预计今年年中即可率先推出",
+          "url": "https://wallstreetcn.com/livenews/3117878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为 苹果 特斯拉 微软 谷歌",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "长春市：打造世界级整车企业集团 支持中国一汽与华为等深化战略合作",
+          "url": "https://wallstreetcn.com/livenews/3117862",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时53分"
+          "time_info": "11时25分"
         }
       ]
     },
@@ -508,15 +543,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "各大银行/品牌金条价格排行一览",
-          "url": "https://flash.jin10.com/detail/20260610103108768800",
+          "title": "香港财经事务及库务局局长许正宇：探索合规稳定币在数字金融领域的更多应用",
+          "url": "https://flash.jin10.com/detail/20260611105036433800",
           "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时53分"
+          "time_info": "11时25分"
         }
       ]
     }
