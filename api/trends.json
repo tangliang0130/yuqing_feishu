@@ -1,598 +1,573 @@
 {
-  "generated_at": "2026-06-17T11:33:18.735105+08:00",
-  "total_titles_processed": 323,
-  "failed_sources": [],
+  "generated_at": "2026-06-18T11:00:50.198005+08:00",
+  "total_titles_processed": 314,
+  "failed_sources": [
+    "weibo"
+  ],
   "trends": [
     {
-      "keyword_group": "人工智能 AI ChatGPT GPT 大模型",
-      "match_count": 12,
+      "keyword_group": "A股 上证指数 深证成指 创业板",
+      "match_count": 13,
       "titles": [
         {
-          "title": "腾讯大幅下调员工 AI Token 额度，从月均上万降至千元级别意味着什么？AI 算力成本面临哪些困局？",
-          "url": "https://www.zhihu.com/question/2050239948306092201",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 11时33分]"
-        },
-        {
-          "title": "报道：SpaceX全股票收购AI编程工具Cursor，交易估值600亿美元",
-          "url": "https://wallstreetcn.com/articles/3774806",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 11时33分]"
-        },
-        {
-          "title": "DeepSeek 完成 500 亿融资，估值超 3300 亿，如何解读背后的估值逻辑？将对 AI 领域产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2050261467174101567",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 11时33分]"
-        },
-        {
-          "title": "SpaceX期权首个交易日碾压纪录 ChatGPT市场份额跌破50% | 环球市场",
-          "url": "https://www.cls.cn/detail/2401773",
+          "title": "6月18日投资避雷针：昨日晚间逾70家A股公司提示风险",
+          "url": "https://www.cls.cn/detail/2403062",
           "source": "财联社热门",
           "ranks": [
-            12
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时32分 ~ 11时33分]"
+          "time_info": "[10时59分 ~ 11时00分]"
         },
         {
-          "title": "Redis 之父为 DeepSeek 抱不平，美国 AI 圈为何再为「蒸馏」开吵？",
-          "url": "https://www.zhihu.com/question/2050271442697188542",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 11时33分]"
-        },
-        {
-          "title": "中国正加紧筹建世界人工智能合作组织",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%AD%A3%E5%8A%A0%E7%B4%A7%E7%AD%B9%E5%BB%BA%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%90%88%E4%BD%9C%E7%BB%84%E7%BB%87",
+          "title": "创业板指又又又创历史新高",
+          "url": "https://www.baidu.com/s?wd=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E5%8F%88%E5%8F%88%E5%8F%88%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
           "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 11时33分]"
-        },
-        {
-          "title": "吴清：适时发布规范发展资本市场人工智能的指导意见",
-          "url": "https://flash.jin10.com/detail/20260617111125135800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
-          "title": "吴清：适时发布规范发展资本市场人工智能的指导意见",
-          "url": "https://wallstreetcn.com/livenews/3120696",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 11时00分]"
         },
         {
-          "title": "如何用AI模型预测世界杯",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%94%A8AI%E6%A8%A1%E5%9E%8B%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
-          "title": "证监会主席吴清：科创板第五套标准扩大至人工智能大模型行业",
-          "url": "https://flash.jin10.com/detail/20260617110711965800",
+          "title": "A股科创50指数涨超3%，寒武纪涨近13%，盛科通信、芯原股份、沐曦股份、华虹宏力等涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260618103354544800",
           "source": "金十数据",
           "ranks": [
-            16
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时33分"
+          "time_info": "11时00分"
         },
         {
-          "title": "民进党当局被曝“正考虑对向大陆销售人工智能芯片实施严厉管制”，国台办回应",
-          "url": "https://wallstreetcn.com/livenews/3120694",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
-          "title": "【证监会主席吴清：科创板第五套标准扩大至人工智能大模型行业】在2026陆家嘴论坛开幕式上，中国证监会主席吴清表示，科创板将第五套标准适用范围将扩大至人工智能大模型行业。",
-          "url": "https://wallstreetcn.com/livenews/3120693",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金融 银行",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "吴清：打造首批资本市场科技金融实践样本",
-          "url": "https://wallstreetcn.com/livenews/3120707",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
-          "title": "吴清：会同人民银行研究推进人民币外汇期货试点",
-          "url": "https://flash.jin10.com/detail/20260617111417324800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
-          "title": "吴清：会同人民银行研究推进人民币外汇期货试点",
-          "url": "https://wallstreetcn.com/livenews/3120700",
+          "title": "A股医药股震荡反弹，华森制药涨停，博瑞医药、皓元医药涨超10%，众生药业、恒瑞医药、甘李药业涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3121374",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时33分"
+          "time_info": "11时00分"
         },
         {
-          "title": "中国人民银行等：支持上海自贸试验区临港新片区离岸贸易金融服务综合改革试点扩围",
-          "url": "https://flash.jin10.com/detail/20260617110523484800",
+          "title": "A股创新药板块盘中震荡反弹，诺思兰德涨近20%，此前华森制药、海欣股份涨停，皓元医药、昭衍新药、常山药业、首药控股等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260618103008052800",
           "source": "金十数据",
           "ranks": [
-            21
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时33分"
+          "time_info": "11时00分"
         },
         {
-          "title": "《上海国际金融中心发展离岸金融行动方案》提到，依托数字人民币国际运营中心，在安全可控前提下建设和运营数字人民币跨境、离岸和区块链基础设施，稳妥推进与境外金融基础设施的互联互通，稳步促进数字人民币在离岸业务中的应用和场景拓展。",
-          "url": "https://wallstreetcn.com/livenews/3120685",
+          "title": "创业板指涨超2%，再次刷新历史新高，沪指涨0.17%，深成指涨1.13%，培育钻石、有色·锆、稀土、半导体等方向领涨，沪深京三市上涨个股近2300只。",
+          "url": "https://wallstreetcn.com/livenews/3121364",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时33分"
+          "time_info": "11时00分"
         },
         {
-          "title": "中国人民银行等：条件成熟后适时全面探索发展离岸金融业务",
-          "url": "https://flash.jin10.com/detail/20260617110359238800",
+          "title": "A股联讯仪器涨超4%，股价续创历史新高，现报2412.1元；寒武纪涨超10%，股价再创历史新高，现报1470.04元，成交额超130亿元。",
+          "url": "https://flash.jin10.com/detail/20260618102837134800",
           "source": "金十数据",
           "ranks": [
-            23
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时33分"
+          "time_info": "11时00分"
         },
         {
-          "title": "上海国际金融中心发展离岸金融行动方案：支持在浦东新区开展离岸金融先行先试",
-          "url": "https://wallstreetcn.com/livenews/3120683",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
-          "title": "中国人民银行等：支持符合条件的商业银行开展上海自贸试验区离岸人民币外汇交易业务",
-          "url": "https://flash.jin10.com/detail/20260617110320978800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
-          "title": "《上海国际金融中心发展离岸金融行动方案》全文发布",
-          "url": "https://wallstreetcn.com/livenews/3120680",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
-          "title": "中国人民银行等：稳妥有序在浦东新区开展离岸金融试点",
-          "url": "https://flash.jin10.com/detail/20260617110205327800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
-          "title": "【中国人民银行优化公开市场临时隔夜正、逆回购操作机制】为灵活高效运用公开市场临时隔夜正、逆回购工具，中国人民银行决定即日起优化操作要素，将操作时间调整为工作日15:00-15:30，操作利率分别调整为公开市场7天期逆回购操作利率减点25bp和加点25bp。进一步明确工具使用规则，在货币市场隔夜利率（DR001）持续低于或高于相应工具操作利率时，中国人民银行将结合一级交易商需求启动相应操作。",
-          "url": "https://wallstreetcn.com/livenews/3120673",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "IPO 上市",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "证监会主席吴清：支持香港于近期推出5年期人民币国债期货上市交易",
-          "url": "https://wallstreetcn.com/livenews/3120714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
-          "title": "吴清：平稳推动液化天然气期货期权上市",
-          "url": "https://wallstreetcn.com/livenews/3120708",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
-          "title": "SpaceX上市后股价飙升49%，市值超越亚马逊，逼近微软，股票期权开始交易",
-          "url": "https://wallstreetcn.com/articles/3774826",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 11时33分]"
-        },
-        {
-          "title": "证监会主席吴清：抓紧修订上市公司证券发行注册管理办法等制度规则",
-          "url": "https://wallstreetcn.com/livenews/3120703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
-          "title": "证监会主席吴清在2026陆家嘴论坛上表示，抓紧修订《上市公司证券发行注册管理办法》等制度规则。",
-          "url": "https://flash.jin10.com/detail/20260617110804046800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
-          "title": "首款轻量化空间计算眼镜将于今年秋季上市",
-          "url": "https://flash.jin10.com/detail/20260617110600522800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 货币政策 降息 降准 加息",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "沃什上任首秀：不降息、不加息，但准备“少说话”？",
-          "url": "https://wallstreetcn.com/articles/3774809",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 11时33分]"
-        },
-        {
-          "title": "日本央行加息至1%，为1995年以来最高水平，2027年起暂停缩债",
-          "url": "https://wallstreetcn.com/articles/3774766",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 11时33分]"
-        },
-        {
-          "title": "沃什首秀在即 调查预计美联储2027年前不降息 沟通机制改革获支持",
-          "url": "https://www.cls.cn/detail/2401612",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 11时33分]"
-        },
-        {
-          "title": "中国人民银行创设境外央行类机构回购工具",
-          "url": "https://wallstreetcn.com/livenews/3120676",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
-          "title": "【潘功胜：推动中长期资金对股市、债市的投资力度】央行行长潘功胜在2026陆家嘴论坛上表示，推动中长期资金对股市、债市的投资力度。",
-          "url": "https://wallstreetcn.com/livenews/3120670",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股 上证指数 深证成指 创业板",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "吴清：新“国九条”以来 社保、保险等净买入A股1.3万亿元",
-          "url": "https://wallstreetcn.com/livenews/3120689",
+          "title": "A股机器人概念股反复活跃，晋拓股份、天润工业涨停，宁波方正、华依科技、埃斯顿、领益智造、锋龙股份跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3121357",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时33分"
+          "time_info": "11时00分"
         },
         {
-          "title": "【证监会主席吴清：目前A股科技板块市值占比超过3成】证监会主席吴清在2026陆家嘴论坛上表示，目前A股科技板块市值占比超过3成，市值超千亿的科技企业占比达到45%。",
-          "url": "https://wallstreetcn.com/livenews/3120687",
+          "title": "A股有色板块早盘拉升，江西铜业涨停，西部矿业、金田股份、铜陵有色、众源新材、北方铜业等纷纷走高。",
+          "url": "https://wallstreetcn.com/livenews/3121352",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时33分"
+          "time_info": "11时00分"
         },
         {
-          "title": "证监会主席吴清在2026陆家嘴论坛上表示，目前A股科技板块市值占比超过3成，市值超千亿的科技企业占比达到45%。",
-          "url": "https://flash.jin10.com/detail/20260617110411266800",
+          "title": "A股AI语料板块短线拉升，昆仑万维涨超12%，国安股份封板涨停，天娱数科触及涨停，智度股份、天地在线、因赛集团、宣亚国际、思美传媒等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260618102236438800",
           "source": "金十数据",
           "ranks": [
             22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时33分"
+          "time_info": "11时00分"
         },
         {
-          "title": "中国证监会主席吴清17日在2026陆家嘴论坛上表示，两年多来，A股公司分红回购规模达到同期股权融资的三倍。",
-          "url": "https://flash.jin10.com/detail/20260617110246498800",
-          "source": "金十数据",
+          "title": "A股半导体设备股早盘拉升，晶升股份触及20cm涨停，屹唐股份、恒运昌、金海通、盛美上海、华亚智能跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3121348",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时33分"
+          "time_info": "11时00分"
+        },
+        {
+          "title": "创业板指快速拉升涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3121346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时00分"
+        },
+        {
+          "title": "上证指数开盘报4094.23点，跌0.34%。 深证成指开盘报15826.79点，跌0.34%。 创业板指开盘报4153.62点，跌0.32%。 沪深300开盘报4916.04点，跌0.31%。 科创50开盘报1837.07点，跌0.20%。 中证500开盘报8590.50点，跌0.42%。 中证1000开盘报8666.64点，跌0.43%。",
+          "url": "https://wallstreetcn.com/livenews/3121340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时00分"
         }
       ]
     },
     {
-      "keyword_group": "华为 苹果 特斯拉 微软 谷歌",
-      "match_count": 4,
+      "keyword_group": "央行 货币政策 降息 降准 加息",
+      "match_count": 8,
       "titles": [
         {
-          "title": "苹果2027新品蓝图曝光：摄像头耳机、二代折叠屏、20周年纪念iPhone齐发",
-          "url": "https://www.cls.cn/detail/2401688",
+          "title": "美联储按兵不动但释放鹰派信号 年内利率变化预期由降息变加息",
+          "url": "https://www.cls.cn/detail/2402931",
           "source": "财联社热门",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时32分 ~ 11时33分]"
+          "time_info": "[10时59分 ~ 11时00分]"
         },
         {
-          "title": "Citrini：AMD、苹果双双押注闪存替代DRAM，内存成本或直降55倍",
-          "url": "https://wallstreetcn.com/articles/3774784",
+          "title": "美联储继续按兵不动但暗示鹰派倾向，强调通胀承诺，半数决策者料年内加息",
+          "url": "https://wallstreetcn.com/articles/3774938",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时32分 ~ 11时33分]"
+          "time_info": "[10时59分 ~ 11时00分]"
         },
         {
-          "title": "散户热情空前高涨！SpaceX夜盘大涨市值突破3万亿美元，超越微软",
-          "url": "https://wallstreetcn.com/articles/3774771",
+          "title": "沃什首秀转鹰，美联储删除降息倾向；美伊协议已线上签署，美国库欣原油库存降至临界低位，金银卖出信号强烈，国际油价涨跌幅度不大，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）。",
+          "url": "https://flash.jin10.com/detail/20260618104451719800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时00分"
+        },
+        {
+          "title": "特朗普：美联储按兵不动也还行，加息难以置信但可能发生，相信沃什",
+          "url": "https://wallstreetcn.com/articles/3774946",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时32分 ~ 11时33分]"
+          "time_info": "[10时59分 ~ 11时00分]"
         },
         {
-          "title": "苹果拟明年推出折叠屏iPhone",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%8B%9F%E6%98%8E%E5%B9%B4%E6%8E%A8%E5%87%BA%E6%8A%98%E5%8F%A0%E5%B1%8FiPhone",
-          "source": "百度热搜",
+          "title": "宣布六项政策，央行行长潘功胜详解中国金融结构变迁和金融市场现代化",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33397624",
+          "source": "澎湃新闻",
           "ranks": [
-            16
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时32分 ~ 11时33分]"
+          "time_info": "[10时59分 ~ 11时00分]"
+        },
+        {
+          "title": "高盛：通胀如不降温 预计美联储最早9月加息",
+          "url": "https://flash.jin10.com/detail/20260618103011788800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时00分"
+        },
+        {
+          "title": "三井住友：美联储加息恐使日本央行面临新的紧缩压力",
+          "url": "https://flash.jin10.com/detail/20260618102055488800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时00分"
+        },
+        {
+          "title": "中国央行逆回购今日净投放595亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3121339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时00分"
         }
       ]
     },
     {
       "keyword_group": "美股 纳斯达克 道琼斯 标普500",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
-          "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
-          "url": "https://wallstreetcn.com/articles/3774774",
+          "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
+          "url": "https://wallstreetcn.com/articles/3774887",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时32分 ~ 11时33分]"
+          "time_info": "[10时59分 ~ 11时00分]"
         },
         {
-          "title": "【早报】油价大跌；美股芯片股集体下挫，道指创新高；法国队取得开门红",
-          "url": "https://www.cls.cn/detail/2401752",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 11时33分]"
-        },
-        {
-          "title": "美股收盘：资金轮动道指创新高 芯片股回调、工业板块走强",
-          "url": "https://www.cls.cn/detail/2401731",
+          "title": "【早报】美联储转鹰；美股三大指数集体收跌；黄金、白银下跌；葡萄牙队爆冷战平",
+          "url": "https://www.cls.cn/detail/2403010",
           "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时32分 ~ 11时33分]"
+          "time_info": "[10时59分 ~ 11时00分]"
+        },
+        {
+          "title": "美股收盘：沃什首秀吓坏市场！三大指数尾盘跳水",
+          "url": "https://www.cls.cn/detail/2403003",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 11时00分]"
+        },
+        {
+          "title": "沃什“首秀”美联储放鹰，三大美股指转跌，美元拉升，美债黄金跳水",
+          "url": "https://wallstreetcn.com/articles/3774939",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 11时00分]"
+        },
+        {
+          "title": "美伊签了！美股期货直线拉升",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E4%BC%8A%E7%AD%BE%E4%BA%86%EF%BC%81%E7%BE%8E%E8%82%A1%E6%9C%9F%E8%B4%A7%E7%9B%B4%E7%BA%BF%E6%8B%89%E5%8D%87",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 11时00分]"
+        },
+        {
+          "title": "美联储称年内100%加息 美股跳水",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%81%94%E5%82%A8%E7%A7%B0%E5%B9%B4%E5%86%85100%25%E5%8A%A0%E6%81%AF+%E7%BE%8E%E8%82%A1%E8%B7%B3%E6%B0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 11时00分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI ChatGPT GPT 大模型",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333525",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 11时00分]"
+        },
+        {
+          "title": "为什么 AI 写的代码没人说有 AI 味儿，但是 AI 写的文章就一眼看出 AI 味儿？",
+          "url": "https://www.zhihu.com/question/14853864339",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 11时00分]"
+        },
+        {
+          "title": "中国正加紧筹建世界人工智能合作组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33396659",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 11时00分]"
+        },
+        {
+          "title": "AirPods五大升级",
+          "url": "https://s.weibo.com/weibo?q=%23AirPods%E4%BA%94%E5%A4%A7%E5%8D%87%E7%BA%A7%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "国家发改委、人社部：适应人工智能发展促进就业创业 挖掘新兴领域吸纳就业潜能",
+          "url": "https://flash.jin10.com/detail/20260618101636372800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时00分"
         }
       ]
     },
     {
       "keyword_group": "港股 恒生指数",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
-          "title": "证监会主席吴清：大力支持上市公司并购及再融资 支持符合条件的港股上市公司境内上市",
-          "url": "https://flash.jin10.com/detail/20260617111222365800",
-          "source": "金十数据",
+          "title": "吴清陆家嘴论坛讲话：扩大第五套标准适用范围至AI领域，支持港股公司境内上市",
+          "url": "https://wallstreetcn.com/articles/3774870",
+          "source": "华尔街见闻",
           "ranks": [
-            10
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 11时00分]"
         },
         {
-          "title": "证监会主席吴清：支持符合条件的港股上市公司境内上市",
-          "url": "https://wallstreetcn.com/livenews/3120697",
+          "title": "港股医药股拉升，恒生生物科技指数涨超3%，再鼎医药涨超7%，英矽智能、映恩生物、康方生物涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3121376",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时33分"
+          "time_info": "11时00分"
+        },
+        {
+          "title": "港股跌幅扩大，恒生指数跌1.3%，恒生科技指数跌1.4%，智谱逆市涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3121353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时00分"
         }
       ]
     },
     {
-      "keyword_group": "并购 收购 重组",
-      "match_count": 2,
+      "keyword_group": "华为 苹果 特斯拉 微软 谷歌",
+      "match_count": 3,
       "titles": [
         {
-          "title": "SpaceX收购Cursor",
-          "url": "https://search.bilibili.com/all?keyword=SpaceX%E6%94%B6%E8%B4%ADCursor",
-          "source": "bilibili 热搜",
+          "title": "苹果将涨价",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%B0%86%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            8
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "伊朗：微软在对伊战争中暴露了真实面目",
+          "url": "https://flash.jin10.com/detail/20260618104231775800",
+          "source": "金十数据",
+          "ranks": [
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时33分"
+          "time_info": "11时00分"
         },
         {
-          "title": "证监会主席吴清：用好用足并购重组快速审核机制",
-          "url": "https://wallstreetcn.com/livenews/3120698",
-          "source": "华尔街见闻-快讯",
+          "title": "苹果库克称“涨价已无法避免” 刚果（金）收获队史世界杯首球和首分 | 环球市场",
+          "url": "https://www.cls.cn/detail/2403039",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 11时00分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金融 银行",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "各大银行/品牌金条价格排行一览",
+          "url": "https://flash.jin10.com/detail/20260618103220286800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时33分"
+          "time_info": "11时00分"
+        },
+        {
+          "title": "中国建设银行行长张毅：建立健全功能完善的资本市场，银行业金融机构可以发挥更大作用",
+          "url": "https://wallstreetcn.com/livenews/3121358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时00分"
+        },
+        {
+          "title": "日本内阁官房长官木原稔：将继续密切关注金融市场。",
+          "url": "https://flash.jin10.com/detail/20260618102339203800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片 半导体 集成电路",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "最强芯片液冷技术！无需特种散热材料 冷却性能达此前纪录10倍",
+          "url": "https://www.cls.cn/detail/2403131",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 11时00分]"
+        },
+        {
+          "title": "沃什“美联储首秀”来袭 SpaceX延续涨势 英特尔带动芯片股反弹 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2402766",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 11时00分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金 金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2026年06月18日（周四）上海金早盘价为940.6元/克，较国际金价(940.58元/克)，高0.02元/克",
+          "url": "https://flash.jin10.com/detail/20260618103010368800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时00分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加0.856吨，当前持仓量为1013.069吨。",
+          "url": "https://flash.jin10.com/detail/20260618102316204800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "5G 6G 通信技术",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国移动牵头完成3GPP“6G场景和技术需求”标准研究项目",
+          "url": "https://flash.jin10.com/detail/20260618101529864800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时00分"
         }
       ]
     },
@@ -601,49 +576,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "据中国人民银行官微消息，中国人民银行行长潘功胜在2026陆家嘴论坛上宣布即将出台的政策措施。",
-          "url": "https://wallstreetcn.com/livenews/3120672",
-          "source": "华尔街见闻-快讯",
+          "title": "日本内阁官房长官木原稔：将密切关注市场动态，适时引导经济和财政政策。",
+          "url": "https://flash.jin10.com/detail/20260618101504861800",
+          "source": "金十数据",
           "ranks": [
             29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "原油 石油",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "WTI原油日内跌幅达1.00%，现报75.93美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260617110538999800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金 金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "资金用脚投票，近半月黄金相关ETF流出73亿，黄金反弹能扭转颓势吗？",
-          "url": "https://www.cls.cn/detail/2401803",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 11时33分]"
+          "time_info": "11时00分"
         }
       ]
     }
