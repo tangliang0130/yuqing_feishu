@@ -1,323 +1,167 @@
 {
-  "generated_at": "2026-07-04T10:26:18.551247+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-07-05T10:35:03.877318+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "人工智能 AI ChatGPT GPT 大模型",
-      "match_count": 10,
+      "keyword_group": "地缘政治 冲突",
+      "match_count": 7,
       "titles": [
         {
-          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
+          "title": "巴拉圭法国冲突",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E6%8B%89%E5%9C%AD%E6%B3%95%E5%9B%BD%E5%86%B2%E7%AA%81",
+          "source": "百度热搜",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时25分 ~ 10时26分]"
+          "time_info": "[10时34分 ~ 10时35分]"
         },
         {
-          "title": "常州市市长周伟调研人工智能上游产业",
-          "url": "https://flash.jin10.com/detail/20260704100159012800",
-          "source": "金十数据",
+          "title": "火药味拉满！世界杯 1/8 决赛，法国 1-0 巴拉圭，双方冲突不断，姆巴佩点射杜埃造点，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2056707285326325305",
+          "source": "知乎",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "韩国AI大跃进",
-          "url": "https://wallstreetcn.com/articles/3776121",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时25分 ~ 10时26分]"
+          "time_info": "[10时34分 ~ 10时35分]"
         },
         {
-          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时25分 ~ 10时26分]"
-        },
-        {
-          "title": "Meta“算力过剩”疑云背后：扎克伯格说AI进展慢了，AI负责人新模型说已追上GPT-5.5",
-          "url": "https://wallstreetcn.com/articles/3776134",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时25分 ~ 10时26分]"
-        },
-        {
-          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
-          "url": "https://wallstreetcn.com/articles/3776170",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时25分 ~ 10时26分]"
-        },
-        {
-          "title": "韩国政府趁热打铁：斥资312万亿韩元在东南地区打造物理AI中心",
-          "url": "https://www.cls.cn/detail/2416582",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时25分 ~ 10时26分]"
-        },
-        {
-          "title": "一周热榜精选：弱非农下加息押注退潮！大空头警告AI派对结束",
-          "url": "https://flash.jin10.com/detail/20260704095032353800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "SemiAnalysis：AI数据中心内存支出占比2027年或突破40%",
-          "url": "https://flash.jin10.com/detail/20260704084017236800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "受AI热潮与美联储乐观预期提振，新兴市场资产全线反弹",
-          "url": "https://wallstreetcn.com/livenews/3128844",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片 半导体 集成电路",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "一颗14克的芯片，拯救了葡萄牙和C罗",
-          "url": "https://wallstreetcn.com/articles/3776164",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时25分 ~ 10时26分]"
-        },
-        {
-          "title": "【焦点复盘】市场全天现缩量震荡，超160家个股涨逾10%，大批芯片强势股遭遇补跌",
-          "url": "https://www.cls.cn/detail/2416647",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时25分 ~ 10时26分]"
-        },
-        {
-          "title": "存储芯片涨价",
-          "url": "https://s.weibo.com/weibo?q=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E6%B6%A8%E4%BB%B7&t=31&band_rank=23&Refer=top",
+          "title": "巴拉圭法国冲突",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E6%8B%89%E5%9C%AD%E6%B3%95%E5%9B%BD%E5%86%B2%E7%AA%81%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 10时35分]"
+        },
+        {
+          "title": "被 LV 起诉过的除了茉莉奶白还有鸭血粉丝店，店家回应案件已判，为什么行业跨度这么大也会有冲突？",
+          "url": "https://www.zhihu.com/question/2056495076205748461",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 10时35分]"
+        },
+        {
+          "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（7月5日）",
+          "url": "https://flash.jin10.com/detail/20260705083403846800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "普京向特朗普介绍战场形势，特朗普称继续斡旋俄乌冲突",
+          "url": "https://flash.jin10.com/detail/20260705054951202800",
+          "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时25分 ~ 10时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 电动汽车 电动车",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "三部门调整节能汽车、新能源汽车车船税优惠政策",
-          "url": "https://www.cls.cn/detail/2416626",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时25分 ~ 10时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
         },
         {
-          "title": "三部门：调整节能汽车、新能源汽车车船税优惠政策",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33511352",
-          "source": "澎湃新闻",
+          "title": "俄罗斯总统助理乌沙科夫：特朗普在北约峰会前提出帮助达成乌克兰冲突的解决方案。",
+          "url": "https://flash.jin10.com/detail/20260705053232997800",
+          "source": "金十数据",
           "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时25分 ~ 10时26分]"
-        },
-        {
-          "title": "三部门调整节能汽车、新能源汽车车船税优惠政策，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2056425679093339668",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时25分 ~ 10时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "IPO 上市",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "证监会就完善上市公司再融资规则公开征求意见",
-          "url": "https://www.cls.cn/detail/2416797",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时25分 ~ 10时26分]"
-        },
-        {
-          "title": "韩国汇市迎来强援？据称SK海力士赴美上市部分资金将回流国内",
-          "url": "https://www.cls.cn/detail/2417003",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时25分 ~ 10时26分]"
-        },
-        {
-          "title": "未来产业基金密集“落子”，上市公司前瞻布局抢占风口",
-          "url": "https://wallstreetcn.com/livenews/3128859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "10时35分"
         }
       ]
     },
     {
-      "keyword_group": "央行 货币政策 降息 降准 加息",
-      "match_count": 3,
+      "keyword_group": "人工智能 AI ChatGPT GPT 大模型",
+      "match_count": 5,
       "titles": [
         {
-          "title": "万亿逆回购来了！央行结束缩量操作 精准对冲7月资金到期压力",
-          "url": "https://www.cls.cn/detail/2416860",
-          "source": "财联社热门",
+          "title": "卡点发布！GPT-5.6三大模型全曝，定档7月7日？",
+          "url": "https://wallstreetcn.com/articles/3776196",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时25分 ~ 10时26分]"
+          "time_info": "[10时34分 ~ 10时35分]"
         },
         {
-          "title": "非农“哑火”，花旗：加息理由已“不复存在”，预计美联储10月重启降息",
-          "url": "https://wallstreetcn.com/articles/3776126",
+          "title": "AI投资进入落地阶段 半导体价格开始显著上涨",
+          "url": "https://flash.jin10.com/detail/20260705094741928800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "苹果AI功能未能引爆换机潮，瑞银调查显示用户升级意愿持续下滑",
+          "url": "https://wallstreetcn.com/articles/3776203",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时25分 ~ 10时26分]"
+          "time_info": "[10时34分 ~ 10时35分]"
         },
         {
-          "title": "美元料创4月以来最大单周跌幅 降息预期升温打压走势",
-          "url": "https://flash.jin10.com/detail/20260704035726761800",
+          "title": "光大证券：半导体与AI浪潮驱动含氟新材料进入高速成长期",
+          "url": "https://flash.jin10.com/detail/20260705082204108800",
           "source": "金十数据",
           "ranks": [
-            25
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "监管 政策",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "四部门出台稳岗扩岗政策",
-          "url": "https://www.douyin.com/hot/2556062",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时25分 ~ 10时26分]"
+          "time_info": "10时35分"
         },
         {
-          "title": "明年起，取消对节能汽车减半征收车船税政策，取消对纯电动商用车、插电式（含增程式）混合动力汽车、燃料电池商用车免征车船税政策",
-          "url": "https://wallstreetcn.com/articles/3776152",
-          "source": "华尔街见闻",
+          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
+          "url": "https://wallstreetcn.com/livenews/3128944",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            16
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时25分 ~ 10时26分]"
-        },
-        {
-          "title": "金融监管总局决定对众邦银行实施接管",
-          "url": "https://finance.ifeng.com/c/8uSibG44Mth",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时25分 ~ 10时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
         }
       ]
     },
     {
       "keyword_group": "A股 上证指数 深证成指 创业板",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "多股应声涨停！A股中报行情开启，12家上市公司净利最高同比预增超150%",
+          "url": "https://www.cls.cn/detail/2417150",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 10时35分]"
+        },
         {
           "title": "【早报】证监会征求意见，事关上市公司再融资；A股存储龙头半年报净利最高预增740倍",
           "url": "https://www.cls.cn/detail/2417029",
@@ -327,125 +171,287 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时25分 ~ 10时26分]"
+          "time_info": "[10时34分 ~ 10时35分]"
         },
         {
-          "title": "Meta股价因AI进展不及预期下跌",
-          "url": "https://www.douyin.com/hot/2556589",
-          "source": "抖音",
+          "title": "龙头四连板！本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2417129",
+          "source": "财联社热门",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时25分 ~ 10时26分]"
+          "time_info": "[10时34分 ~ 10时35分]"
+        },
+        {
+          "title": "上半年A股新开户突破2000万，已是去年前三季度总量，动力仍是科技行情？",
+          "url": "https://www.cls.cn/detail/2417055",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 10时35分]"
         }
       ]
     },
     {
-      "keyword_group": "财报 业绩",
-      "match_count": 2,
+      "keyword_group": "华为 苹果 特斯拉 微软 谷歌",
+      "match_count": 4,
       "titles": [
         {
-          "title": "炸裂！存储巨头江波龙上半年净利预增62204%~74394% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3776160",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时25分 ~ 10时26分]"
-        },
-        {
-          "title": "狂赚约百亿！江波龙半年净利接近去年全年八倍 下半年存储品类仍有涨价|财报解读",
-          "url": "https://www.cls.cn/detail/2416926",
+          "title": "【早报】华为发布V2版“韬定律”论文；豆包、千问：智能体功能将下线",
+          "url": "https://www.cls.cn/detail/2417200",
           "source": "财联社热门",
           "ranks": [
-            4
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时25分 ~ 10时26分]"
+          "time_info": "[10时34分 ~ 10时35分]"
+        },
+        {
+          "title": "华为何庭波发布V2版“韬定律”论文 补充工程细节和实测数据",
+          "url": "https://wallstreetcn.com/articles/3776195",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 10时35分]"
+        },
+        {
+          "title": "如何看待苹果手机信息泄露，程度堪比马圣开源？",
+          "url": "https://www.zhihu.com/question/2055966649900183829",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 10时35分]"
+        },
+        {
+          "title": "iPhone18Pro配苹果史上最大电池",
+          "url": "https://www.baidu.com/s?wd=iPhone18Pro%E9%85%8D%E8%8B%B9%E6%9E%9C%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E7%94%B5%E6%B1%A0",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 10时35分]"
         }
       ]
     },
     {
       "keyword_group": "黄金 金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
-          "title": "金价银价上涨原因",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E4%B8%8A%E6%B6%A8%E5%8E%9F%E5%9B%A0&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "黄金如今又看美联储的脸色了",
+          "url": "https://wallstreetcn.com/articles/3776189",
+          "source": "华尔街见闻",
           "ranks": [
-            30
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时25分 ~ 10时26分]"
+          "time_info": "[10时34分 ~ 10时35分]"
         },
         {
-          "title": "截至7月3日，全球最大的黄金ETF SPDR Gold Trust持仓量为1001.366吨，较前一个交易日维持不变。",
-          "url": "https://flash.jin10.com/detail/20260704081200323800",
-          "source": "金十数据",
+          "title": "ON豪言走黄金路,实力遭质疑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355897&amp;topic_name=ON%E8%B1%AA%E8%A8%80%E8%B5%B0%E9%BB%84%E9%87%91%E8%B7%AF%2C%E5%AE%9E%E5%8A%9B%E9%81%AD%E8%B4%A8%E7%96%91",
+          "source": "贴吧",
           "ranks": [
-            23
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 10时35分]"
+        },
+        {
+          "title": "金价结束四周连跌",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E7%BB%93%E6%9D%9F%E5%9B%9B%E5%91%A8%E8%BF%9E%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 10时35分]"
         }
       ]
     },
     {
       "keyword_group": "美股 纳斯达克 道琼斯 标普500",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
-          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
-          "url": "https://wallstreetcn.com/articles/3776105",
+          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
+          "url": "https://wallstreetcn.com/articles/3776200",
           "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时25分 ~ 10时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "地缘政治 冲突",
-      "match_count": 1,
-      "titles": [
+          "time_info": "[10时34分 ~ 10时35分]"
+        },
         {
-          "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（7月4日）",
-          "url": "https://flash.jin10.com/detail/20260704082603735800",
-          "source": "金十数据",
+          "title": "环球下周看点：美联储会议纪要来袭 美股二季报大幕开启",
+          "url": "https://www.cls.cn/detail/2417191",
+          "source": "财联社热门",
           "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金融 银行",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "众邦银行接管组：个人存款本息全额保障，各项业务照常办理",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33511700",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时25分 ~ 10时26分]"
+          "time_info": "[10时34分 ~ 10时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片 半导体 集成电路",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "MiniMax高盛电话会：对今年10亿美元ARR充满信心，模型优势在“组织敏捷性”，与国产芯片高度集成",
+          "url": "https://wallstreetcn.com/articles/3776197",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 10时35分]"
+        },
+        {
+          "title": "iPadPro首发M7芯片",
+          "url": "https://s.weibo.com/weibo?q=%23iPadPro%E9%A6%96%E5%8F%91M7%E8%8A%AF%E7%89%87%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 10时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "原油 石油",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "普京首次承认俄罗斯石油短缺，并拟从日本进口航空燃油，这释放了哪些信号？",
+          "url": "https://www.zhihu.com/question/2056872271713678232",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 10时35分]"
+        },
+        {
+          "title": "圣彼得堡遭遇大规模无人机袭击，石油码头被击中(图)",
+          "url": "https://news.ifeng.com/c/8uVKkg6waGX",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 10时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 电动汽车 电动车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "小区2600辆电动车迁往地面 业主心烦",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%8C%BA2600%E8%BE%86%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%BF%81%E5%BE%80%E5%9C%B0%E9%9D%A2+%E4%B8%9A%E4%B8%BB%E5%BF%83%E7%83%A6",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 10时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "财报 业绩",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "狂赚约百亿！江波龙半年净利接近去年全年八倍 下半年存储品类仍有涨价|财报解读",
+          "url": "https://www.cls.cn/detail/2416926",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 10时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 货币政策 降息 降准 加息",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "日本“春斗”薪资涨幅连续三年超5%，央行加息路径获支撑",
+          "url": "https://wallstreetcn.com/articles/3776192",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 10时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "监管 政策",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特朗普政府拟再废除702项联邦法规 加码放松监管",
+          "url": "https://flash.jin10.com/detail/20260705092619255800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "贸易战 关税",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33518572",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 10时35分]"
         }
       ]
     }
