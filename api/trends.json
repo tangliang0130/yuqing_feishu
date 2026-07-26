@@ -1,361 +1,339 @@
 {
-  "generated_at": "2026-07-25T10:07:48.647267+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-26T10:13:24.269945+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT GPT 大模型",
-      "match_count": 6,
+      "match_count": 12,
       "titles": [
         {
-          "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
-          "url": "https://wallstreetcn.com/articles/3777849",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
-          "url": "https://wallstreetcn.com/articles/3777836",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "英伟达与SK集团推出超5000亿美元AI数据中心及内存合作计划",
-          "url": "https://wallstreetcn.com/livenews/3139690",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "李在明：韩国将成为全球AI供应链中不可替代的核心国家",
-          "url": "https://flash.jin10.com/detail/20260725092900836800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "OpenAI称将发布Hugging Face被黑事件技术报告",
-          "url": "https://flash.jin10.com/detail/20260725090502293800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片 半导体 集成电路",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "三星、SK海力士将宣布与美国科技巨头达成大规模芯片合作",
-          "url": "https://www.cls.cn/detail/2436740",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "被SK海力士踢出局！“韩国芯片唱空专业户”大摩在韩快混不下去了",
-          "url": "https://wallstreetcn.com/articles/3777851",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "沪指跌超1%逼近3800点，全市场成交不足2万亿，半导体设备逆势爆发，恒指、恒科指均跌超1%，科网股低迷",
-          "url": "https://wallstreetcn.com/articles/3777840",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "脑机接口迎重大突破：视网膜芯片获准在欧上市 可帮助患者恢复视力",
-          "url": "https://www.cls.cn/detail/2436840",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "SK集团会长崔泰源：下次与英伟达黄仁勋见面时，他可能会要求提供更多内存芯片。 我们宣布的超大型项目现实且可实现。 Anthropic已决定自行打造“算力”。",
-          "url": "https://wallstreetcn.com/livenews/3139676",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 纳斯达克 道琼斯 标普500",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
-          "url": "https://wallstreetcn.com/articles/3777833",
+          "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
+          "url": "https://wallstreetcn.com/articles/3777926",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "10时13分"
         },
         {
-          "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
-          "url": "https://www.cls.cn/detail/2436875",
-          "source": "财联社热门",
+          "title": "搞清楚市场担心什么AI风险：蛋糕大小，还是分配？",
+          "url": "https://wallstreetcn.com/articles/3777925",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "10时13分"
         },
         {
-          "title": "美股大类资产类ETF涨跌各异，新兴市场ETF收跌将近2%",
-          "url": "https://wallstreetcn.com/livenews/3139670",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "美股存储芯片指数收跌约7.3%，使得本周累计涨幅收窄至不足6%",
-          "url": "https://wallstreetcn.com/livenews/3139661",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "IPO 上市",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "北汽集团：坚定看好中国资本市场发展前景，全力支持控股上市公司高质量发展",
-          "url": "https://wallstreetcn.com/livenews/3139698",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "长鑫科技股价管控“小作文”先于上市登场，谣言为何密集出现？七大拆解",
-          "url": "https://www.cls.cn/detail/2436602",
-          "source": "财联社热门",
+          "title": "百元油价、AI反噬、关税重启--股市多头的“艰难盛夏”",
+          "url": "https://wallstreetcn.com/articles/3777919",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "10时13分"
         },
         {
-          "title": "礼来支持的Scribe Therapeutics美国IPO，首日飙升超44%",
-          "url": "https://wallstreetcn.com/livenews/3139684",
-          "source": "华尔街见闻-快讯",
+          "title": "SK崔泰源：韩国需转型为“AI原生”国家",
+          "url": "https://flash.jin10.com/detail/20260726091430894800",
+          "source": "金十数据",
           "ranks": [
-            17
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "10时13分"
         },
         {
-          "title": "SpaceX星舰在美国IPO后首次试飞中成功升空",
-          "url": "https://wallstreetcn.com/livenews/3139673",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "财报 业绩",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "就在下周！存储三雄最新财报即将揭晓 产业再迎“压力测试”？",
-          "url": "https://www.cls.cn/detail/2436364",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "每天赚2.4亿！宁德时代上半年净利润预增42%，拟以200亿元-400亿元回购股票注销，每10股派息14.11元 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777883",
+          "title": "为AI投资腾资金？美国科技巨头年内裁员近14万人",
+          "url": "https://wallstreetcn.com/articles/3777930",
           "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "如何看待月之暗面发布 kimi K3-256K 大模型，能力和 K3 一样，不能看视频，上下文只有 256K？",
+          "url": "https://www.zhihu.com/question/2064106505993971519",
+          "source": "知乎",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "10时13分"
         },
         {
-          "title": "宁德时代回应中东订单变化：不会参与储能价格内卷，看好下半年及明年需求|直击业绩会",
-          "url": "https://www.cls.cn/detail/2436798",
-          "source": "财联社热门",
+          "title": "AI算命 个人数据意识",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%AE%97%E5%91%BD%20%E4%B8%AA%E4%BA%BA%E6%95%B0%E6%8D%AE%E6%84%8F%E8%AF%86&t=31&band_rank=11&Refer=top",
+          "source": "微博",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "10时13分"
+        },
+        {
+          "title": "英伟达与 SK 集团推出超 5000 亿美元双向交易 AI 合作计划，英伟达买内存，SK 买超算，如何解读？",
+          "url": "https://www.zhihu.com/question/2064306906437571115",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "中国AI反超,老美急眼下黑手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "事关基础研究、人工智能、人民城市，上海这场重磅会议锚定哪些关键方向",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33656318",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "全国首个低空智慧物流大模型落地郑州",
+          "url": "https://flash.jin10.com/detail/20260726084550683800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "AI已经摸不透柯洁了",
+          "url": "https://www.douyin.com/hot/2584747",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时13分"
         }
       ]
     },
     {
       "keyword_group": "A股 上证指数 深证成指 创业板",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
-          "title": "上限400亿，宁德时代抛出A股史上最大单笔回购方案",
-          "url": "https://www.cls.cn/detail/2436662",
+          "title": "龙头“20cm”3连板！本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2436803",
           "source": "财联社热门",
           "ranks": [
-            1
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "10时13分"
         },
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
           "url": "https://www.cls.cn/detail/2436884",
           "source": "财联社热门",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "监管 政策",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "罚没51.79亿元 市场监管总局对携程作出处罚",
-          "url": "https://flash.jin10.com/detail/20260725100046717800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "10时13分"
         },
         {
-          "title": "【罚没51.79亿元 市场监管总局对携程作出处罚】国家市场监督管理总局25日通报，依据《中华人民共和国反垄断法》相关规定，对携程集团有限公司滥用市场支配地位实施垄断行为作出行政处罚，没收违法所得16.58亿元，并处以罚款35.21亿元。同时，责令其全额退还强制扣除酒店经营者的订单储备金1.22亿元，要求企业全面整改并公开整改措施。",
-          "url": "https://wallstreetcn.com/livenews/3139699",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "贸易战 关税",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "一周热榜精选：美伊对抗下双海峡告急！特朗普再挥关税大棒",
-          "url": "https://flash.jin10.com/detail/20260725095254129800",
-          "source": "金十数据",
+          "title": "上限400亿，宁德时代抛出A股史上最大单笔回购方案",
+          "url": "https://www.cls.cn/detail/2436662",
+          "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "10时13分"
         },
         {
-          "title": "两家企业起诉美国新关税措施违法",
-          "url": "https://wallstreetcn.com/livenews/3139672",
+          "title": "科技股大跌是因为“量化砸盘”？中基协私募专业委员会详解A股量化交易",
+          "url": "https://wallstreetcn.com/livenews/3139765",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "10时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "监管 政策",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "Muriel Siebert首席投资官Mark Malek：在通胀和油价高企、投资者担心企业利润率扩张可能放缓的时候，现在真不是推行关税政策的时候。 我们现在必须非常非常谨慎。 尽管霍尔木兹海峡因伊朗战争而关闭，但股市此前已经出现过反弹，相当于用掉了它唯一的“免死金牌”。",
+          "url": "https://wallstreetcn.com/livenews/3139779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "中国工商银行董事长廖林会见巴拿马银行监管总署署长米尔顿·阿永",
+          "url": "https://wallstreetcn.com/livenews/3139768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "中国证券投资基金业协会私募证券投资基金专业委员会称，对于一些极端情况，监管部门也进行严密监控。 目前沪深北交易所已针对性设置了“短时间大额成交”的监控指标，明确短时间内大量交易引发指数大幅波动等行为属于异常交易。一旦触发，交易所会及时采取自律监管措施，减少量化交易对市场平稳运行的不利影响。（第一财经）",
+          "url": "https://wallstreetcn.com/livenews/3139766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片 半导体 集成电路",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "三星、SK海力士将宣布与美国科技巨头达成大规模芯片合作",
+          "url": "https://www.cls.cn/detail/2436740",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "脑机接口迎重大突破：视网膜芯片获准在欧上市 可帮助患者恢复视力",
+          "url": "https://www.cls.cn/detail/2436840",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 货币政策 降息 降准 加息",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "韩国汽车与移动产业协会（KAMA）：今年上半年韩国汽车出口量同比增长2.1%，达到144.1万辆。环保车型出口占比从去年同期的30.0%提升至37.0%。不过，受全球主要国家高通胀和加息影响，韩国汽车出口在今年下半年预计将同比下降0.3%，至132万辆。全年出口预计达到276万辆，同比增长0.9%。",
+          "url": "https://flash.jin10.com/detail/20260726090842501800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "一周展望：超级央行周迎“鹰派大考”，美联储会突然动手吗？",
+          "url": "https://flash.jin10.com/detail/20260726084625890800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 纳斯达克 道琼斯 标普500",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
+          "url": "https://www.cls.cn/detail/2436875",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "反垄断 反倾销",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "人民日报：查处携程垄断案释放反垄断反内卷强烈信号",
+          "url": "https://wallstreetcn.com/articles/3777923",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "贸易战 关税",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【早报】特朗普威胁对欧盟加征报复性关税；韩国存储双雄拟签下9500亿美元大单",
+          "url": "https://www.cls.cn/detail/2437065",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时13分"
         }
       ]
     },
@@ -364,15 +342,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "日本首相高市早苗：日本不会在7月决定释放石油储备。",
-          "url": "https://wallstreetcn.com/livenews/3139693",
-          "source": "华尔街见闻-快讯",
+          "title": "中国石油畅想在土卫六建基地",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9%E7%95%85%E6%83%B3%E5%9C%A8%E5%9C%9F%E5%8D%AB%E5%85%AD%E5%BB%BA%E5%9F%BA%E5%9C%B0",
+          "source": "bilibili 热搜",
           "ranks": [
-            7
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "10时13分"
         }
       ]
     },
@@ -381,32 +359,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "特斯拉跌麻了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E9%BA%BB%E4%BA%86%23&t=31&band_rank=29&Refer=top",
+          "title": "韩路感谢华为手机",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E8%B7%AF%E6%84%9F%E8%B0%A2%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "制造业 工业",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英国埃塞克斯一工业场所发生剧烈爆炸 波及化肥储存点",
-          "url": "https://flash.jin10.com/detail/20260725094454715800",
-          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "10时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金融 银行",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "郑州银行利润 18.95 亿却不分红，将 3.37 亿砸进总部大楼建设，中小股东的反对票说明了什么？",
+          "url": "https://www.zhihu.com/question/2063564177688597653",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时13分"
         }
       ]
     }
