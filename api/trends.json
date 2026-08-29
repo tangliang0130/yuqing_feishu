@@ -1,190 +1,188 @@
 {
-  "generated_at": "2026-08-28T16:35:07.055657+08:00",
-  "total_titles_processed": 319,
+  "generated_at": "2026-08-29T13:14:18.650720+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT GPT 大模型",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
-          "title": "AI热情重燃，英伟达涨近9%力撑纳指大涨，软件股集体爆发，Salesforce飙涨23%",
-          "url": "https://wallstreetcn.com/articles/3780415",
+          "title": "今夜，沃什能否拯救美债？或决定AI牛市命运",
+          "url": "https://wallstreetcn.com/articles/3780538",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时34分 ~ 16时35分]"
+          "time_info": "[13时13分 ~ 13时14分]"
+        },
+        {
+          "title": "OpenAI 被曝测试 Codex「永动机」模式，有哪些地方值得关注？怎么看持续工作的 Agent？",
+          "url": "https://www.zhihu.com/question/2076617875771449373",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 13时14分]"
         },
         {
           "title": "比尔·盖茨发长文严厉警告人类注意AI",
           "url": "https://www.toutiao.com/trending/7678646479929577023/",
           "source": "今日头条",
           "ranks": [
-            5
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时34分 ~ 16时35分]"
+          "time_info": "[13时13分 ~ 13时14分]"
         },
         {
-          "title": "英伟达已是AI界“央行”？亮眼财报背后，5300亿美元表外承诺浮现，信用市场高度警惕",
-          "url": "https://wallstreetcn.com/articles/3780435",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 16时35分]"
-        },
-        {
-          "title": "美国AI行业忧心忡忡：白宫可能对半导体征收关税并威胁AI创新",
-          "url": "https://www.cls.cn/detail/2467230",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 16时35分]"
-        },
-        {
-          "title": "Claude闯入现实！Anthropic首款在物理世界运行的AI工具问世了",
-          "url": "https://www.cls.cn/detail/2467437",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 16时35分]"
-        },
-        {
-          "title": "AI 是不是毁掉了「不是…而是」这个句式？",
-          "url": "https://www.zhihu.com/question/2075603939269895886",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 纳斯达克 道琼斯 标普500",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "沃什杰克逊霍尔首秀今晚来袭，美股如何走？历史数据这样说",
-          "url": "https://www.cls.cn/detail/2467173",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 16时35分]"
-        },
-        {
-          "title": "Paypal(PYPL.O)美股盘前下跌14.8%，因有报道称Advent和Stripe财团将放弃对公司的收购。",
-          "url": "https://flash.jin10.com/detail/20260828160351370800",
+          "title": "OpenAI宣布终止与Cursor合作，因SpaceX已收购该公司",
+          "url": "https://flash.jin10.com/detail/20260829113731268800",
           "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "迈威尔科技(MRVL.O)美股盘前下跌8.4%，因其第二季度业绩及前景不佳。",
-          "url": "https://flash.jin10.com/detail/20260828160234339800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "美国标普500指数期货持平，纳斯达克100指数期货下跌0.3%，道琼斯指数期货上涨0.2%。",
-          "url": "https://flash.jin10.com/detail/20260828160107104800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "美股盘前，PayPal下跌14%，因报道称Advent和Stripe放弃了对该公司的收购计划。迈威尔科技下跌8.4%，因其第二季度业绩及前景不佳。",
-          "url": "https://wallstreetcn.com/livenews/3156633",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "IPO 上市",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "蜜雪冰城半年报净利下降 14.7%，如何看待其上市以来首次出现净利润同比下滑？",
-          "url": "https://www.zhihu.com/question/2076612668605952164",
-          "source": "知乎",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 16时35分]"
-        },
-        {
-          "title": "君乐宝牛奶在香港被检出菌落超标，IPO 关键时刻撞上监管黄牌，对品牌而言会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2076433506205263555",
-          "source": "知乎",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 16时35分]"
-        },
-        {
-          "title": "三只松鼠：公司终止发行H股股票并于香港联合交易所有限公司主板上市。",
-          "url": "https://wallstreetcn.com/livenews/3156654",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "【紫光股份：2026年上半年净利润21.67亿元，同比增长108.18%】紫光股份公告，2026年上半年营业收入635.16亿元，同比增长33.93%；归属于上市公司股东的净利润21.67亿元，同比增长108.18%。",
-          "url": "https://wallstreetcn.com/livenews/3156648",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时35分"
+          "time_info": "13时14分"
+        },
+        {
+          "title": "2026年AI服务器专用高端铜箔需求约2.4万吨，同比增长约260%",
+          "url": "https://wallstreetcn.com/livenews/3157208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
+          "title": "AI需求火爆，债市为何追问钱从哪来？",
+          "url": "https://flash.jin10.com/detail/20260829110247650800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
+          "title": "OpenAI：因Cursor被SpaceX收购，将终止与其的合作关系。 Cursor对AI模型的直接访问权限将于11月12日终止。",
+          "url": "https://wallstreetcn.com/livenews/3157192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 货币政策 降息 降准 加息",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "沃什杰克逊霍尔首秀放鹰，称美联储“还有工作要做”，暗示通胀不快速下降准备加息",
+          "url": "https://wallstreetcn.com/articles/3780593",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 13时14分]"
+        },
+        {
+          "title": "华尔街怎么看沃什杰克逊霍尔首秀？鹰派“修正”7月沟通，9月不加息或再伤美联储信誉",
+          "url": "https://wallstreetcn.com/articles/3780602",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 13时14分]"
+        },
+        {
+          "title": "美联储主席沃什称若通胀未明显回落，仍可能加息，誓言实现 2% 的目标，黄金直线跳水，如何看待这一表态？",
+          "url": "https://www.zhihu.com/question/2076823659071680517",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 13时14分]"
+        },
+        {
+          "title": "央行等完善房地产信贷管理：建立开发贷款主办银行制度，个人房贷期限延长至最长40年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33968514",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 13时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "原油 石油",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "特朗普：美国与委内瑞拉达成一项石油协议",
+          "url": "https://news.ifeng.com/c/8vydSmIu6VU",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 13时14分]"
+        },
+        {
+          "title": "委内瑞拉证实同美国达成石油合作协议：将开发17个战略油田",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33971245",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 13时14分]"
+        },
+        {
+          "title": "鲁比奥：美委石油协议将为委内瑞拉吸引约1000亿美元私人投资",
+          "url": "https://wallstreetcn.com/livenews/3157212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
+          "title": "委内瑞拉证实同美国达成石油合作协议",
+          "url": "https://wallstreetcn.com/livenews/3157191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         }
       ]
     },
@@ -193,289 +191,283 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "金十图示：2026年08月28日（周五）上海黄金交易所市场行情",
-          "url": "https://flash.jin10.com/detail/20260828160318660800",
-          "source": "金十数据",
+          "title": "女子接娃时捡90万黄金 果断交给保安",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%8E%A5%E5%A8%83%E6%97%B6%E6%8D%A190%E4%B8%87%E9%BB%84%E9%87%91+%E6%9E%9C%E6%96%AD%E4%BA%A4%E7%BB%99%E4%BF%9D%E5%AE%89",
+          "source": "百度热搜",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "上海黄金交易所8月28日（周五）交易行情",
-          "url": "https://flash.jin10.com/detail/20260828160315116800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "年轻人买黄金多了本储蓄账",
-          "url": "https://www.toutiao.com/trending/7678919931219430918/",
-          "source": "今日头条",
-          "ranks": [
-            30
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时34分 ~ 16时35分]"
+          "time_info": "[13时13分 ~ 13时14分]"
         },
         {
-          "title": "Brink's狂揽9.3万盎司领涨，黄金库存创近期最猛单日升势｜黄金库存日报上新",
-          "url": "https://flash.jin10.com/detail/20260828155933389800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "华为 苹果 特斯拉 微软 谷歌",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "苹果首款折叠屏iPhone长哪样？最新爆料来了",
-          "url": "https://www.cls.cn/detail/2467128",
+          "title": "黄金价格暴跌逾3.4% 玉米与小麦价格齐创逾三年新高 | 环球市场",
+          "url": "https://www.cls.cn/detail/2468437",
           "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时34分 ~ 16时35分]"
+          "time_info": "[13时13分 ~ 13时14分]"
         },
         {
-          "title": "苹果折叠屏价格",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%8A%98%E5%8F%A0%E5%B1%8F%E4%BB%B7%E6%A0%BC%23&t=31&band_rank=23&Refer=top",
+          "title": "金价银价油价全跌了",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%B2%B9%E4%BB%B7%E5%85%A8%E8%B7%8C%E4%BA%86&t=31&band_rank=14&Refer=top",
           "source": "微博",
           "ranks": [
-            23
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时34分 ~ 16时35分]"
+          "time_info": "[13时13分 ~ 13时14分]"
         },
         {
-          "title": "华为专利反向输出美企意味着什么",
-          "url": "https://www.toutiao.com/trending/7678168374857596934/",
-          "source": "今日头条",
+          "title": "哥伦比亚和委内瑞拉的能源行业正处于转折点，市场迎来“黄金机会”",
+          "url": "https://flash.jin10.com/detail/20260829103831412800",
+          "source": "金十数据",
           "ranks": [
-            24
+            18
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 16时35分]"
-        },
-        {
-          "title": "苹果华为小米折叠屏集中撞档9月",
-          "url": "https://www.douyin.com/hot/2625706",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时34分"
+          "time_info": "13时14分"
         }
       ]
     },
     {
-      "keyword_group": "制造业 工业",
+      "keyword_group": "美股 纳斯达克 道琼斯 标普500",
       "match_count": 3,
       "titles": [
         {
-          "title": "规上高技术制造业利润高速增长",
-          "url": "https://www.toutiao.com/trending/7678301912085610532/",
-          "source": "今日头条",
+          "title": "沃什杰克逊霍尔放鹰，美股指承压收跌，两年期美债收益率升逾10个基点，黄金重挫3%",
+          "url": "https://wallstreetcn.com/articles/3780532",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时34分 ~ 16时35分]"
+          "time_info": "[13时13分 ~ 13时14分]"
         },
         {
-          "title": "意大利6月调整后工业销售年率 3.1%，前值5.30%。",
-          "url": "https://flash.jin10.com/detail/20260828160121444800",
-          "source": "金十数据",
+          "title": "美股收盘：沃什鹰派言论推升加息预期 三大指数小幅收跌",
+          "url": "https://www.cls.cn/detail/2468421",
+          "source": "财联社热门",
           "ranks": [
-            10
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 13时14分]"
         },
         {
-          "title": "意大利6月季调后工业销售月率 -1%，前值0.60%。",
-          "url": "https://flash.jin10.com/detail/20260828160115206800",
-          "source": "金十数据",
+          "title": "美股存储板块盘前走弱贝壳飙涨两位数 市场静待沃什利率信号 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2468152",
+          "source": "财联社热门",
           "ranks": [
-            11
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 13时14分]"
         }
       ]
     },
     {
-      "keyword_group": "财报 业绩",
-      "match_count": 2,
+      "keyword_group": "芯片 半导体 集成电路",
+      "match_count": 3,
       "titles": [
         {
-          "title": "8月28日投资避雷针：9天6板人气股称粮油产品价格波动有限 “超强厄尔尼诺”对业绩影响并不确定",
-          "url": "https://www.cls.cn/detail/2467015",
+          "title": "【早报】沃什发表鹰派言论；现货黄金跌近3%；芯片股集体走弱；长鑫科技、源杰科技、阳光电源等披露半年报",
+          "url": "https://www.cls.cn/detail/2468431",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 13时14分]"
+        },
+        {
+          "title": "科创50指数调整样本股，多只半导体芯片股被调入",
+          "url": "https://www.cls.cn/detail/2468170",
           "source": "财联社热门",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时34分 ~ 16时35分]"
+          "time_info": "[13时13分 ~ 13时14分]"
         },
         {
-          "title": "大涨超8%，市值飙升4400亿美元！英伟达打破“财报日诅咒”，拯救科技股",
-          "url": "https://wallstreetcn.com/articles/3780510",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 16时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 货币政策 降息 降准 加息",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "日本央行行长植田和男将出席在北卡罗来纳州阿什维尔举行的G20财长会议。",
-          "url": "https://flash.jin10.com/detail/20260828160402837800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "日本央行行长植田和男将于8月30日起出访美国和瑞士。",
-          "url": "https://wallstreetcn.com/livenews/3156634",
+          "title": "武汉新芯发布十年战略蓝图“芯光计划”，楼宇光、张汝京、叶甜春等大半个半导体圈集聚光谷",
+          "url": "https://wallstreetcn.com/livenews/3157216",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时35分"
+          "time_info": "13时14分"
         }
       ]
     },
     {
-      "keyword_group": "监管 政策",
-      "match_count": 2,
+      "keyword_group": "财报 业绩",
+      "match_count": 3,
       "titles": [
         {
-          "title": "20家券商集中披露罚单，四张特殊罚单释放更强监管信号",
-          "url": "https://www.cls.cn/detail/2467258",
+          "title": "创纪录！5家券商半年净利破百亿，业绩排名深度洗牌",
+          "url": "https://www.cls.cn/detail/2468449",
           "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 16时35分]"
-        },
-        {
-          "title": "小米被曝更新售后政策，二手设备直接失去官方保修，怎么看待这件事？",
-          "url": "https://www.zhihu.com/question/2075363668737499639",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 16时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股 恒生指数",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "港股收盘：恒生指数收涨0.07%，恒生科技指数收跌0.33%。内房股多数走高，融创中国涨超10%；有色金属板块上涨，中国有色矿业涨超4%，天齐锂业涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3156643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "5G 6G 通信技术",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "5G 商用七年了，除了手机右上角多 5G 标识，网速体验和 4G 没差别，信号甚至更差，我该如何反驳这种观点？",
-          "url": "https://www.zhihu.com/question/2076052849881104673",
-          "source": "知乎",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时34分 ~ 16时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "并购 收购 重组",
-      "match_count": 1,
-      "titles": [
+          "time_info": "[13时13分 ~ 13时14分]"
+        },
         {
-          "title": "英伟达被曝129亿美元收购Hugging Face：抢开源系统客户，重返云计算市场",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33960493",
-          "source": "澎湃新闻",
+          "title": "美团Q2营收同比增长14.4%，调整后净利润大幅超预期，核心业务环比扭亏为盈 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3780554",
+          "source": "华尔街见闻",
           "ranks": [
-            20
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时34分 ~ 16时35分]"
+          "time_info": "[13时13分 ~ 13时14分]"
+        },
+        {
+          "title": "京东、阿里、拼多多发布最新季度财报，「赚钱的和增长的不再是同一家公司」，如何看待这一分化现象？",
+          "url": "https://www.zhihu.com/question/2076346416050483617",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 13时14分]"
         }
       ]
     },
     {
-      "keyword_group": "原油 石油",
-      "match_count": 1,
+      "keyword_group": "房地产 房价",
+      "match_count": 3,
       "titles": [
         {
-          "title": "乌克兰军方：已袭击雅罗斯拉夫尔地区的俄罗斯石油炼油厂。",
-          "url": "https://flash.jin10.com/detail/20260828160212190800",
-          "source": "金十数据",
+          "title": "现房销售加速推进、房贷期限延长至40年 房地产市场将迎来哪些变化？",
+          "url": "https://www.cls.cn/detail/2468212",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 13时14分]"
+        },
+        {
+          "title": "房地产融资迎来五项新规：个人住房贷款最长可达40年，预售房贷竣工备案后发放",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33968936",
+          "source": "澎湃新闻",
           "ranks": [
             7
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 13时14分]"
+        },
+        {
+          "title": "多项支持举措指向房地产！重点关注支持合理融资五大安排",
+          "url": "https://www.cls.cn/detail/2468135",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 13时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金融 银行",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "空客考虑出售美国航天业务。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3157218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时35分"
+          "time_info": "13时14分"
+        },
+        {
+          "title": "“三箭齐发”，中国住房金融制度迎来划时代变革",
+          "url": "https://wallstreetcn.com/articles/3780620",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 13时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "监管 政策",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "沃什一顿操作 日元再度跌破“政策红线”",
+          "url": "https://www.cls.cn/detail/2468394",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 13时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "地缘政治 冲突",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "俄乌冲突为何仍难降温",
+          "url": "https://www.toutiao.com/trending/7679281567132549183/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 13时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为 苹果 特斯拉 微软 谷歌",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "华为阔直板深度首发体验",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E4%B8%BA%E9%98%94%E7%9B%B4%E6%9D%BF%E6%B7%B1%E5%BA%A6%E9%A6%96%E5%8F%91%E4%BD%93%E9%AA%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 13时14分]"
         }
       ]
     }
