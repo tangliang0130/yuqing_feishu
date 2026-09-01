@@ -1,343 +1,420 @@
 {
-  "generated_at": "2026-08-31T11:01:30.852722+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-09-01T11:08:18.186877+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT GPT 大模型",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
-          "title": "AI数据中心扩张“限制性因素”浮现 马斯克：SpaceX正铸造燃气轮机叶片",
-          "url": "https://www.cls.cn/detail/2468847",
+          "title": "国内首部 AIGC 长剧《后西游记》开播，登陆湖南卫视黄金档，好看吗？会对影视行业有怎样的影响？",
+          "url": "https://www.zhihu.com/question/2077565922349413598",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时07分 ~ 11时08分]"
+        },
+        {
+          "title": "AI短剧98.7%未回本，今日施行的《微短剧发展管理办法》要管哪些？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33967164",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时07分 ~ 11时08分]"
+        },
+        {
+          "title": "传媒板块大涨！首部AI长剧上星，芒果TV押注AIGC内容能否跑通工业化路径",
+          "url": "https://wallstreetcn.com/articles/3780697",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时07分 ~ 11时08分]"
+        },
+        {
+          "title": "9月1日投资避雷针：5连板人气股表示AI液冷业务占营收比重极低",
+          "url": "https://www.cls.cn/detail/2470254",
           "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时07分 ~ 11时08分]"
+        },
+        {
+          "title": "怎么看 OpenAI 的 Codex 将取消上下文压缩，换成「硬切窗口 」和「外部记忆」？",
+          "url": "https://www.zhihu.com/question/2077507444545165165",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时07分 ~ 11时08分]"
+        },
+        {
+          "title": "数据中心拖累选情 特朗普急喊：反对AI基建最终将“落后且贫穷”",
+          "url": "https://www.cls.cn/detail/2470175",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时07分 ~ 11时08分]"
+        },
+        {
+          "title": "UP主自制AI韩剧 漂亮的恶意",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6AI%E9%9F%A9%E5%89%A7%20%E6%BC%82%E4%BA%AE%E7%9A%84%E6%81%B6%E6%84%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时07分 ~ 11时08分]"
+        },
+        {
+          "title": "首部AI长剧后西游记开播",
+          "url": "https://www.douyin.com/hot/2630543",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时07分 ~ 11时08分]"
+        },
+        {
+          "title": "用 AI 重新打开大学生活，你会用 WorkBuddy 做些什么？",
+          "url": "https://www.zhihu.com/question/2077830187471980411",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时07分 ~ 11时08分]"
+        },
+        {
+          "title": "女生自学手搓AI历史短剧播放破亿",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E8%87%AA%E5%AD%A6%E6%89%8B%E6%90%93AI%E5%8E%86%E5%8F%B2%E7%9F%AD%E5%89%A7%E6%92%AD%E6%94%BE%E7%A0%B4%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时07分 ~ 11时08分]"
+        },
+        {
+          "title": "浙江杭州：争取金融行业人工智能应用试点城市 推动人工智能在金融领域产业应用",
+          "url": "https://wallstreetcn.com/livenews/3158188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为 苹果 特斯拉 微软 谷歌",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "华为小米荣耀手机今日集体调价",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E5%B0%8F%E7%B1%B3%E8%8D%A3%E8%80%80%E6%89%8B%E6%9C%BA%E4%BB%8A%E6%97%A5%E9%9B%86%E4%BD%93%E8%B0%83%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时07分 ~ 11时08分]"
+        },
+        {
+          "title": "华为小米荣耀多款手机集体调价",
+          "url": "https://www.toutiao.com/trending/7680248776607367707/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时07分 ~ 11时08分]"
+        },
+        {
+          "title": "库克卸任 苹果进入特努斯时代",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BA%93%E5%85%8B%E5%8D%B8%E4%BB%BB%20%E8%8B%B9%E6%9E%9C%E8%BF%9B%E5%85%A5%E7%89%B9%E5%8A%AA%E6%96%AF%E6%97%B6%E4%BB%A3",
+          "source": "bilibili 热搜",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时01分]"
+          "time_info": "[11时07分 ~ 11时08分]"
         },
         {
-          "title": "特朗普发AI视频称轰炸伊朗哈尔克岛",
-          "url": "https://wallstreetcn.com/livenews/3157533",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "250年历史复盘：AI资本开支泡沫离破裂还有多远",
-          "url": "https://wallstreetcn.com/articles/3780654",
+          "title": "Kimi向微软、亚马逊、谷歌要30%分成，开源模型开始“海外收租”了",
+          "url": "https://wallstreetcn.com/articles/3780733",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时01分]"
+          "time_info": "[11时07分 ~ 11时08分]"
         },
         {
-          "title": "顶尖风投a16z：顶尖人才涌向AI基建，基础设施设计将“推倒重来”",
-          "url": "https://wallstreetcn.com/articles/3780656",
-          "source": "华尔街见闻",
+          "title": "华为、小米、荣耀手机，集体涨价",
+          "url": "https://news.ifeng.com/c/8w3l7wFXbAc",
+          "source": "凤凰网",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时01分]"
+          "time_info": "[11时07分 ~ 11时08分]"
         },
         {
-          "title": "中信证券：AI在Q2集中体现 而能化接下来可能逐步升温",
-          "url": "https://www.cls.cn/detail/2468819",
+          "title": "美国防部投资镓供应链 库克卸任苹果CEO | 环球市场",
+          "url": "https://www.cls.cn/detail/2470239",
           "source": "财联社热门",
           "ranks": [
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时01分]"
+          "time_info": "[11时07分 ~ 11时08分]"
         },
         {
-          "title": "首席展望丨国联民生孔蓉：AI已迈过从“烧钱”转向“赚钱”的分水岭",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33972170",
-          "source": "澎湃新闻",
+          "title": "华为、小米、荣耀等手机品牌正式涨价，涨幅均超 200 元，最高涨千元，将对用户及手机市场带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2078035027267248519",
+          "source": "知乎",
           "ranks": [
-            15
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时01分]"
+          "time_info": "[11时07分 ~ 11时08分]"
         },
         {
-          "title": "OpenAI Codex产品负责人：我昨日想说的是，我们的活跃用户数已达到2500万人，为庆祝这一里程碑，我们现已重置了ChatGPT Work和Codex所有付费订阅的使用次数。",
-          "url": "https://flash.jin10.com/detail/20260831103545133800",
+          "title": "华为、小米、荣耀手机今日集体调价，多款机型最高涨价1000元",
+          "url": "https://www.cls.cn/detail/2470284",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时07分 ~ 11时08分]"
+        },
+        {
+          "title": "如何看华为重回中国手机市场份额第一",
+          "url": "https://www.toutiao.com/trending/7680363100805008959/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时07分 ~ 11时08分]"
+        },
+        {
+          "title": "华为小米荣耀回应手机涨价",
+          "url": "https://flash.jin10.com/detail/20260901104802508800",
           "source": "金十数据",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "11时08分"
         },
         {
-          "title": "特朗普发布AI视频：“哈尔克岛被炸得粉碎”",
-          "url": "https://flash.jin10.com/detail/20260831101949235800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金 金价",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "现货黄金日内下跌50.00美元，现报4404.28美元/盎司，跌幅1.12%。",
-          "url": "https://flash.jin10.com/detail/20260831104109474800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "现货黄金日内跌1%，报4407.49美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3157536",
+          "title": "华为、小米、荣耀手机集体调价",
+          "url": "https://wallstreetcn.com/livenews/3158172",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "现货黄金失守4410美元/盎司，日内跌超1.00%；纽约期金日内跌幅达1.00%，现报4459.00美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260831103656190800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "黄金",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时01分]"
-        },
-        {
-          "title": "金十图示：2026年08月31日（周一）上海金早盘价为956.84元/克，较国际金价(956.74元/克)，高0.1元/克",
-          "url": "https://flash.jin10.com/detail/20260831102815357800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "黄金多头筹码仍在，沃什转鹰后市场进入利率与避险再定价——新版发布",
-          "url": "https://flash.jin10.com/detail/20260831101347421800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "现货黄金短线下挫超20美元，跌破4420美元/盎司，日内跌0.80%。",
-          "url": "https://flash.jin10.com/detail/20260831100408039800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "11时08分"
         }
       ]
     },
     {
       "keyword_group": "A股 上证指数 深证成指 创业板",
-      "match_count": 6,
+      "match_count": 5,
       "titles": [
         {
-          "title": "A股机器人概念股表现活跃，美格智能、联诚精密拉升封板，瑞芯微、宇环数控、泰坦股份此前涨停，乔锋智能、恒帅股份涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3157521",
-          "source": "华尔街见闻-快讯",
+          "title": "A股军工板块局部走强，内蒙一机直线拉升触达涨停，中无人机、邦彦技术双双涨超7%，北方长龙、航天彩虹、通易航天、中航西飞等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260901105205406800",
+          "source": "金十数据",
           "ranks": [
-            12
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "11时08分"
         },
         {
-          "title": "A股银行板块震荡走高，中国银行涨超3%，股价再创历史新高，北京银行、齐鲁银行、邮储银行、长沙银行、建设银行纷纷上扬。",
-          "url": "https://wallstreetcn.com/livenews/3157516",
+          "title": "A股化工股震荡走强，江天化学20cm涨停，迪尔化工涨超10%，金煤科技、华融化学、鲁西化工、金牛化工跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3158196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
+          "title": "杭州：支持前沿赛道未盈利的科创企业用好科创板、创业板改革政策，实现资本市场上市",
+          "url": "https://wallstreetcn.com/livenews/3158194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
+          "title": "A股PCB概念股持续下挫，方邦股份跌超10%，欧科亿、南亚新材、景旺电子、宏和科技、华正新材等十余股跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3158190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
+          "title": "A股食品等消费股震荡拉升，欢乐家、骑士乳业涨超10%，佳禾食品此前涨停，盖世食品、一鸣食品、品渥食品等涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3158185",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "A股农业股持续活跃，万向德农5连板，新赛股份3连板，福建金森、敦煌种业、黑芝麻2连板，康农种业、秋乐种业、新农开发涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3157508",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "A股煤炭板块盘中拉升，郑州煤电涨停，大有能源涨超7%，盘江股份、中煤能源、辽宁能源、淮北矿业、山西焦煤等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260831101110591800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "A股地产股震荡回落，渝开发、天保基建、广宇集团等多股涨停，金融街涨幅收窄至4%，绿地控股涨幅收窄至3%；招商蛇口跌超6%，盈新发展、京能置业、滨江集团等个股跟跌。",
-          "url": "https://flash.jin10.com/detail/20260831100539947800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "A股房地产板块大幅高开，我爱我家、特发服务、世联行、金融街、香江控股、深物业A、中交发展等多股一字涨停，消息上，中国人民银行、金融监管总局联合印发《关于改革完善房地产信贷管理 推动加快构建房地产发展新模式的意见》，个人住房贷款最长期限延长至40年。",
-          "url": "https://wallstreetcn.com/livenews/3157492",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "11时08分"
         }
       ]
     },
     {
-      "keyword_group": "制造业 工业",
-      "match_count": 4,
+      "keyword_group": "央行 货币政策 降息 降准 加息",
+      "match_count": 5,
       "titles": [
         {
-          "title": "中国物流与采购联合会副会长：8月制造业PMI受高温、台风、暴雨洪涝等极端天气影响",
-          "url": "https://wallstreetcn.com/livenews/3157510",
+          "title": "沃什鹰派发言后，特朗普：“加息”是荒谬的，沃什会做他必须做的事",
+          "url": "https://wallstreetcn.com/articles/3780764",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时07分 ~ 11时08分]"
+        },
+        {
+          "title": "日本财务省高级官员：不会对近期日元汇率走势置评。 相信日本央行将制定最适合本国经济的货币政策，而不是听从美国的安排。 片山皋月与贝森特在双边会晤期间讨论了外汇干预等诸多议题。 日本的财政政策以及最近的联合外汇干预，是片山皋月与贝森特会晤的核心议题。 片山皋月向G7成员国解释了美日联合干预的条件以及促成这项行动的因素。 双边会议上没有讨论美国国债回购议题。",
+          "url": "https://wallstreetcn.com/livenews/3158192",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "11时08分"
         },
         {
-          "title": "国家统计局：8月大型企业制造业PMI升至临界点上方",
-          "url": "https://wallstreetcn.com/livenews/3157509",
+          "title": "日本财务省官员：贝森特理解日本央行的独立性。",
+          "url": "https://wallstreetcn.com/livenews/3158181",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "11时08分"
         },
         {
-          "title": "中国8月官方非制造业PMI 49，前值 49。",
-          "url": "https://wallstreetcn.com/livenews/3157502",
+          "title": "日本财务大臣片山皋月：货币政策的具体细节由日本央行决定。",
+          "url": "https://wallstreetcn.com/livenews/3158168",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "11时08分"
         },
         {
-          "title": "中国8月官方制造业PMI 49.8，前值 49.2。",
-          "url": "https://wallstreetcn.com/livenews/3157500",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片 半导体 集成电路",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "DRAM芯片克价超黄金",
-          "url": "https://search.bilibili.com/all?keyword=DRAM%E8%8A%AF%E7%89%87%E5%85%8B%E4%BB%B7%E8%B6%85%E9%BB%84%E9%87%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时01分]"
-        },
-        {
-          "title": "SK海力士考虑引入英特尔代工基础芯片",
-          "url": "https://flash.jin10.com/detail/20260831102807559800",
+          "title": "日本财务省高级官员：预计日本央行将根据经济形势制定货币政策，而非受到美国的影响。",
+          "url": "https://flash.jin10.com/detail/20260901103359776800",
           "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "SK集团董事长：SK海力士考虑在日本建合资工厂生产存储芯片。",
-          "url": "https://wallstreetcn.com/livenews/3157495",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "11时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 纳斯达克 道琼斯 标普500",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美伊局势升级叠加鹰派预期，原油大涨，美股8月收官两连跌，芯片指数逆市反弹",
+          "url": "https://wallstreetcn.com/articles/3780702",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时07分 ~ 11时08分]"
+        },
+        {
+          "title": "【早报】纳指8月累涨3.9%；特斯拉大涨；美股存储芯片股，多数上涨；布油站上90美元；黄金走低",
+          "url": "https://www.cls.cn/detail/2470210",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时07分 ~ 11时08分]"
+        },
+        {
+          "title": "美股收盘：中东战火冲击美国股债汇齐跌 特斯拉逆势涨超5%",
+          "url": "https://www.cls.cn/detail/2470198",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时07分 ~ 11时08分]"
         }
       ]
     },
@@ -346,37 +423,76 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "八大车企上半年业绩盘点：国内市场盈利承压，海外市场成突围关键",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33975857",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时01分]"
-        },
-        {
-          "title": "本周重磅日程：中国PMI与美国非农，G20会议，特斯拉Cybercab，博通、智谱财报",
-          "url": "https://wallstreetcn.com/articles/3780528",
+          "title": "云端商业化提速，智谱上半年营收同比增近400%，开放平台及API收入暴增2736%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3780732",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时01分]"
+          "time_info": "[11时07分 ~ 11时08分]"
         },
         {
-          "title": "38家期货公司中报业绩出炉：中信、国泰君安领跑，混沌天成净利增7188.06%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33972263",
-          "source": "澎湃新闻",
+          "title": "华为上半年营收 4678 亿元，归母净利润 234.28 亿元，如何看待其业绩表现？",
+          "url": "https://www.zhihu.com/question/2077814556945135529",
+          "source": "知乎",
           "ranks": [
-            20
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时01分]"
+          "time_info": "[11时07分 ~ 11时08分]"
+        },
+        {
+          "title": "华为上半年营收同比增10%至4678亿，归母净利234亿，研发投入超1200亿｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3780724",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时07分 ~ 11时08分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金融 银行",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国一刀砍向埃及，第三国金融机构被迫“选边”",
+          "url": "https://original.ifeng.com/c/8w3fSs6iuKk",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时07分 ~ 11时08分]"
+        },
+        {
+          "title": "各大银行/品牌金条价格排行一览",
+          "url": "https://flash.jin10.com/detail/20260901104303238800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
+          "title": "金十图示：2026年09月01日（周二）中国工商银行账户贵金属行情",
+          "url": "https://flash.jin10.com/detail/20260901104153342800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
         }
       ]
     },
@@ -385,200 +501,71 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "港股跌幅扩大，恒指现跌近1%，恒生科技指数跌1.4%，恒生生物科技指数跌近4%。",
-          "url": "https://wallstreetcn.com/livenews/3157519",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "港股光通信板块震荡走高，俊知集团(01300.HK)涨超18%，汇聚科技(01729.HK)涨超7%，舜宇光学科技(02382.HK)涨超6%，中际旭创(03308.HK)涨超4%。",
-          "url": "https://flash.jin10.com/detail/20260831100914512800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 货币政策 降息 降准 加息",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "日元再破160！贝森特发声：日元“已得到控制”，日本央行“将做正确的事”，“安倍经济学”已走到尽头",
-          "url": "https://wallstreetcn.com/articles/3780669",
+          "title": "沪指低开高走收涨0.9%，液冷服务器、传媒双线爆发，港股AI大模型股午后大涨、MINIMAX飙升17%",
+          "url": "https://wallstreetcn.com/articles/3780681",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时01分]"
+          "time_info": "[11时07分 ~ 11时08分]"
         },
         {
-          "title": "沃什为9月加息敞开大门？来看看“新美联储通讯社”如何评价！",
-          "url": "https://www.cls.cn/detail/2469047",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "监管 政策",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【早报】房地产行业重磅政策密集推出；长鑫LPDDR6内存量产；美伊局势再升级，国际原油迅速拉升",
-          "url": "https://www.cls.cn/detail/2468988",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时01分]"
-        },
-        {
-          "title": "高市内阁支持率跌至上台以来新低，通胀、日元贬值、历史态度、防卫扩张多重矛盾叠加，如何看待日本政策走向？",
-          "url": "https://www.zhihu.com/question/2077150944618402582",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "原油 石油",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "PVC期货主力合约触及涨停，涨幅为6%。焦煤、LPG、原油期货主力合约涨超7%。",
-          "url": "https://wallstreetcn.com/livenews/3157535",
+          "title": "香港恒生指数下跌1%至25,310.80点。",
+          "url": "https://wallstreetcn.com/livenews/3158164",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "中国石油半年赚1039亿",
-          "url": "https://www.douyin.com/hot/2629408",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时01分]"
+          "time_info": "11时08分"
         }
       ]
     },
     {
-      "keyword_group": "房地产 房价",
+      "keyword_group": "IPO 上市",
       "match_count": 2,
       "titles": [
         {
-          "title": "房地产板块多股一字涨停",
-          "url": "https://www.baidu.com/s?wd=%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%9D%BF%E5%9D%97%E5%A4%9A%E8%82%A1%E4%B8%80%E5%AD%97%E6%B6%A8%E5%81%9C",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时01分]"
-        },
-        {
-          "title": "房地产新政解读",
-          "url": "https://www.douyin.com/hot/2628535",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金融 银行",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "火速落地！建设银行开放存量个人房贷延期申请，可延不超原贷款期限一半，合计不超40年",
-          "url": "https://www.cls.cn/detail/2468738",
+          "title": "【数读IPO】今日2只新股上市，涉及电子材料领域细分龙头等",
+          "url": "https://www.cls.cn/detail/2470216",
           "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时01分]"
+          "time_info": "[11时07分 ~ 11时08分]"
         },
         {
-          "title": "各大银行/品牌金条价格排行一览",
-          "url": "https://flash.jin10.com/detail/20260831103200982800",
-          "source": "金十数据",
+          "title": "希音上市首日一度跌近10%",
+          "url": "https://www.baidu.com/s?wd=%E5%B8%8C%E9%9F%B3%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E4%B8%80%E5%BA%A6%E8%B7%8C%E8%BF%9110%25",
+          "source": "百度热搜",
           "ranks": [
-            8
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时07分 ~ 11时08分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片 半导体 集成电路",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "韩国提出2027年预算案，增加芯片和国防支出",
+          "url": "https://wallstreetcn.com/livenews/3158186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 纳斯达克 道琼斯 标普500",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美银：美股牛市恐在秋季受挫",
-          "url": "https://www.toutiao.com/trending/7679652671137579051/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "IPO 上市",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【数读IPO】医疗器械领域细分“小巨人”今日申购",
-          "url": "https://www.cls.cn/detail/2468993",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时01分]"
+          "time_info": "11时08分"
         }
       ]
     },
@@ -587,15 +574,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "洪田股份：并购落子特种机器人赛道 双向协同打造高端装备制造平台",
-          "url": "https://www.cls.cn/detail/2468873",
-          "source": "财联社热门",
+          "title": "浙江杭州：支持证券公司并购重组 打造一流投资银行和投资机构",
+          "url": "https://wallstreetcn.com/livenews/3158187",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            13
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "监管 政策",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "日本财务省高级官员：日本的财政政策以及最近的协调性外汇干预，是日本财务大臣片山皋月与美国财长贝森特会晤中的主要讨论议题之一。",
+          "url": "https://flash.jin10.com/detail/20260901103810311800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
         }
       ]
     },
@@ -604,32 +608,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "乘客自述在飞机上遭邻座殴打，厦航回应处置经过：记录仪打开但未及时录到肢体冲突画面，已第一时间调座",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33975859",
-          "source": "澎湃新闻",
+          "title": "美伊冲突再起主导油价波动，但底部油价或由全球炼油瓶颈决定",
+          "url": "https://flash.jin10.com/detail/20260901104158071800",
+          "source": "金十数据",
           "ranks": [
-            4
+            16
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
         }
       ]
     },
     {
-      "keyword_group": "华为 苹果 特斯拉 微软 谷歌",
+      "keyword_group": "房地产 房价",
       "match_count": 1,
       "titles": [
         {
-          "title": "特斯拉推出更平价版Model3",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E6%8E%A8%E5%87%BA%E6%9B%B4%E5%B9%B3%E4%BB%B7%E7%89%88Model3",
-          "source": "百度热搜",
+          "title": "澳大利亚楼市繁荣出现裂痕 悉尼房价自2月触顶以来下跌约7%",
+          "url": "https://wallstreetcn.com/livenews/3158199",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
         }
       ]
     }
