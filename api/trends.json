@@ -1,437 +1,420 @@
 {
-  "generated_at": "2026-09-04T10:31:29.593375+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-09-05T10:32:04.223243+08:00",
+  "total_titles_processed": 316,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT GPT 大模型",
-      "match_count": 21,
+      "match_count": 10,
       "titles": [
         {
-          "title": "OpenAI发布GPT-6 Astra",
-          "url": "https://www.douyin.com/hot/2634754",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
-        },
-        {
-          "title": "OpenAI：欢迎来到AGI时代",
-          "url": "https://www.baidu.com/s?wd=OpenAI%EF%BC%9A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0AGI%E6%97%B6%E4%BB%A3",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
-        },
-        {
-          "title": "OpenAI发布GPT-6 Astra",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-6%20Astra",
+          "title": "GPT-6 Astra正式上线",
+          "url": "https://search.bilibili.com/all?keyword=GPT-6%20Astra%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
+          "time_info": "[10时31分 ~ 10时32分]"
         },
         {
-          "title": "“欢迎进入AGI时代”！OpenAI发布GPT-6 Astra，10万GPU训练，网安能力首达“关键”级",
-          "url": "https://wallstreetcn.com/articles/3781033",
-          "source": "华尔街见闻",
+          "title": "OpenAI Codex产品负责人：我们非常高兴Astra今天能提前上线，而且大家一直对我们非常耐心。所以今天我们将为所有Plus、Pro和Business用户进行预存重设。重置将于今天结束时生效。如果客户在太平洋时间晚上8点前注册账户或升级套餐，也能获得这项福利。",
+          "url": "https://flash.jin10.com/detail/20260905095917684800",
+          "source": "金十数据",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
-        },
-        {
-          "title": "OpenAI发布地球最强大模型GPT-6 并宣告“欢迎来到AGI时代”",
-          "url": "https://www.cls.cn/detail/2473745",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
-        },
-        {
-          "title": "字节跳动将获约 296 亿美元银团贷款，全年最高 700 亿美元 AI 资本开支，字节正在变成一家「基建公司」吗？",
-          "url": "https://www.zhihu.com/question/2078880121335952288",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
-        },
-        {
-          "title": "AI圈来了位天才",
-          "url": "https://www.douyin.com/hot/2634515",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
-        },
-        {
-          "title": "沙特HUMAIN基于MiniMax M3推出阿拉伯语大模型，加速主权AI布局",
-          "url": "https://wallstreetcn.com/livenews/3160270",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时32分"
         },
         {
-          "title": "RSI时代将至：谷歌、OpenAI、SSI正在发出同一个信号",
-          "url": "https://wallstreetcn.com/articles/3780960",
+          "title": "GPT-6，“强拆”App的墙",
+          "url": "https://wallstreetcn.com/articles/3781088",
           "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
+          "time_info": "[10时31分 ~ 10时32分]"
         },
         {
-          "title": "英伟达发力“本地AI”！N1X设备10月上架 家庭算力路由器亮相",
-          "url": "https://www.cls.cn/detail/2473719",
-          "source": "财联社热门",
+          "title": "GPT-6突破素数间隔纪录",
+          "url": "https://search.bilibili.com/all?keyword=GPT-6%E7%AA%81%E7%A0%B4%E7%B4%A0%E6%95%B0%E9%97%B4%E9%9A%94%E7%BA%AA%E5%BD%95",
+          "source": "bilibili 热搜",
           "ranks": [
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
+          "time_info": "[10时31分 ~ 10时32分]"
         },
         {
-          "title": "地球最强大模型GPT-6",
-          "url": "https://www.baidu.com/s?wd=%E5%9C%B0%E7%90%83%E6%9C%80%E5%BC%BA%E5%A4%A7%E6%A8%A1%E5%9E%8BGPT-6",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
-        },
-        {
-          "title": "美国AI服务发生大规模“宕机”事件 ChatGPT、Claude、Grok均受影响",
-          "url": "https://www.cls.cn/detail/2473674",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
-        },
-        {
-          "title": "GPT6正式发布",
-          "url": "https://s.weibo.com/weibo?q=%23GPT6%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
-        },
-        {
-          "title": "ChatGPT、Claude、Grok一度集体宕机！持续近4小时，目前均已恢复",
-          "url": "https://wallstreetcn.com/articles/3781029",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
-        },
-        {
-          "title": "UP主对谈OpenAI工程师赵迪",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AF%B9%E8%B0%88OpenAI%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%B5%B5%E8%BF%AA",
+          "title": "GPT-6 Astra强在哪",
+          "url": "https://search.bilibili.com/all?keyword=GPT-6%20Astra%E5%BC%BA%E5%9C%A8%E5%93%AA",
           "source": "bilibili 热搜",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
+          "time_info": "[10时31分 ~ 10时32分]"
         },
         {
-          "title": "「豆包手机」努比亚 NaviX Ultra 完成大模型备案与入网许可，计划 9 月开售，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2078256050948646045",
-          "source": "知乎",
+          "title": "错过AI，基金经理公开承认“失职”，半年报中一波集中道歉",
+          "url": "https://www.cls.cn/detail/2474406",
+          "source": "财联社热门",
           "ranks": [
-            9
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
+          "time_info": "[10时31分 ~ 10时32分]"
         },
         {
-          "title": "纽约禁止8年级以下学生使用生成式AI，“保护批判性思维能力”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33999597",
+          "title": "用AI审核游戏：从“删词”到“读心”，谁来定义“毒性”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34003038",
           "source": "澎湃新闻",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
+          "time_info": "[10时31分 ~ 10时32分]"
         },
         {
-          "title": "GPT-6 贵",
-          "url": "https://www.baidu.com/s?wd=GPT-6+%E8%B4%B5",
-          "source": "百度热搜",
+          "title": "怎么看 GPT-6 Astra 在 AA 上评分指数不如 Muse Spark 1.3 ？",
+          "url": "https://www.zhihu.com/question/2079137904685748281",
+          "source": "知乎",
           "ranks": [
-            19
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
+          "time_info": "[10时31分 ~ 10时32分]"
         },
         {
-          "title": "GPT-6发布：“能干活”也“看得住”",
-          "url": "https://www.baidu.com/s?wd=GPT-6%E5%8F%91%E5%B8%83%EF%BC%9A%E2%80%9C%E8%83%BD%E5%B9%B2%E6%B4%BB%E2%80%9D%E4%B9%9F%E2%80%9C%E7%9C%8B%E5%BE%97%E4%BD%8F%E2%80%9D",
-          "source": "百度热搜",
+          "title": "自制AI动画科学修仙时代",
+          "url": "https://search.bilibili.com/all?keyword=%E8%87%AA%E5%88%B6AI%E5%8A%A8%E7%94%BB%E7%A7%91%E5%AD%A6%E4%BF%AE%E4%BB%99%E6%97%B6%E4%BB%A3",
+          "source": "bilibili 热搜",
           "ranks": [
-            21
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
+          "time_info": "[10时31分 ~ 10时32分]"
         },
         {
-          "title": "深夜突发！美国AI大宕机",
-          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%A4%9C%E7%AA%81%E5%8F%91%EF%BC%81%E7%BE%8E%E5%9B%BDAI%E5%A4%A7%E5%AE%95%E6%9C%BA",
-          "source": "百度热搜",
+          "title": "DoubleLine高管在AI抛售后发现大型科技股债务的投资价值",
+          "url": "https://wallstreetcn.com/livenews/3160821",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            15
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
-        },
-        {
-          "title": "GPT-6 Astra多个基准测试接近满分",
-          "url": "https://www.baidu.com/s?wd=GPT-6+Astra%E5%A4%9A%E4%B8%AA%E5%9F%BA%E5%87%86%E6%B5%8B%E8%AF%95%E6%8E%A5%E8%BF%91%E6%BB%A1%E5%88%86",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         }
       ]
     },
     {
-      "keyword_group": "A股 上证指数 深证成指 创业板",
-      "match_count": 9,
+      "keyword_group": "美股 纳斯达克 道琼斯 标普500",
+      "match_count": 7,
       "titles": [
         {
-          "title": "【早报】美联储“放鸽”，美股走强；国际金价，大幅上涨；创业板芯片指数，今日发布；Lululemon，盘后暴跌",
-          "url": "https://www.cls.cn/detail/2473774",
+          "title": "非农爆表提振加息预期，美股指下挫，存储与光通信逆势走强，黄金跌近1%",
+          "url": "https://wallstreetcn.com/articles/3781080",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
+        },
+        {
+          "title": "美国8月非农大超预期 美股三大期指涨跌不一 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2474660",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
+        },
+        {
+          "title": "【早报】美股存储概念股，逆势飙涨；油价上涨、黄金下挫；私募行业迎监管新规",
+          "url": "https://www.cls.cn/detail/2474846",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
+        },
+        {
+          "title": "美股收盘：非农压制市场情绪 存储、光通信等AI概念股逆势爆发",
+          "url": "https://www.cls.cn/detail/2474841",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
+        },
+        {
+          "title": "周五（9月4日）纽约尾盘，标普500股指期货最终跌0.53%，道指期货跌0.84%，纳斯达克100股指期货跌0.01%。 罗素2000股指期货涨0.22%。",
+          "url": "https://wallstreetcn.com/livenews/3160806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "美股加密货币与加密货币关联指数跌0.08%，报75.46点，本周累计上涨12.05%，8月31日至9月2日大致持平于67点附近，9月3日早盘显著上涨，之后高位持稳。 最近24小时，比特币跌1.96%，暂报79855.75美元，美国非农就业报告发布后从81000美元上方跳水、一度跌穿78650美元，上周五结束交易以来累计上涨3.14%，9月3日涨幅突出。 以太坊跌1.97%，暂报2455.927美元，非农带来一波显著的跳水行情，最近七天累涨1.23%。",
+          "url": "https://wallstreetcn.com/livenews/3160805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "标普道琼斯指数公司：将Bloom Energy、Illumina（因美纳）、Everpure（爱惠浦）纳入标普500指数。 将HubSpot、AGNC、Corcept、Brinker纳入标普中盘股400指数。 将Palo Alto、Arista Networks、Sandisk Networks纳入标普100指数，将戴尔科技纳入标普100指数。 将耐克、Colgate‑Palmolive剔出标普100指数，将Honeywell Aerospace剔出标普100指数。",
+          "url": "https://wallstreetcn.com/livenews/3160804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 货币政策 降息 降准 加息",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美国8月非农录得16.2万大超预期 美联储9月加息押注升温",
+          "url": "https://www.cls.cn/detail/2474737",
           "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
+          "time_info": "[10时31分 ~ 10时32分]"
         },
         {
-          "title": "A股券商股异动拉升，湘财股份直线涨停，华安证券、中银证券、天风证券、华创云信、东方财富跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3160265",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普施压沃什降息：高利率令美国陷入“不公平劣势”，否则停止与逆差国贸易",
+          "url": "https://wallstreetcn.com/articles/3781108",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
         },
         {
-          "title": "A股酿酒板块震荡走强，古越龙山、会稽山、金枫酒业涨停，古井贡酒、山西汾酒、迎驾贡酒、金种子酒跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3160260",
-          "source": "华尔街见闻-快讯",
+          "title": "沃勒“不加”形成“6比5”！决定9月美联储是否加息的关键竟是：鲍威尔？",
+          "url": "https://wallstreetcn.com/articles/3781065",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
         },
         {
-          "title": "A股农业股震荡反弹，亚盛集团、播恩集团双双涨停，天邦食品、敦煌种业、黑芝麻、北大荒跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3160256",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普再度施压美联储：如果不降息，就切断与部分国家的贸易往来",
+          "url": "https://www.cls.cn/detail/2474788",
+          "source": "财联社热门",
           "ranks": [
-            12
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
         },
         {
-          "title": "A股算力硬件股震荡走高，中京电子、方正科技、华盛昌涨停，炬光科技涨超10%，德科立、联特科技、景旺电子跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3160253",
-          "source": "华尔街见闻-快讯",
+          "title": "美联储9月加息概率上升",
+          "url": "https://www.douyin.com/hot/2636078",
+          "source": "抖音",
           "ranks": [
-            13
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
         },
         {
-          "title": "A股房地产板块早盘拉升，信达地产3连板，我爱我家涨停，特发服务、世联行、世荣兆业、中交发展跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3160247",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "创业板指、科创50指数均涨超1%，沪指涨0.39%，深成指涨0.74%，数字货币、贵金属、半导体芯片等方向涨幅居前，沪深京三市上涨个股近3900只。",
-          "url": "https://wallstreetcn.com/livenews/3160239",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "上证指数开盘报3955.55点，涨0.34%。 深证成指开盘报13725.65点，涨0.74%。 创业板指开盘报3344.62点，涨0.97%。 沪深300开盘报4575.32点，涨0.50%。 科创50开盘报1627.95点，涨1.04%。 中证500开盘报7806.61点，涨0.66%。 中证1000开盘报7655.97点，涨0.74%。",
-          "url": "https://wallstreetcn.com/livenews/3160234",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "A股种植业板块走高，敦煌种业涨停，登海种业、农发种业、国投丰乐、神农种业、隆平高科等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260904100438648800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 货币政策 降息 降准 加息",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "下周CPI成决胜关键！美联储沃勒：通胀已有缓和迹象，但若数据反弹将“支持加息”",
-          "url": "https://wallstreetcn.com/articles/3781019",
+          "title": "“新美联储通讯社”：8月就业数据扫清加息障碍，9月议息静待通胀“定调”",
+          "url": "https://wallstreetcn.com/articles/3781107",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
+          "time_info": "[10时31分 ~ 10时32分]"
         },
         {
-          "title": "美联储9月会议悬念丛生！沃勒强力“放鸽” 白宫加码施压降息",
-          "url": "https://www.cls.cn/detail/2473801",
+          "title": "央行等量续作3个月期买断式逆回购 月初再现7天期逆回购“封零” 资金面迎多重扰动因素",
+          "url": "https://www.cls.cn/detail/2474733",
           "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
-        },
-        {
-          "title": "新西兰联储助理主席：更有可能等到12月再度加息",
-          "url": "https://flash.jin10.com/detail/20260904100944424800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "中国央行今日开展0亿元7天期逆回购操作，今日有200亿元逆回购到期。 中国央行公开市场本周净回笼14115亿元。",
-          "url": "https://wallstreetcn.com/livenews/3160231",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "[10时31分 ~ 10时32分]"
         }
       ]
     },
     {
-      "keyword_group": "美股 纳斯达克 道琼斯 标普500",
-      "match_count": 3,
+      "keyword_group": "黄金 金价",
+      "match_count": 7,
       "titles": [
         {
-          "title": "沃勒发言打击加息预期，美股指两连涨，标普创一个月最大涨幅，日元急升2%，黄金大涨",
-          "url": "https://wallstreetcn.com/articles/3780985",
-          "source": "华尔街见闻",
+          "title": "黄金“搬家”，美元体系怎么了？",
+          "url": "https://news.ifeng.com/c/8wA8VF6Doed",
+          "source": "凤凰网",
           "ranks": [
-            1
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
+          "time_info": "[10时31分 ~ 10时32分]"
         },
         {
-          "title": "美股收盘：标普500指数创近一个月最大涨幅",
-          "url": "https://www.cls.cn/detail/2473761",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
-        },
-        {
-          "title": "日元汇率大幅反弹 美股三大期指涨跌不一 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2473472",
+          "title": "多国从美国运回黄金",
+          "url": "https://www.cls.cn/detail/2474575",
           "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
+          "time_info": "[10时31分 ~ 10时32分]"
+        },
+        {
+          "title": "多国从美国运回黄金",
+          "url": "https://www.douyin.com/hot/2635027",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
+        },
+        {
+          "title": "多国从美国运回黄金有何影响",
+          "url": "https://www.toutiao.com/trending/7680388981322645554/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
+        },
+        {
+          "title": "专家解读多国从美国运回黄金",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%93%E5%AE%B6%E8%A7%A3%E8%AF%BB%E5%A4%9A%E5%9B%BD%E4%BB%8E%E7%BE%8E%E5%9B%BD%E8%BF%90%E5%9B%9E%E9%BB%84%E9%87%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
+        },
+        {
+          "title": "利率决议存在分歧，黄金震荡何去何从？​《大有作V》栏目更新，3分钟解读国际金走势>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260905090148251800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少1.426吨，当前持仓量为1052.056吨。",
+          "url": "https://flash.jin10.com/detail/20260905082821704800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "地缘政治 冲突",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "贝森特：伊朗冲突结束后油价将跌至40美元，债券收益率随之回落",
+          "url": "https://wallstreetcn.com/articles/3781120",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
+        },
+        {
+          "title": "联通在青岛大学与校方起冲突系谣言",
+          "url": "https://www.baidu.com/s?wd=%E8%81%94%E9%80%9A%E5%9C%A8%E9%9D%92%E5%B2%9B%E5%A4%A7%E5%AD%A6%E4%B8%8E%E6%A0%A1%E6%96%B9%E8%B5%B7%E5%86%B2%E7%AA%81%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
+        },
+        {
+          "title": "特朗普：美特使将向俄罗斯提交俄乌冲突“终战方案”",
+          "url": "https://www.cls.cn/detail/2474830",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
+        },
+        {
+          "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（9月5日）",
+          "url": "https://flash.jin10.com/detail/20260905094344230800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         }
       ]
     },
@@ -440,116 +423,37 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "美国拟实施定向半导体关税",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%8B%9F%E5%AE%9E%E6%96%BD%E5%AE%9A%E5%90%91%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%85%B3%E7%A8%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
-        },
-        {
-          "title": "韩国：美国在会谈中提出芯片问题后，双方正在讨论。",
-          "url": "https://wallstreetcn.com/livenews/3160272",
+          "title": "报道：Coatue与MatX就芯片融资合资企业进行谈判",
+          "url": "https://wallstreetcn.com/livenews/3160761",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "调查：芯片涨价，带火“拆机取芯”",
-          "url": "https://www.cls.cn/detail/2473470",
-          "source": "财联社热门",
           "ranks": [
             12
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "监管 政策",
-      "match_count": 3,
-      "titles": [
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
         {
-          "title": "28个省份303个统筹地区实施政策范围内住院分娩个人“无自付”",
-          "url": "https://wallstreetcn.com/livenews/3160275",
+          "title": "美国在亚美尼亚与阿塞拜疆的（和平）协议中允诺了英伟达芯片供应权限。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3160822",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "10时32分"
         },
         {
-          "title": "如何看待网友质疑清北非高考统招途径招生人数多，认为强基计划竞赛保送等自主招生政策是「举孝廉」？",
-          "url": "https://www.zhihu.com/question/2052749750882006365",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
-        },
-        {
-          "title": "28个省份303个统筹地区实施政策范围内住院分娩个人“无自付”",
-          "url": "https://flash.jin10.com/detail/20260904101232660800",
+          "title": "美媒：美利用英伟达芯片承诺，促成亚美尼亚与阿塞拜疆和平协议",
+          "url": "https://flash.jin10.com/detail/20260905085404003800",
           "source": "金十数据",
           "ranks": [
-            17
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金 金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "多国从美国运回黄金",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E4%BB%8E%E7%BE%8E%E5%9B%BD%E8%BF%90%E5%9B%9E%E9%BB%84%E9%87%91",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
-        },
-        {
-          "title": "金十图示：2026年09月04日（周五）上海金早盘价为968.3元/克，较国际金价(966.59元/克)，高1.71元/克",
-          "url": "https://flash.jin10.com/detail/20260904102205883800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "多国从美国运走黄金",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9B%BD%E4%BB%8E%E7%BE%8E%E5%9B%BD%E8%BF%90%E8%B5%B0%E9%BB%84%E9%87%91%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
+          "time_info": "10时32分"
         }
       ]
     },
@@ -558,72 +462,82 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "特斯拉Cybercab今晚正式发布！大摩：此次活动意义远超以往，Robotaxi车队扩张为最大看点",
-          "url": "https://wallstreetcn.com/articles/3781009",
-          "source": "华尔街见闻",
+          "title": "苹果即将开启史上最大规模新品发布潮！三阶段路线图抢先看",
+          "url": "https://www.cls.cn/detail/2474797",
+          "source": "财联社热门",
           "ranks": [
-            4
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
+          "time_info": "[10时31分 ~ 10时32分]"
         },
         {
-          "title": "特斯拉无人出租车开启内部测试",
-          "url": "https://www.douyin.com/hot/2634103",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
-        },
-        {
-          "title": "华为史上最美小白瓷手表曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%8F%B2%E4%B8%8A%E6%9C%80%E7%BE%8E%E5%B0%8F%E7%99%BD%E7%93%B7%E6%89%8B%E8%A1%A8%E6%9B%9D%E5%85%89%23&t=31&band_rank=27&Refer=top",
+          "title": "特斯拉无人驾驶电车每公里成本0.8元",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E7%94%B5%E8%BD%A6%E6%AF%8F%E5%85%AC%E9%87%8C%E6%88%90%E6%9C%AC0.8%E5%85%83%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股 恒生指数",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "港股智能驾驶概念走强 特斯拉Cybercab正式发布",
-          "url": "https://flash.jin10.com/detail/20260904100814531800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 电动汽车 电动车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "特斯拉无人驾驶电动车无方向盘",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E7%94%B5%E5%8A%A8%E8%BD%A6%E6%97%A0%E6%96%B9%E5%90%91%E7%9B%98%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
             30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
+          "time_info": "[10时31分 ~ 10时32分]"
+        },
+        {
+          "title": "科技媒体爆料：苹果折叠式iPhone或许有新名称",
+          "url": "https://flash.jin10.com/detail/20260905085019276800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金融 银行",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "为啥银行会出现「存 1 年利息高于存 5 年」的倒挂？会给普通储户带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2078913179468543530",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
+        },
+        {
+          "title": "据半岛电视台：美国驻安卡拉大使表示，美国财政部对土耳其一家金融机构实施的制裁并非针对土耳其或其银行体系，我们相信，这一举措日后将被视为与土耳其伙伴关系牢固的证明，而非引发紧张关系的理由。",
+          "url": "https://flash.jin10.com/detail/20260905095424720800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股 上证指数 深证成指 创业板",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股三大股指齐跌，科创50跌超2%，猪肉、白酒集体走强，千亿服务器巨头放量跌停，恒科指涨逾2%，科网股普涨",
+          "url": "https://wallstreetcn.com/articles/3781062",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
         }
       ]
     },
@@ -632,66 +546,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "深度解读特斯拉Cybercab上市",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%96%AF%E6%8B%89Cybercab%E4%B8%8A%E5%B8%82",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "地缘政治 冲突",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "乌克兰特工街头内战，两大情报部门冲突细节披露",
-          "url": "https://news.ifeng.com/c/8w7mNm0qfOv",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "制造业 工业",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "制造业月失万余岗位，德国讨论恢复每周40小时工作制",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33999845",
-          "source": "澎湃新闻",
+          "title": "报道：Anthropic料将于10月中旬启动IPO路演",
+          "url": "https://wallstreetcn.com/livenews/3160817",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         }
       ]
     },
     {
-      "keyword_group": "金融 银行",
+      "keyword_group": "原油 石油",
       "match_count": 1,
       "titles": [
         {
-          "title": "上海多家银行：办40年房贷需35岁以下",
-          "url": "https://www.toutiao.com/trending/7680703592528875071/",
-          "source": "今日头条",
+          "title": "据半岛电视台：航运数据追踪平台TankerTrackers表示，载有700万桶石油的油轮和天然气运输船正准备在美国的护航下穿越霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260905091806838800",
+          "source": "金十数据",
           "ranks": [
-            9
+            14
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         }
       ]
     }
