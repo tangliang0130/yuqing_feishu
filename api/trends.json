@@ -1,139 +1,285 @@
 {
-  "generated_at": "2026-09-05T10:32:04.223243+08:00",
-  "total_titles_processed": 316,
+  "generated_at": "2026-09-06T10:29:01.415286+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT GPT 大模型",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
-          "title": "GPT-6 Astra正式上线",
-          "url": "https://search.bilibili.com/all?keyword=GPT-6%20Astra%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
+          "title": "高盛交易台主管：OpenAI的Astra模型“脱颖而出”，这正是“AI牛市一直在等的”",
+          "url": "https://wallstreetcn.com/articles/3781148",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 10时29分]"
+        },
+        {
+          "title": "OpenAI总裁：Astra是首个“在10万块GPU上训练的模型”，跨越了“应用门槛”",
+          "url": "https://wallstreetcn.com/articles/3781151",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
+          "time_info": "[10时27分 ~ 10时29分]"
         },
         {
-          "title": "OpenAI Codex产品负责人：我们非常高兴Astra今天能提前上线，而且大家一直对我们非常耐心。所以今天我们将为所有Plus、Pro和Business用户进行预存重设。重置将于今天结束时生效。如果客户在太平洋时间晚上8点前注册账户或升级套餐，也能获得这项福利。",
-          "url": "https://flash.jin10.com/detail/20260905095917684800",
+          "title": "刚刚，GPT-6 Astra全量开放！",
+          "url": "https://wallstreetcn.com/articles/3781141",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 10时29分]"
+        },
+        {
+          "title": "TeslaAI：特斯拉(TSLA.O)赛博无人驾驶电动车的训练数据已超过1.6万名人类驾驶员一生的驾驶经验总和。现已在得州奥斯汀，为公众提供安全、轻松、经济的共享出行体验。",
+          "url": "https://flash.jin10.com/detail/20260906100653740800",
           "source": "金十数据",
           "ranks": [
-            4
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "10时29分"
         },
         {
-          "title": "GPT-6，“强拆”App的墙",
-          "url": "https://wallstreetcn.com/articles/3781088",
-          "source": "华尔街见闻",
+          "title": "OpenAI应用研究主管：空间推理能力曾是人类远超计算机的最后几个方面之一，有了Astra之后，这种情况将不复存在。",
+          "url": "https://flash.jin10.com/detail/20260906095637371800",
+          "source": "金十数据",
           "ranks": [
-            6
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
         },
         {
-          "title": "GPT-6突破素数间隔纪录",
-          "url": "https://search.bilibili.com/all?keyword=GPT-6%E7%AA%81%E7%A0%B4%E7%B4%A0%E6%95%B0%E9%97%B4%E9%9A%94%E7%BA%AA%E5%BD%95",
-          "source": "bilibili 热搜",
+          "title": "马斯克预警AI电力缺口！全球掀电网建设潮 算电协同迎投资机遇",
+          "url": "https://www.cls.cn/detail/2474152",
+          "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
+          "time_info": "[10时27分 ~ 10时29分]"
         },
         {
-          "title": "GPT-6 Astra强在哪",
-          "url": "https://search.bilibili.com/all?keyword=GPT-6%20Astra%E5%BC%BA%E5%9C%A8%E5%93%AA",
-          "source": "bilibili 热搜",
+          "title": "新的叙事时刻：Astra之后的AI渗透率和Token总需求",
+          "url": "https://wallstreetcn.com/articles/3781144",
+          "source": "华尔街见闻",
           "ranks": [
+            10,
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
+          "time_info": "[10时27分 ~ 10时29分]"
         },
         {
-          "title": "错过AI，基金经理公开承认“失职”，半年报中一波集中道歉",
-          "url": "https://www.cls.cn/detail/2474406",
-          "source": "财联社热门",
+          "title": "AI展现不了安徽的美",
+          "url": "https://www.douyin.com/hot/2636929",
+          "source": "抖音",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
+          "time_info": "[10时27分 ~ 10时29分]"
         },
         {
-          "title": "用AI审核游戏：从“删词”到“读心”，谁来定义“毒性”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34003038",
+          "title": "上海市国资委系统人工智能专题研讨班开班",
+          "url": "https://wallstreetcn.com/livenews/3160900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "OpenAI称已聘用三名人员，专门负责美国各州的政策事务。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3160898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "研究称OpenAI智能体“劫持”网站开展“协作”",
+          "url": "https://wallstreetcn.com/livenews/3160884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "地缘政治 冲突",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "湖南嘉禾县人民医院回应“医护肢体冲突”：将对双方严肃追责",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34016048",
           "source": "澎湃新闻",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
+          "time_info": "[10时27分 ~ 10时29分]"
         },
         {
-          "title": "怎么看 GPT-6 Astra 在 AA 上评分指数不如 Muse Spark 1.3 ？",
-          "url": "https://www.zhihu.com/question/2079137904685748281",
-          "source": "知乎",
+          "title": "特朗普：将向俄罗斯提交结束俄乌冲突的方案；泽连斯基：美总统特使访问期间，不对俄发动空中打击",
+          "url": "https://wallstreetcn.com/articles/3781135",
+          "source": "华尔街见闻",
           "ranks": [
-            14
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
+          "appearance_count": 1,
+          "time_info": "10时27分"
         },
         {
-          "title": "自制AI动画科学修仙时代",
-          "url": "https://search.bilibili.com/all?keyword=%E8%87%AA%E5%88%B6AI%E5%8A%A8%E7%94%BB%E7%A7%91%E5%AD%A6%E4%BF%AE%E4%BB%99%E6%97%B6%E4%BB%A3",
-          "source": "bilibili 热搜",
+          "title": "美国白宫官员：美俄官员就俄乌冲突谈判的下一步实质性计划进行了讨论，相关计划将于未来几周内公布。",
+          "url": "https://flash.jin10.com/detail/20260906091737482800",
+          "source": "金十数据",
           "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        },
-        {
-          "title": "DoubleLine高管在AI抛售后发现大型科技股债务的投资价值",
-          "url": "https://wallstreetcn.com/livenews/3160821",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "10时29分"
+        },
+        {
+          "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（9月6日）",
+          "url": "https://flash.jin10.com/detail/20260906090606931800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "俄总统助理：俄方强调须消除引发俄乌冲突的所有根源",
+          "url": "https://flash.jin10.com/detail/20260906081216354800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "美总统特使抵达莫斯科 将向俄方提供结束俄乌冲突的方案",
+          "url": "https://wallstreetcn.com/livenews/3160879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金 金价",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美海军预算被掏空，特朗普“黄金舰队”要难产？",
+          "url": "https://news.ifeng.com/c/8wBtm8zElDg",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 10时29分]"
+        },
+        {
+          "title": "【早报】中东航线海运价格大幅跳涨；多国推进黄金储备本土化布局",
+          "url": "https://www.cls.cn/detail/2475040",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 10时29分]"
+        },
+        {
+          "title": "花旗：霍尔木兹海峡预计Q4重开，上调黄金短期目标价至4800美元",
+          "url": "https://wallstreetcn.com/articles/3781142",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 10时29分]"
+        },
+        {
+          "title": "把黄金搬离美国渐成趋势",
+          "url": "https://www.douyin.com/hot/2636426",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 10时29分]"
+        },
+        {
+          "title": "学生卖黄金到账12.4万账户被冻结",
+          "url": "https://www.toutiao.com/trending/7681887241534423103/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 10时29分]"
+        },
+        {
+          "title": "全球黄金大搬家",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%BB%84%E9%87%91%E5%A4%A7%E6%90%AC%E5%AE%B6",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 10时29分]"
         }
       ]
     },
     {
       "keyword_group": "美股 纳斯达克 道琼斯 标普500",
-      "match_count": 7,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "非农爆表提振加息预期，美股指下挫，存储与光通信逆势走强，黄金跌近1%",
-          "url": "https://wallstreetcn.com/articles/3781080",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        },
         {
           "title": "美国8月非农大超预期 美股三大期指涨跌不一 | 今夜看点",
           "url": "https://www.cls.cn/detail/2474660",
@@ -143,7 +289,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
+          "time_info": "[10时27分 ~ 10时29分]"
         },
         {
           "title": "【早报】美股存储概念股，逆势飙涨；油价上涨、黄金下挫；私募行业迎监管新规",
@@ -154,57 +300,63 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
+          "time_info": "[10时27分 ~ 10时29分]"
         },
         {
           "title": "美股收盘：非农压制市场情绪 存储、光通信等AI概念股逆势爆发",
           "url": "https://www.cls.cn/detail/2474841",
           "source": "财联社热门",
           "ranks": [
-            7
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
+          "time_info": "[10时27分 ~ 10时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "并购 收购 重组",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "甘肃榆中莴笋收购环节染色，当地通报立案查处 6 家企业，暴露出哪些问题？",
+          "url": "https://www.zhihu.com/question/2079583683996907435",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 10时29分]"
         },
         {
-          "title": "周五（9月4日）纽约尾盘，标普500股指期货最终跌0.53%，道指期货跌0.84%，纳斯达克100股指期货跌0.01%。 罗素2000股指期货涨0.22%。",
-          "url": "https://wallstreetcn.com/livenews/3160806",
+          "title": "兰州榆中官方通报“莴笋收购环节染色”：立案查处6家企业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34015418",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 10时29分]"
+        },
+        {
+          "title": "兰州榆中官方通报“莴笋收购环节染色”：立案查处6家企业",
+          "url": "https://wallstreetcn.com/livenews/3160877",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "美股加密货币与加密货币关联指数跌0.08%，报75.46点，本周累计上涨12.05%，8月31日至9月2日大致持平于67点附近，9月3日早盘显著上涨，之后高位持稳。 最近24小时，比特币跌1.96%，暂报79855.75美元，美国非农就业报告发布后从81000美元上方跳水、一度跌穿78650美元，上周五结束交易以来累计上涨3.14%，9月3日涨幅突出。 以太坊跌1.97%，暂报2455.927美元，非农带来一波显著的跳水行情，最近七天累涨1.23%。",
-          "url": "https://wallstreetcn.com/livenews/3160805",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "标普道琼斯指数公司：将Bloom Energy、Illumina（因美纳）、Everpure（爱惠浦）纳入标普500指数。 将HubSpot、AGNC、Corcept、Brinker纳入标普中盘股400指数。 将Palo Alto、Arista Networks、Sandisk Networks纳入标普100指数，将戴尔科技纳入标普100指数。 将耐克、Colgate‑Palmolive剔出标普100指数，将Honeywell Aerospace剔出标普100指数。",
-          "url": "https://wallstreetcn.com/livenews/3160804",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "10时29分"
         }
       ]
     },
     {
       "keyword_group": "央行 货币政策 降息 降准 加息",
-      "match_count": 7,
+      "match_count": 3,
       "titles": [
         {
           "title": "美国8月非农录得16.2万大超预期 美联储9月加息押注升温",
@@ -215,29 +367,18 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
+          "time_info": "[10时27分 ~ 10时29分]"
         },
         {
-          "title": "特朗普施压沃什降息：高利率令美国陷入“不公平劣势”，否则停止与逆差国贸易",
-          "url": "https://wallstreetcn.com/articles/3781108",
+          "title": "下周美国CPI会触发9月加息吗？美银、花旗给出两个相反剧本",
+          "url": "https://wallstreetcn.com/articles/3781157",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        },
-        {
-          "title": "沃勒“不加”形成“6比5”！决定9月美联储是否加息的关键竟是：鲍威尔？",
-          "url": "https://wallstreetcn.com/articles/3781065",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
+          "time_info": "[10时27分 ~ 10时29分]"
         },
         {
           "title": "特朗普再度施压美联储：如果不降息，就切断与部分国家的贸易往来",
@@ -248,212 +389,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        },
-        {
-          "title": "美联储9月加息概率上升",
-          "url": "https://www.douyin.com/hot/2636078",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        },
-        {
-          "title": "“新美联储通讯社”：8月就业数据扫清加息障碍，9月议息静待通胀“定调”",
-          "url": "https://wallstreetcn.com/articles/3781107",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        },
-        {
-          "title": "央行等量续作3个月期买断式逆回购 月初再现7天期逆回购“封零” 资金面迎多重扰动因素",
-          "url": "https://www.cls.cn/detail/2474733",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金 金价",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "黄金“搬家”，美元体系怎么了？",
-          "url": "https://news.ifeng.com/c/8wA8VF6Doed",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        },
-        {
-          "title": "多国从美国运回黄金",
-          "url": "https://www.cls.cn/detail/2474575",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        },
-        {
-          "title": "多国从美国运回黄金",
-          "url": "https://www.douyin.com/hot/2635027",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        },
-        {
-          "title": "多国从美国运回黄金有何影响",
-          "url": "https://www.toutiao.com/trending/7680388981322645554/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        },
-        {
-          "title": "专家解读多国从美国运回黄金",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%93%E5%AE%B6%E8%A7%A3%E8%AF%BB%E5%A4%9A%E5%9B%BD%E4%BB%8E%E7%BE%8E%E5%9B%BD%E8%BF%90%E5%9B%9E%E9%BB%84%E9%87%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        },
-        {
-          "title": "利率决议存在分歧，黄金震荡何去何从？​《大有作V》栏目更新，3分钟解读国际金走势>><font class=\"important-text\"></font>",
-          "url": "https://flash.jin10.com/detail/20260905090148251800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少1.426吨，当前持仓量为1052.056吨。",
-          "url": "https://flash.jin10.com/detail/20260905082821704800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "地缘政治 冲突",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "贝森特：伊朗冲突结束后油价将跌至40美元，债券收益率随之回落",
-          "url": "https://wallstreetcn.com/articles/3781120",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        },
-        {
-          "title": "联通在青岛大学与校方起冲突系谣言",
-          "url": "https://www.baidu.com/s?wd=%E8%81%94%E9%80%9A%E5%9C%A8%E9%9D%92%E5%B2%9B%E5%A4%A7%E5%AD%A6%E4%B8%8E%E6%A0%A1%E6%96%B9%E8%B5%B7%E5%86%B2%E7%AA%81%E7%B3%BB%E8%B0%A3%E8%A8%80",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        },
-        {
-          "title": "特朗普：美特使将向俄罗斯提交俄乌冲突“终战方案”",
-          "url": "https://www.cls.cn/detail/2474830",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        },
-        {
-          "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（9月5日）",
-          "url": "https://flash.jin10.com/detail/20260905094344230800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片 半导体 集成电路",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "报道：Coatue与MatX就芯片融资合资企业进行谈判",
-          "url": "https://wallstreetcn.com/livenews/3160761",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "美国在亚美尼亚与阿塞拜疆的（和平）协议中允诺了英伟达芯片供应权限。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3160822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时32分"
-        },
-        {
-          "title": "美媒：美利用英伟达芯片承诺，促成亚美尼亚与阿塞拜疆和平协议",
-          "url": "https://flash.jin10.com/detail/20260905085404003800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "[10时27分 ~ 10时29分]"
         }
       ]
     },
@@ -462,99 +398,116 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "苹果即将开启史上最大规模新品发布潮！三阶段路线图抢先看",
-          "url": "https://www.cls.cn/detail/2474797",
+          "title": "特斯拉“赛博出租车”，被调查",
+          "url": "https://www.cls.cn/detail/2474973",
           "source": "财联社热门",
           "ranks": [
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
+          "time_info": "[10时27分 ~ 10时29分]"
         },
         {
-          "title": "特斯拉无人驾驶电车每公里成本0.8元",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E7%94%B5%E8%BD%A6%E6%AF%8F%E5%85%AC%E9%87%8C%E6%88%90%E6%9C%AC0.8%E5%85%83%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "特斯拉无稀土电机有哪些创新",
+          "url": "https://www.toutiao.com/trending/7681493196069699638/",
+          "source": "今日头条",
           "ranks": [
-            30
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
+          "time_info": "[10时27分 ~ 10时29分]"
         },
         {
-          "title": "科技媒体爆料：苹果折叠式iPhone或许有新名称",
-          "url": "https://flash.jin10.com/detail/20260905085019276800",
+          "title": "特斯拉Robotaxi下月或将实现全天运营",
+          "url": "https://flash.jin10.com/detail/20260906080911086800",
           "source": "金十数据",
           "ranks": [
-            21
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "10时29分"
         }
       ]
     },
     {
-      "keyword_group": "金融 银行",
+      "keyword_group": "制造业 工业",
       "match_count": 2,
       "titles": [
         {
-          "title": "为啥银行会出现「存 1 年利息高于存 5 年」的倒挂？会给普通储户带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2078913179468543530",
-          "source": "知乎",
+          "title": "粮食企业年工业总产值超4万亿",
+          "url": "https://www.douyin.com/hot/2637533",
+          "source": "抖音",
           "ranks": [
-            5
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
+          "time_info": "[10时27分 ~ 10时29分]"
         },
         {
-          "title": "据半岛电视台：美国驻安卡拉大使表示，美国财政部对土耳其一家金融机构实施的制裁并非针对土耳其或其银行体系，我们相信，这一举措日后将被视为与土耳其伙伴关系牢固的证明，而非引发紧张关系的理由。",
-          "url": "https://flash.jin10.com/detail/20260905095424720800",
-          "source": "金十数据",
+          "title": "我国粮食企业年工业总产值超4万亿元",
+          "url": "https://wallstreetcn.com/livenews/3160878",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "10时29分"
         }
       ]
     },
     {
-      "keyword_group": "A股 上证指数 深证成指 创业板",
+      "keyword_group": "芯片 半导体 集成电路",
       "match_count": 1,
       "titles": [
         {
-          "title": "A股三大股指齐跌，科创50跌超2%，猪肉、白酒集体走强，千亿服务器巨头放量跌停，恒科指涨逾2%，科网股普涨",
-          "url": "https://wallstreetcn.com/articles/3781062",
+          "title": "华为何庭波更新韬定律论文：“τ芯片”本该过热烧毁？",
+          "url": "https://wallstreetcn.com/articles/3781137",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
+          "time_info": "[10时27分 ~ 10时29分]"
         }
       ]
     },
     {
-      "keyword_group": "IPO 上市",
+      "keyword_group": "财报 业绩",
       "match_count": 1,
       "titles": [
         {
-          "title": "报道：Anthropic料将于10月中旬启动IPO路演",
-          "url": "https://wallstreetcn.com/livenews/3160817",
-          "source": "华尔街见闻-快讯",
+          "title": "紫金矿业发布公告回应财报文字错误",
+          "url": "https://flash.jin10.com/detail/20260906090146105800",
+          "source": "金十数据",
           "ranks": [
-            17
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "10时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "反垄断 反倾销",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "反垄断拿省卫健委“开刀”",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%8D%E5%9E%84%E6%96%AD%E6%8B%BF%E7%9C%81%E5%8D%AB%E5%81%A5%E5%A7%94%E2%80%9C%E5%BC%80%E5%88%80%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 10时29分]"
         }
       ]
     },
@@ -563,15 +516,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "据半岛电视台：航运数据追踪平台TankerTrackers表示，载有700万桶石油的油轮和天然气运输船正准备在美国的护航下穿越霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260905091806838800",
+          "title": "TankerTrackers：8月中东地区原油出口量较年初下降近40%",
+          "url": "https://flash.jin10.com/detail/20260906095324999800",
           "source": "金十数据",
           "ranks": [
-            14
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "10时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金融 银行",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "韩国主要银行的企业美元存款本月创历史新高",
+          "url": "https://flash.jin10.com/detail/20260906094819724800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
         }
       ]
     }
