@@ -1,817 +1,620 @@
 {
-  "generated_at": "2026-09-10T10:40:08.876957+08:00",
+  "generated_at": "2026-09-11T10:34:05.771595+08:00",
   "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "华为 苹果 特斯拉 微软 谷歌",
-      "match_count": 26,
+      "keyword_group": "A股 上证指数 深证成指 创业板",
+      "match_count": 13,
       "titles": [
         {
-          "title": "苹果 牙膏挤“爆”",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C+%E7%89%99%E8%86%8F%E6%8C%A4%E2%80%9C%E7%88%86%E2%80%9D",
-          "source": "百度热搜",
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
-            1
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "time_info": "[10时33分 ~ 10时34分]"
         },
         {
-          "title": "苹果首款折叠屏iPhone来了！中国起售1.6万元，A20 Pro加持Duo与18 Pro",
-          "url": "https://wallstreetcn.com/articles/3781435",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "2026苹果秋季新品发布会",
-          "url": "https://www.douyin.com/hot/2642181",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "如何评价 2026 苹果秋季发布会？哪些亮点值得关注？",
-          "url": "https://www.zhihu.com/question/2081062403832115213",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "如何评价苹果折叠屏手机 iPhone Duo？国行售价 15999 元起值得入手吗？",
-          "url": "https://www.zhihu.com/question/2081206056877811582",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "苹果发布会速览：折叠iPhone横空出世 屏幕尺寸、售价双双创纪录",
-          "url": "https://www.cls.cn/detail/2478792",
-          "source": "财联社热门",
+          "title": "深成指跌超2%，沪指跌1.78%，创业板指跌1.63%，有色金属、半导体芯片、大金融等方向跌幅居前，沪深京三市下跌个股近5200只。",
+          "url": "https://wallstreetcn.com/livenews/3163615",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
-          "title": "华为小米苹果72小时“三国杀”",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E5%B0%8F%E7%B1%B3%E8%8B%B9%E6%9E%9C72%E5%B0%8F%E6%97%B6%E2%80%9C%E4%B8%89%E5%9B%BD%E6%9D%80%E2%80%9D",
+          "title": "A股证券板块盘中震荡走弱，锦龙股份逼近跌停，哈投股份、湘财股份、华鑫股份、太平洋、广发证券均跌超5%。",
+          "url": "https://flash.jin10.com/detail/20260911102736015800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "A股三大指数均跌逾1%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%9D%87%E8%B7%8C%E9%80%BE1%25",
           "source": "百度热搜",
           "ranks": [
-            5
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "time_info": "[10时33分 ~ 10时34分]"
         },
         {
-          "title": "苹果9月发布会回顾：iPhone Duo起售价15999元 十月发售",
-          "url": "https://www.cls.cn/detail/2478735",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "全球七年共卖出1亿台，苹果会带火折叠屏手机吗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34028065",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "三星嘲讽苹果iPhoneDuo",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9F%E5%98%B2%E8%AE%BD%E8%8B%B9%E6%9E%9CiPhoneDuo%23&t=31&band_rank=6&Refer=top",
+          "title": "A股又调整",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8F%88%E8%B0%83%E6%95%B4%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "time_info": "[10时33分 ~ 10时34分]"
         },
         {
-          "title": "抖音达人直击苹果发布会现场",
-          "url": "https://www.douyin.com/hot/2642801",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "苹果首次四卡双待",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E9%A6%96%E6%AC%A1%E5%9B%9B%E5%8D%A1%E5%8F%8C%E5%BE%85",
-          "source": "百度热搜",
+          "title": "A股CPO概念股震荡回升，铭普光磁、光电股份、华胜天成涨停，特发信息、永鼎股份、中际旭创等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3163609",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
-          "title": "苹果入局折叠屏市场有何影响",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E5%85%A5%E5%B1%80%E6%8A%98%E5%8F%A0%E5%B1%8F%E5%B8%82%E5%9C%BA%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
-          "source": "bilibili 热搜",
+          "title": "A股电力股局部异动，闽东电力3连板，杭州热电冲击涨停，湖南发展、芯能科技、广西能源、华银电力涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3163607",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
-          "title": "顶配逼近2.7万元 苹果首款折叠机面市 核心果链谁能分一杯羹？",
-          "url": "https://www.cls.cn/detail/2478857",
-          "source": "财联社热门",
+          "title": "A股三大指数均跌超1%，有色、旅游、券商、钢铁等方向跌幅居前，沪深京三市下跌个股超5200只。",
+          "url": "https://wallstreetcn.com/livenews/3163599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "A股食品等消费股开盘下挫，克明食品跌停，海欣食品、安记食品、万辰集团、欢乐家、三全食品跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3163597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "沪指、深成指均跌超1%，创业板指跌0.6%，有色、旅游、券商、钢铁等方向跌幅居前，沪深京三市下跌个股超5100只。",
+          "url": "https://wallstreetcn.com/livenews/3163595",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
-          "title": "苹果2026秋季发布会全新品上手",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C2026%E7%A7%8B%E5%AD%A3%E5%8F%91%E5%B8%83%E4%BC%9A%E5%85%A8%E6%96%B0%E5%93%81%E4%B8%8A%E6%89%8B",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "苹果杀入折叠屏手机市场背后",
-          "url": "https://www.toutiao.com/trending/7683675434843848746/",
-          "source": "今日头条",
+          "title": "A股深证成指跌超2%，上证指数跌1.72%，创业板指跌1.6%，贵金属、工业金属、多元金融、半导体等板块跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260911101816817800",
+          "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
-          "title": "苹果最贵手机诞生",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%9C%80%E8%B4%B5%E6%89%8B%E6%9C%BA%E8%AF%9E%E7%94%9F%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "上证指数开盘报3910.92点，跌0.60%。 深证成指开盘报13483.63点，跌0.98%。 创业板指开盘报3310.01点，跌0.85%。 沪深300开盘报4514.30点，跌0.75%。 科创50开盘报1548.70点，跌1.31%。 中证500开盘报7638.63点，跌1.03%。 中证1000开盘报7504.66点，跌1.10%。",
+          "url": "https://wallstreetcn.com/livenews/3163584",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            17
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
-          "title": "苹果下架停产iPhone 17 Pro系列",
-          "url": "https://www.toutiao.com/trending/7682929182666768427/",
-          "source": "今日头条",
+          "title": "A股科创50指数跌超2%，北证50指数跌超3%，天合光能、沐曦股份-U、佰维存储等跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260911101404397800",
+          "source": "金十数据",
           "ranks": [
-            19
+            23
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "解析苹果华为小米折叠屏三国杀",
-          "url": "https://www.douyin.com/hot/2641505",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "三星嘲讽苹果iPhone Duo",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E6%98%9F%E5%98%B2%E8%AE%BD%E8%8B%B9%E6%9E%9CiPhone+Duo",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "苹果iPhone 18 Pro/Max 售价",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9CiPhone+18+Pro%2FMax+%E5%94%AE%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "速通苹果发布会",
-          "url": "https://search.bilibili.com/all?keyword=%E9%80%9F%E9%80%9A%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "苹果iPhone 18 Pro/Max 售价",
-          "url": "https://www.toutiao.com/trending/7683675010896236059/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "苹果下架iPhone17Pro",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E4%B8%8B%E6%9E%B6iPhone17Pro&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "苹果发布会速览：折叠iPhone横空出世",
-          "url": "https://www.toutiao.com/trending/7682956863297670698/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "苹果发布折叠手机iPhone Duo",
-          "url": "https://www.douyin.com/hot/2642804",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         }
       ]
     },
     {
       "keyword_group": "人工智能 AI ChatGPT GPT 大模型",
-      "match_count": 20,
+      "match_count": 12,
       "titles": [
         {
-          "title": "美发布中国人工智能企业对美蒸馏活动相关网络安全公告，商务部回应",
-          "url": "https://www.cls.cn/detail/2478630",
+          "title": "OpenAI或再推进数学七大难题",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%88%96%E5%86%8D%E6%8E%A8%E8%BF%9B%E6%95%B0%E5%AD%A6%E4%B8%83%E5%A4%A7%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "如何评价贝赫和斯维纳通 - 戴尔猜想（BSD 猜想，七大千禧难题）疑被 OpenAI 或 Anthropic 解决？",
+          "url": "https://www.zhihu.com/question/2081426911943718567",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "人均10个Agent，Token是新一代“茅台”，外滩大会热议AI新经济",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34045224",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "学妹干不过AI,翻译专业太严峻",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363454&amp;topic_name=%E5%AD%A6%E5%A6%B9%E5%B9%B2%E4%B8%8D%E8%BF%87AI%2C%E7%BF%BB%E8%AF%91%E4%B8%93%E4%B8%9A%E5%A4%AA%E4%B8%A5%E5%B3%BB",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "沃什导师、传奇交易员Druckenmiller闭门会议：美国利率偏低，鸽派立场荒谬，AI或有盈利泡沫",
+          "url": "https://wallstreetcn.com/articles/3781519",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "黄仁勋看好网络安全市场：AI带来的“新问题”正在创造新需求",
+          "url": "https://www.cls.cn/detail/2480105",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "经纬度：从外滩大会，看“AI新经济”走进生活",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34043592",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "GPT-6 Astra 会给具身行业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2081165724622513410",
+          "source": "知乎",
+          "ranks": [
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "AI短剧“1岁命人掌嘴4岁肃清朝堂”",
+          "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E2%80%9C1%E5%B2%81%E5%91%BD%E4%BA%BA%E6%8E%8C%E5%98%B44%E5%B2%81%E8%82%83%E6%B8%85%E6%9C%9D%E5%A0%82%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "如何看待 Anthropic 发文指控 DS 等大模型公司对其进行蒸馏，且涉及敏感数据？",
+          "url": "https://www.zhihu.com/question/2081600098434400315",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "Sam Altman告知员工：OpenAI对放慢顶尖AI的研发速度持开放态度",
+          "url": "https://wallstreetcn.com/livenews/3163566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "工信部印发《“人工智能+软件”专项行动实施方案》",
+          "url": "https://wallstreetcn.com/livenews/3163565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为 苹果 特斯拉 微软 谷歌",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "库克承认是看华为等厂家出折叠机才出的",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BA%93%E5%85%8B%E6%89%BF%E8%AE%A4%E6%98%AF%E7%9C%8B%E5%8D%8E%E4%B8%BA%E7%AD%89%E5%8E%82%E5%AE%B6%E5%87%BA%E6%8A%98%E5%8F%A0%E6%9C%BA%E6%89%8D%E5%87%BA%E7%9A%84%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "苹果折叠屏手机为何让人失望",
+          "url": "https://www.toutiao.com/trending/7683928643470364196/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "杭州一阿里员工被派去看苹果发布会",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B8%80%E9%98%BF%E9%87%8C%E5%91%98%E5%B7%A5%E8%A2%AB%E6%B4%BE%E5%8E%BB%E7%9C%8B%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "年销量预计1400万台！机构看好苹果折叠屏手机，但取决于产能和组装良率",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34046420",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "特斯拉Cybercab 3天撞7辆？不实",
+          "url": "https://www.toutiao.com/trending/7683943546142936639/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "锐评2026苹果秋季发布会",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%842026%E8%8B%B9%E6%9E%9C%E7%A7%8B%E5%AD%A3%E5%8F%91%E5%B8%83%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "苹果新机万元起,内存贵过金",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363394&amp;topic_name=%E8%8B%B9%E6%9E%9C%E6%96%B0%E6%9C%BA%E4%B8%87%E5%85%83%E8%B5%B7%2C%E5%86%85%E5%AD%98%E8%B4%B5%E8%BF%87%E9%87%91",
+          "source": "贴吧",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "一个视频看懂苹果发布会亮点",
+          "url": "https://www.douyin.com/hot/2642991",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "苹果价格把我的购物欲治好了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E4%BB%B7%E6%A0%BC%E6%8A%8A%E6%88%91%E7%9A%84%E8%B4%AD%E7%89%A9%E6%AC%B2%E6%B2%BB%E5%A5%BD%E4%BA%86%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "苹果的iPhone Duo折学",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E7%9A%84iPhone%20Duo%E6%8A%98%E5%AD%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "特斯拉中国正式上线全新Model Y全轮驱动高性能版，售价36.9万元起。",
+          "url": "https://wallstreetcn.com/livenews/3163571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 货币政策 降息 降准 加息",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美国8月PPI同比加速至5.4%超预期，核心PPI同比4.6%，美联储加息预期骤升",
+          "url": "https://wallstreetcn.com/articles/3781506",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "一图看懂｜围绕金融强国建设，央行、金融监管总局、证监会、国家外汇局最新发声",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34045259",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "重磅金融发布会！证监会、央行、金融监管总局、外汇局齐发声",
+          "url": "https://wallstreetcn.com/articles/3781482",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "三重压力来袭！美联储下周加息概率升破70% 华尔街紧盯今晚CPI",
+          "url": "https://www.cls.cn/detail/2480198",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "欧洲央行加息25个基点符合预期，上调未来两年通胀预期，暗示加息周期远未终结",
+          "url": "https://wallstreetcn.com/articles/3781505",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "中国央行今日开展40亿元7天期逆回购操作，今日无逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3163583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "澳新银行：欧洲央行或于12月加息",
+          "url": "https://flash.jin10.com/detail/20260911101652026800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 纳斯达克 道琼斯 标普500",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "【早报】油价大涨，黄金、白银大跌；美股存储板块，集体回落；燧原科技，今日上市；甲骨文，业绩超预期",
+          "url": "https://www.cls.cn/detail/2480154",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "美国8月PPI超预期 美股期指承压下跌 纳指期货跌超1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2479913",
           "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "time_info": "[10时33分 ~ 10时34分]"
         },
         {
-          "title": "GPT-6 Astra真正的意义：将“AI叙事”从“需求争论”拉回“物理瓶颈”",
-          "url": "https://wallstreetcn.com/articles/3781381",
-          "source": "华尔街见闻",
+          "title": "美股收盘：美油破百三大指数四连跌 芯片、存储、光通信集体回落",
+          "url": "https://www.cls.cn/detail/2480136",
+          "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "time_info": "[10时33分 ~ 10时34分]"
         },
         {
-          "title": "27岁研究员连辞OpenAI、Anthropic！两家都在拿我们的命下注",
-          "url": "https://wallstreetcn.com/articles/3781412",
-          "source": "华尔街见闻",
+          "title": "9月11日投资避雷针：国际油价大涨超6% 黄金、白银重挫 美股半导体全线下跌",
+          "url": "https://www.cls.cn/detail/2480197",
+          "source": "财联社热门",
           "ranks": [
-            7
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "商务部回应美方所谓AI蒸馏指控：于事无凭、于法无据，典型双重标准",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34039639",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "OpenAI高管：Astra需求太猛，新的Pro订阅或被迫暂停",
-          "url": "https://wallstreetcn.com/articles/3781396",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "戚薇AI脸演丧尸片了",
-          "url": "https://www.baidu.com/s?wd=%E6%88%9A%E8%96%87AI%E8%84%B8%E6%BC%94%E4%B8%A7%E5%B0%B8%E7%89%87%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "美国指责中国AI公司蒸馏美企，外交部：中国AI发展是高水平科技自立自强的成果",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34037416",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "OpenAI解出千禧年数学难题后，Altman下一目标：攻克室温超导？",
-          "url": "https://wallstreetcn.com/articles/3781400",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "AirPods 5 真机测评",
-          "url": "https://search.bilibili.com/all?keyword=AirPods%205%20%E7%9C%9F%E6%9C%BA%E6%B5%8B%E8%AF%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "AI攻克数学难题,韦神尴尬了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363251&amp;topic_name=AI%E6%94%BB%E5%85%8B%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98%2C%E9%9F%A6%E7%A5%9E%E5%B0%B4%E5%B0%AC%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "苹果Siri AI发布",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9CSiri%20AI%E5%8F%91%E5%B8%83&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "OpenAI 首席科学家称已造出「异星心智」，并警告「全人类都要刹车」，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2080253796941415480",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "GPT-6 被实测「很强但被吹过头了」，你如何评价这款模型？",
-          "url": "https://www.zhihu.com/question/2080789299197384413",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "AI冲击短剧,寒冬变坟墓",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363229&amp;topic_name=AI%E5%86%B2%E5%87%BB%E7%9F%AD%E5%89%A7%2C%E5%AF%92%E5%86%AC%E5%8F%98%E5%9D%9F%E5%A2%93",
-          "source": "贴吧",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "AirPods5 便宜",
-          "url": "https://s.weibo.com/weibo?q=AirPods5%20%E4%BE%BF%E5%AE%9C&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "AI已经摸不透曹骏了",
-          "url": "https://www.douyin.com/hot/2642153",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "OpenAI官宣攻克千禧年难题",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%98%E5%AE%A3%E6%94%BB%E5%85%8B%E5%8D%83%E7%A6%A7%E5%B9%B4%E9%9A%BE%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "高德CEO郭宁：AI时代最稀缺的是理解真实世界的能力",
-          "url": "https://wallstreetcn.com/livenews/3162924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "日本央行审议委员增一行：需要将价格走势控制在2%以内，物价趋势非常接近2%。 日本经济已全面进入通胀状态。 关注油价、人工智能需求和外汇走势，以确定加息步伐。 鉴于宽松的金融环境，将继续加息。 需要更多升息才能完成货币政策正常化。",
-          "url": "https://wallstreetcn.com/livenews/3162904",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "“大空头”清掉短期看跌期权，AI空头仍留到2027年",
-          "url": "https://flash.jin10.com/detail/20260910100701370800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股 上证指数 深证成指 创业板",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "A股军工装备板块震荡上涨，大连重工直线涨停，中亚星锚链涨超7%，国瑞科技、中国动力、江龙船艇、中船防务等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260910102320173800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "A股元件板块持续走强，金安国纪封板涨停，四会富仕涨超15%，威尔高、逸豪新材、南亚新材、超声电子、明阳电路等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260910101932327800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "创业板指拉升翻红，沪指、深成指跌幅收窄，油气、煤炭、银行、电力等方向领涨，沪深京三市上涨个股超1100只。",
-          "url": "https://wallstreetcn.com/livenews/3162921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "A股创新药概念股震荡调整，百普赛斯跌超10%，万邦医药、百花医药、千金药业、博济医药、诺思格跌超5%。",
-          "url": "https://wallstreetcn.com/livenews/3162918",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "A股PCB概念板块盘中震荡回升，四会富仕涨超10%，金安国纪盘中逼近涨停，威尔高、鸿仕达、逸豪新材、超声电子等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260910101324797800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "A股燃气股异动拉升，水发燃气直线涨停，凯添燃气涨超7%，贵州燃气、美能能源、天壕能源、重庆燃气跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3162909",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "创业板指跌超1%，沪指跌0.48%，深成指跌0.9%，影视、农业、创新药、消费电子等方向跌幅居前，沪深京三市下跌个股近4200只。",
-          "url": "https://wallstreetcn.com/livenews/3162902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "A股航运板块继续走强，南京港2连板，海通发展涨近6%，国航远洋、招商轮船、招商南油等多股高开。",
-          "url": "https://wallstreetcn.com/livenews/3162899",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "A股万讯转债现涨10.78%报153.982元/张，正股万讯自控涨8.38%。",
-          "url": "https://flash.jin10.com/detail/20260910100509482800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "A股旅游板块延续涨势，桂林旅游4连板，云南旅游、西域旅游、张家界、陕西旅游、华天酒店纷纷高开。",
-          "url": "https://wallstreetcn.com/livenews/3162893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "上证指数开盘报3939.09点，跌0.31%。 深证成指开盘报13641.18点，跌0.60%。 创业板指开盘报3324.33点，跌0.91%。 沪深300开盘报4550.19点，跌0.49%。 科创50开盘报1569.46点，跌0.67%。 中证500开盘报7731.63点，跌0.47%。 中证1000开盘报7611.52点，跌0.49%。",
-          "url": "https://wallstreetcn.com/livenews/3162889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "[10时33分 ~ 10时34分]"
         }
       ]
     },
     {
       "keyword_group": "监管 政策",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
         {
-          "title": "上交所向星宇股份下发监管工作函，同日公司致歉更正年报错误",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34038580",
-          "source": "澎湃新闻",
+          "title": "美国总统特朗普：我们将使已通过的减税政策永久化。",
+          "url": "https://flash.jin10.com/detail/20260911102733733800",
+          "source": "金十数据",
           "ranks": [
-            3
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
-          "title": "特朗普关税政策现状如何",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%94%BF%E7%AD%96%E7%8E%B0%E7%8A%B6%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
+          "title": "美国总统特朗普：美国历史上最大规模的减税和监管改革已获批准。我修建了约两千英里的边境墙，我们建立了美国历史上最强大、最安全的边境。我们在美国实现了125年来最低的犯罪率。",
+          "url": "https://flash.jin10.com/detail/20260911102257264800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
-          "title": "上交所向星宇股份发监管函，就公司相关事项明确监管要求，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2081090615165580123",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "维持利率不变直到明年重启宽松，瑞银认为黄金正处关键政策窗口",
-          "url": "https://flash.jin10.com/detail/20260910101858443800",
+          "title": "日本财务大臣片山皋月：在G20会议期间，获得了美国财长贝森特和摩根大通CEO戴蒙对日本经济政策的支持。",
+          "url": "https://flash.jin10.com/detail/20260911101159416800",
           "source": "金十数据",
           "ranks": [
-            11
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "10时34分"
         }
       ]
     },
     {
-      "keyword_group": "港股 恒生指数",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "港股汽车股再度大幅下挫，蔚来(09866.HK)跌超5%，小鹏集团(09868.HK)跌超3.5%，吉利汽车(00175.HK)跌超3%，小米集团(01810.HK)、比亚迪股份(01211.HK)、长城汽车(02333.HK)等多股跌超2%。",
-          "url": "https://flash.jin10.com/detail/20260910101219984800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "港股电力设备股震荡下挫，潍柴动力(02338.HK)跌超5%，东方电气(01072.HK)跌超4.5%，哈尔滨电气(01133.HK)、亿华通(02402.HK)、天能动力(00819.HK)、协鑫科技(03800.HK)、福莱特玻璃(06865.HK)均跌超2%。",
-          "url": "https://flash.jin10.com/detail/20260910100959183800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "港股恒生科技指数盘中跌超2%，恒生指数跌1.16%，智谱(02513.HK)跌超6%，MiniMax(00100.HK)跌超5.5%，潍柴动力(02338.HK)跌超5%。",
-          "url": "https://flash.jin10.com/detail/20260910100816195800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 货币政策 降息 降准 加息",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "【早报】深夜，苹果折叠屏手机发布，起售价15999元；重磅发布会，今日举行，央行、金融监管总局、证监会、外汇局等出席；原油飙升、黄金走强",
-          "url": "https://www.cls.cn/detail/2478804",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "重磅发布会今日举行，央行、金融监管总局、证监会、外汇局等出席",
-          "url": "https://www.cls.cn/detail/2478814",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "日本央行审议委员增一行：必须关注日元疲软对通胀的影响。 中东冲突或将推高潜在通胀。",
-          "url": "https://wallstreetcn.com/livenews/3162910",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 纳斯达克 道琼斯 标普500",
+      "keyword_group": "IPO 上市",
       "match_count": 2,
       "titles": [
         {
-          "title": "油价破百叠加通胀数据前夕，美股指三连跌，Meta逆势大涨6%，美债全线走低",
-          "url": "https://wallstreetcn.com/articles/3781389",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
-          "title": "美股收盘：三大指数连跌三天 存储&光通信逆市走高",
-          "url": "https://www.cls.cn/detail/2478787",
+          "title": "【数读IPO】燧原科技，今日上市",
+          "url": "https://www.cls.cn/detail/2480153",
           "source": "财联社热门",
           "ranks": [
-            2
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "燧原科技上市首日高开188.37%。",
+          "url": "https://wallstreetcn.com/livenews/3163586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         }
       ]
     },
@@ -820,54 +623,82 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "欧盟若铁了心要跟中国打贸易战，那就试试吧",
-          "url": "https://news.ifeng.com/c/8wI3AMn1J9T",
-          "source": "凤凰网",
+          "title": "铜关税迟迟不定！特朗普面临“保供还是保价”难题",
+          "url": "https://flash.jin10.com/detail/20260911102809728800",
+          "source": "金十数据",
           "ranks": [
-            6
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
-          "title": "“1890年美国就想用关税吞并我们”，加拿大总理发表全国动员应战讲话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34036556",
-          "source": "澎湃新闻",
+          "title": "特朗普拟给美国成年人每人发5000美元，美媒算账：总额高达1.2万亿美元，关税收入远远不够",
+          "url": "https://wallstreetcn.com/articles/3781496",
+          "source": "华尔街见闻",
           "ranks": [
-            14
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "time_info": "[10时33分 ~ 10时34分]"
         }
       ]
     },
     {
-      "keyword_group": "黄金 金价",
+      "keyword_group": "地缘政治 冲突",
       "match_count": 2,
       "titles": [
         {
-          "title": "黄金白银大跌",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%A4%A7%E8%B7%8C&t=31&band_rank=22&Refer=top",
-          "source": "微博",
+          "title": "美媒：万斯、鲁比奥等人私下警告特朗普，美伊冲突可能持续到其总统任期结束",
+          "url": "https://wallstreetcn.com/articles/3781501",
+          "source": "华尔街见闻",
           "ranks": [
-            22
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "time_info": "[10时33分 ~ 10时34分]"
         },
         {
-          "title": "金十图示：2026年09月10日（周四）上海金早盘价为953.45元/克，较国际金价(950.72元/克)，高2.73元/克",
-          "url": "https://flash.jin10.com/detail/20260910101755229800",
-          "source": "金十数据",
+          "title": "伊朗战争、俄乌冲突与厄尔尼诺叠加，汇丰：全球大宗商品进入\"超级牛市\"",
+          "url": "https://wallstreetcn.com/articles/3781500",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "原油 石油",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "霓虹博主体验特色石油浴",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363474&amp;topic_name=%E9%9C%93%E8%99%B9%E5%8D%9A%E4%B8%BB%E4%BD%93%E9%AA%8C%E7%89%B9%E8%89%B2%E7%9F%B3%E6%B2%B9%E6%B5%B4",
+          "source": "贴吧",
           "ranks": [
             12
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "商品期货开盘，原油主力合约涨超6%，燃料油、LU燃油涨超5%，纯苯、沥青涨超3%。铂、沪银、钯跌超5%，国际铜、沪锌跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3163576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时40分"
+          "time_info": "10时34分"
         }
       ]
     },
@@ -876,32 +707,49 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "思瑞浦：全系列光通信模拟芯片方案亮相 相关方案已完成客户验证",
-          "url": "https://flash.jin10.com/detail/20260910102131090800",
-          "source": "金十数据",
+          "title": "通胀忧虑重燃，美国股债双杀，存储芯片股普跌，美油飙涨7%破百，黄金重挫逼近4300",
+          "url": "https://wallstreetcn.com/articles/3781481",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
         }
       ]
     },
     {
-      "keyword_group": "IPO 上市",
+      "keyword_group": "黄金 金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "曝DeepSeek正筹备科创板IPO",
-          "url": "https://www.toutiao.com/trending/7682375308184387610/",
-          "source": "今日头条",
+          "title": "道明证券警告：黄金若失守两道防线，抛售可能加速",
+          "url": "https://flash.jin10.com/detail/20260911101117323800",
+          "source": "金十数据",
           "ranks": [
-            4
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金融 银行",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金融强国建设十五五规划出台",
+          "url": "https://www.douyin.com/hot/2644163",
+          "source": "抖音",
+          "ranks": [
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "time_info": "[10时33分 ~ 10时34分]"
         }
       ]
     }
