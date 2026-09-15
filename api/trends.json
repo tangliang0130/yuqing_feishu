@@ -1,503 +1,559 @@
 {
-  "generated_at": "2026-09-14T10:56:13.310409+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-09-15T10:58:35.724544+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "A股 上证指数 深证成指 创业板",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "A股调整临近尾声？投资主线有哪些？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2481738",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
-        },
-        {
-          "title": "A股机器人概念股震荡走强，万讯自控20cm涨停，科森科技此前封板，奇精机械、浙江荣泰、北自科技、江苏北人涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3164556",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "中信建投：加息“靴子”将落地，A股或迎反攻行情",
-          "url": "https://wallstreetcn.com/articles/3781648",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
-        },
-        {
-          "title": "A股三大指数集体翻红，MLCC概念、培育钻石、PCB概念涨幅居前。全市场上涨个股超3500只。",
-          "url": "https://flash.jin10.com/detail/20260914102349178800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "A股三大指数全线翻红，此前深成指、创业板指均跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3164543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "创业板指拉升翻红，此前一度跌近1.8%。",
-          "url": "https://wallstreetcn.com/livenews/3164540",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "A股CRO概念板块拉升，英诺激光、万邦医药涨超12%，近岸蛋白、奥浦迈、成都先导、美迪西、泓博医药等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260914101646543800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "A股培育钻石概念快速走高，恒盛能源直线涨停，英诺激光、力量钻石涨超10%，惠丰钻石、黄河旋风、四方达、国机精工涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3164535",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "A股中药板块异动拉升，精华制药、三力制药双双涨停，千金药业、沃华医药、大唐药业、生物谷跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3164529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "A股CPO概念震荡反弹，科翔股份涨超14%，帝奥微涨超12%，东田微、蘅东光、中瓷电子跟涨。",
-          "url": "https://flash.jin10.com/detail/20260914101157421800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "A股液冷概念股开盘走弱，集泰股份跌停，中石科技、科瑞技术、远东股份、鼎通科技、冰轮环境等跌幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3164516",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "A股农业股集体调整，敦煌种业、新农开发一字跌停，新赛股份、亚盛集团、农发种业、海南橡胶等纷纷低开。",
-          "url": "https://wallstreetcn.com/livenews/3164513",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "A股网络安全概念大幅高开，中新赛克3连板，天融信一字涨停，永信至诚、安恒信息涨超10%，任子行、奇安信、国安股份、绿盟科技等涨幅靠前。",
-          "url": "https://wallstreetcn.com/livenews/3164510",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "A股PCB概念持续拉升，超声电子、天通股份双双涨停，英诺激光、嘉立创涨超9%，弘信电子、高斯贝尔跟涨。",
-          "url": "https://flash.jin10.com/detail/20260914095947179800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "上证指数开盘报3867.02点，跌0.54%。 深证成指开盘报13333.07点，跌1.03%。 创业板指开盘报3279.31点，跌1.29%。 沪深300开盘报4474.95点，跌0.78%。 科创50开盘报1526.80点，跌1.71%。 中证500开盘报7511.04点，跌0.92%。 中证1000开盘报7363.42点，跌0.86%。",
-          "url": "https://wallstreetcn.com/livenews/3164508",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人工智能 AI ChatGPT GPT 大模型",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
         {
-          "title": "“AI交易”周一要遭暴击？三巨头支持“放缓”、OpenAI推迟IPO引热议",
-          "url": "https://wallstreetcn.com/articles/3781643",
-          "source": "华尔街见闻",
+          "title": "特朗普急了，现场连线黄仁勋，斥责AI危险论是骗局",
+          "url": "https://tech.ifeng.com/c/8wQkfkSVHfL",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
+          "appearance_count": 1,
+          "time_info": "10时58分"
         },
         {
-          "title": "【早报】AI巨头呼吁，放缓前沿模型研发；沙特输油管道中断，油价大幅拉升；两场重磅发布会，今日举行",
-          "url": "https://www.cls.cn/detail/2481806",
-          "source": "财联社热门",
+          "title": "大量5090显卡流入AI矿场",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E9%87%8F5090%E6%98%BE%E5%8D%A1%E6%B5%81%E5%85%A5AI%E7%9F%BF%E5%9C%BA",
+          "source": "bilibili 热搜",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
+          "appearance_count": 1,
+          "time_info": "10时58分"
         },
         {
-          "title": "我们距离RSI还有多远？来自AI一线的观点",
-          "url": "https://wallstreetcn.com/articles/3781652",
+          "title": "2026人工智能产业大会将于10月14日至16日在济南举办",
+          "url": "https://wallstreetcn.com/livenews/3165202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "美国政坛激辩“AI放缓”：“左右翼”领袖班农、桑德斯都支持，特朗普称“不能踩刹车，美国有“高智商总统”就足够”",
+          "url": "https://wallstreetcn.com/articles/3781728",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "苹果Siri AI终于来了！历经延期后正式开放测试",
+          "url": "https://www.cls.cn/detail/2482879",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "OpenAI CEO详谈放慢AI发展脚步原因：未来或走向两大极端，均可能失控！",
+          "url": "https://www.cls.cn/detail/2482954",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "苹果推出Siri人工智能",
+          "url": "https://www.douyin.com/hot/2650318",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "AI数据隐私担忧升温，英伟达、Palantir等限制Anthropic模型使用，微软借机争夺企业客户",
+          "url": "https://wallstreetcn.com/articles/3781723",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
+          "appearance_count": 1,
+          "time_info": "10时58分"
         },
         {
-          "title": "25位菲尔兹奖得主联名愤怒，OpenAI退出赞助：AI正在激怒整个数学界",
-          "url": "https://wallstreetcn.com/articles/3781657",
+          "title": "马斯克称中国AI或致美安全风险，外交部回应",
+          "url": "https://news.ifeng.com/c/8wPn4mnceLc",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "“AI减速论”愈演愈烈 特朗普再度驳斥：AI将成史上最强经济发展引擎",
+          "url": "https://www.cls.cn/detail/2482942",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "Anthropic 一研究员辞职示警称 AI 可能在未来十年内毁灭人类，巨头拿人类生命作赌，如何看待该观点？",
+          "url": "https://www.zhihu.com/question/2081735347436778562",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "特朗普当众致电黄仁勋：AI危险论是\"骗局\"，数据中心重要性超过互联网",
+          "url": "https://wallstreetcn.com/articles/3781745",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "外交部：散播人工智能威胁叙事不符合任何一方利益",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34066545",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "9月15日投资避雷针：英伟达限制使用OpenAI和Anthropic最先进模型",
+          "url": "https://www.cls.cn/detail/2482946",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "特朗普急了 致电黄仁勋斥责AI危险论",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%A5%E4%BA%86+%E8%87%B4%E7%94%B5%E9%BB%84%E4%BB%81%E5%8B%8B%E6%96%A5%E8%B4%A3AI%E5%8D%B1%E9%99%A9%E8%AE%BA",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "AirPods 5全系选购指南",
+          "url": "https://search.bilibili.com/all?keyword=AirPods%205%E5%85%A8%E7%B3%BB%E9%80%89%E8%B4%AD%E6%8C%87%E5%8D%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "沙特民防部门发布针对延布（Yanbu）、泰伊夫（Taif）、吉达（Jeddah）的紧急警报。",
+          "url": "https://wallstreetcn.com/livenews/3165155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为 苹果 特斯拉 微软 谷歌",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "拉夫罗夫用华为三折叠",
+          "url": "https://www.toutiao.com/trending/7685547790466662463/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "苹果接受三星明年一季度存储报价",
+          "url": "https://flash.jin10.com/detail/20260915103217117800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "华为赛力斯问界归属变动",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E8%B5%9B%E5%8A%9B%E6%96%AF%E9%97%AE%E7%95%8C%E5%BD%92%E5%B1%9E%E5%8F%98%E5%8A%A8&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "苹果预售追踪：iPhone 18 Pro系列海外需求信号偏弱，Duo评测正面但硬件落后",
+          "url": "https://wallstreetcn.com/articles/3781688",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
+          "appearance_count": 1,
+          "time_info": "10时58分"
         },
         {
-          "title": "Anthropic CEO呼吁减速：要是路走错了，AI毁灭人类概率不止10%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34060452",
-          "source": "澎湃新闻",
+          "title": "当内裤是苹果的产品",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E5%86%85%E8%A3%A4%E6%98%AF%E8%8B%B9%E6%9E%9C%E7%9A%84%E4%BA%A7%E5%93%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "苹果回应iPhone 18 Pro破发",
+          "url": "https://www.toutiao.com/trending/7684654232915804202/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "苹果回应iPhone18Pro破发",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94iPhone18Pro%E7%A0%B4%E5%8F%91",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "Tim和阿信对话苹果CEO",
+          "url": "https://search.bilibili.com/all?keyword=Tim%E5%92%8C%E9%98%BF%E4%BF%A1%E5%AF%B9%E8%AF%9D%E8%8B%B9%E6%9E%9CCEO",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "制造业 工业",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "国家统计局：8月份，规上工业天然气产量214亿立方米，同比增长0.8%，7月份为下降0.9%；日均产量6.9亿立方米。1—8月份，规上工业天然气产量1757亿立方米，同比增长1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3165189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "国家统计局：8月份，规上工业原煤产量3.6亿吨，同比下降7.7%，降幅比7月份收窄2.4个百分点；日均产量1167万吨。1—8月份，规上工业原煤产量30.6亿吨，同比下降3.3%。",
+          "url": "https://wallstreetcn.com/livenews/3165187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "国家统计局：8月份规上工业发电量同比下降0.8%",
+          "url": "https://wallstreetcn.com/livenews/3165186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "8月份我国工业机器人产量同比增长34.6%",
+          "url": "https://wallstreetcn.com/livenews/3165183",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
+          "appearance_count": 1,
+          "time_info": "10时58分"
         },
         {
-          "title": "出现这种感觉 说明你AI成瘾了",
-          "url": "https://www.baidu.com/s?wd=%E5%87%BA%E7%8E%B0%E8%BF%99%E7%A7%8D%E6%84%9F%E8%A7%89+%E8%AF%B4%E6%98%8E%E4%BD%A0AI%E6%88%90%E7%98%BE%E4%BA%86",
+          "title": "中国8月规模以上工业增加值同比 5.2%，前值 4.5%。",
+          "url": "https://wallstreetcn.com/livenews/3165171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "中国1至8月规模以上工业增加值同比 5.3%，前值 5.3%。",
+          "url": "https://wallstreetcn.com/livenews/3165170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房地产 房价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "国家统计局：前八个月房地产交易总量趋于稳定",
+          "url": "https://wallstreetcn.com/livenews/3165204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "1—8月全国房地产开发投资同比下降19.9%",
+          "url": "https://wallstreetcn.com/livenews/3165177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "中国1至8月全国房地产开发投资 -19.9%，前值 -19.2%。",
+          "url": "https://wallstreetcn.com/livenews/3165165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "提醒：北京时间10:00将公布中国1-8月规模以上工业增加值、社会消费品零售、城镇固定资产投资、房地产开发投资等数据。",
+          "url": "https://wallstreetcn.com/livenews/3165158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股 上证指数 深证成指 创业板",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "A股持续震荡，韧性从何而来？五大券商首席发声：多重积极因素已形成支撑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34067660",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "A股低开",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E4%BD%8E%E5%BC%80",
           "source": "百度热搜",
           "ranks": [
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
-        },
-        {
-          "title": "AI正成为危险是危言耸听吗",
-          "url": "https://search.bilibili.com/all?keyword=AI%E6%AD%A3%E6%88%90%E4%B8%BA%E5%8D%B1%E9%99%A9%E6%98%AF%E5%8D%B1%E8%A8%80%E8%80%B8%E5%90%AC%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
-        },
-        {
-          "title": "不少网友痴迷看单集几分钟、充满反转与爽点的 AI 短剧，你会看 AI 短剧成瘾吗？看多了会有哪些影响？",
-          "url": "https://www.zhihu.com/question/2082371529283559488",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
-        },
-        {
-          "title": "AI抢饭碗,数学家急眼",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363786&amp;topic_name=AI%E6%8A%A2%E9%A5%AD%E7%A2%97%2C%E6%95%B0%E5%AD%A6%E5%AE%B6%E6%80%A5%E7%9C%BC",
-          "source": "贴吧",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
-        },
-        {
-          "title": "科技部董科研：类脑智能、神经形态光子学是下一代人工智能的重要突破口",
-          "url": "https://wallstreetcn.com/livenews/3164520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "10时58分"
         },
         {
-          "title": "软银获118.7亿美元贷款 加码OpenAI投资",
-          "url": "https://flash.jin10.com/detail/20260914100130578800",
+          "title": "A股风电设备板块震荡拉升，吉鑫科技涨停，大金重工、天顺风能、天能重工、新强联、振宏股份跟涨。",
+          "url": "https://flash.jin10.com/detail/20260915101315188800",
           "source": "金十数据",
           "ranks": [
-            24
+            25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "10时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 纳斯达克 道琼斯 标普500",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "AI开发放缓担忧升温，美股指全线收跌，芯片指数大跌近6%，10年期美债收益率一度涨破5%",
+          "url": "https://wallstreetcn.com/articles/3781670",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
         },
         {
-          "title": "市场消息：知情人士表示，软银集团获得了118.7亿美元的贷款，以支持其对OpenAI的投资，较之前的100亿美元目标有所上调。",
-          "url": "https://flash.jin10.com/detail/20260914095851267800",
-          "source": "金十数据",
+          "title": "【早报】美股光通信、存储芯片板块大跌；事关国民经济运行，重要发布会今日举行；原油走强、黄金下挫",
+          "url": "https://www.cls.cn/detail/2482914",
+          "source": "财联社热门",
           "ranks": [
-            30
+            1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "10时58分"
+        },
+        {
+          "title": "美股收盘：AI降速呼声重挫芯片股 三大指数集体收跌",
+          "url": "https://www.cls.cn/detail/2482891",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
         }
       ]
     },
     {
       "keyword_group": "央行 货币政策 降息 降准 加息",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "美联储会“连续加息”？1980年代末“紧缩周期”会重演吗？",
-          "url": "https://wallstreetcn.com/articles/3781640",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
-        },
-        {
-          "title": "CPI夜美联储加息成市场压倒性共识，黄金上蹿下跳；伊朗与海湾国家突然推迟会晤，沙特关闭东西输油管道或危及全球4%石油供应……美油空头占优，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20260914103120496800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "美联储加息概率飙至90%",
-          "url": "https://www.douyin.com/hot/2648413",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
-        },
-        {
-          "title": "所有目光聚焦沃什，下周“央行超级周”迎来G7加息潮？",
-          "url": "https://wallstreetcn.com/articles/3781642",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
-        },
-        {
-          "title": "环球下周看点：央行决议与中东局势牵动市场 美联储加息悬念待揭晓",
-          "url": "https://www.cls.cn/detail/2481561",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
-        },
-        {
-          "title": "美联储加息箭在弦上，真正的悬念是：这次加完还要加几次？",
-          "url": "https://flash.jin10.com/detail/20260914101225796800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "中国央行公开市场开展零亿元7天期逆回购操作，开展5040亿元隔夜逆回购操作。今日5亿元逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/3164505",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "地缘政治 冲突",
       "match_count": 3,
       "titles": [
         {
-          "title": "美智库建议“不介入台海冲突”",
-          "url": "https://news.ifeng.com/c/8wP8nEzMDzE",
-          "source": "凤凰网",
+          "title": "以史为鉴：单次加息不足以终结牛市，完整紧缩周期才是真正威胁",
+          "url": "https://wallstreetcn.com/articles/3781717",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
+          "appearance_count": 1,
+          "time_info": "10时58分"
         },
         {
-          "title": "冰岛说不，欧盟地缘政治转型降速",
-          "url": "https://news.ifeng.com/c/8wP5fLNaY4J",
-          "source": "凤凰网",
+          "title": "菲律宾央行：七月现金汇款为32.4亿美元，同比增长1.9%。",
+          "url": "https://flash.jin10.com/detail/20260915101602714800",
+          "source": "金十数据",
           "ranks": [
-            11
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
+          "appearance_count": 1,
+          "time_info": "10时58分"
         },
         {
-          "title": "数千人伤亡！也门冲突快速升级",
-          "url": "https://www.baidu.com/s?wd=%E6%95%B0%E5%8D%83%E4%BA%BA%E4%BC%A4%E4%BA%A1%EF%BC%81%E4%B9%9F%E9%97%A8%E5%86%B2%E7%AA%81%E5%BF%AB%E9%80%9F%E5%8D%87%E7%BA%A7",
-          "source": "百度热搜",
+          "title": "沃什上任后首次加息在即：特朗普与美联储的“休战”要撑不住了？",
+          "url": "https://flash.jin10.com/detail/20260915101440620800",
+          "source": "金十数据",
           "ranks": [
-            17
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
+          "appearance_count": 1,
+          "time_info": "10时58分"
         }
       ]
     },
     {
-      "keyword_group": "黄金 金价",
-      "match_count": 3,
+      "keyword_group": "监管 政策",
+      "match_count": 2,
       "titles": [
         {
-          "title": "黄金 美联储",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91%20%E7%BE%8E%E8%81%94%E5%82%A8&t=31&band_rank=6&Refer=top",
-          "source": "微博",
+          "title": "市场监管总局：加力规制行政不当干预行为，大力维护良性竞争市场秩序",
+          "url": "https://flash.jin10.com/detail/20260915103147165800",
+          "source": "金十数据",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
+          "appearance_count": 1,
+          "time_info": "10时58分"
         },
         {
-          "title": "央视同事忆敬一丹：她是大姐，也是电视黄金时代的同行者",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34061027",
+          "title": "超30家药企长期行贿，涉案1.84亿！河北医科大学第二医院回应：正配合监管部门开展工作",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34065386",
           "source": "澎湃新闻",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
-        },
-        {
-          "title": "金十图示：2026年09月14日（周一）上海金早盘价为939.63元/克，较国际金价(937.87元/克)，高1.76元/克",
-          "url": "https://flash.jin10.com/detail/20260914102025611800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "IPO 上市",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【早报】我国词元消耗量今年将达到10亿亿；英伟达拟斥资100亿美元参投Anthropic IPO",
-          "url": "https://www.cls.cn/detail/2481566",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
-        },
-        {
-          "title": "【数读IPO】年内最便宜新股，今日申购",
-          "url": "https://www.cls.cn/detail/2481805",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
+          "time_info": "10时58分"
         }
       ]
     },
@@ -506,105 +562,88 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "报道：延布港库存仅能维持5至7天出口！若沙特遭袭油管持续中断，全球或面临4%原油缺口",
-          "url": "https://wallstreetcn.com/articles/3781659",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
-        },
-        {
-          "title": "特朗普盯上伊朗石油：就像在委内瑞拉那样",
-          "url": "https://news.ifeng.com/c/8wPCZU6JFfM",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "华为 苹果 特斯拉 微软 谷歌",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "宝马干了特斯拉不敢干的",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%9D%E9%A9%AC%E5%B9%B2%E4%BA%86%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%8D%E6%95%A2%E5%B9%B2%E7%9A%84",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
-        },
-        {
-          "title": "爆了!苹果18首批开售秒空",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363832&amp;topic_name=%E7%88%86%E4%BA%86%21%E8%8B%B9%E6%9E%9C18%E9%A6%96%E6%89%B9%E5%BC%80%E5%94%AE%E7%A7%92%E7%A9%BA",
-          "source": "贴吧",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "财报 业绩",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国光股份：目前未发现厄尔尼诺现象对整体经营业绩产生重大影响",
-          "url": "https://flash.jin10.com/detail/20260914103144665800",
+          "title": "特朗普再度宣称伊朗希望迅速达成协议，遭遇伊方强硬驳斥！沙特被曝寻求增加霍尔木兹海峡石油出口，东西输油管道或在数周内大部分停运……美油空头持续占优，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260915103252636800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "监管 政策",
-      "match_count": 1,
-      "titles": [
+          "time_info": "10时58分"
+        },
         {
-          "title": "跨国公司资金池政策今日起推广至全国",
-          "url": "https://wallstreetcn.com/livenews/3164546",
+          "title": "国家统计局：8月份，规上工业原油产量1843万吨，同比增长0.8%，增速与7月份持平；日均产量59.5万吨。 1—8月份，规上工业原油产量14639万吨，同比增长0.9%。 8月份，规上工业原油加工量5907万吨，同比下降6.9%，降幅比7月份收窄8.9个百分点；日均加工量190.6万吨。 1—8月份，规上工业原油加工量45612万吨，同比下降6.6%。",
+          "url": "https://wallstreetcn.com/livenews/3165188",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "10时58分"
         }
       ]
     },
     {
-      "keyword_group": "贸易战 关税",
+      "keyword_group": "黄金 金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：今日国内黄金饰品价格对比显示，多家品牌金饰价格较昨日普遍小幅回落，普遍处于1295元/克-1310元/克区间。",
+          "url": "https://flash.jin10.com/detail/20260915102844859800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "金十图示：2026年09月15日（周二）上海金早盘价为931.14元/克，较国际金价(929.24元/克)，高1.9元/克",
+          "url": "https://flash.jin10.com/detail/20260915101858252800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片 半导体 集成电路",
       "match_count": 1,
       "titles": [
         {
-          "title": "特朗普政府推迟精炼铜关税决定 铜价亚洲早盘下跌",
-          "url": "https://flash.jin10.com/detail/20260914102113658800",
-          "source": "金十数据",
+          "title": "科创50指数涨超3%，半导体芯片股集体走强，臻宝科技、气派科技20cm涨停，中晶科技、大为股份封板，华海清科、恒烁股份、寒武纪等涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3165193",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "10时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "IPO 上市",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "铠侠：有关赴美上市的媒体报道并非来自本公司授权。 ADR（美国存托凭证）上市的具体时间、交易市场及发行方式尚未确定。",
+          "url": "https://wallstreetcn.com/livenews/3165156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
         }
       ]
     },
@@ -614,14 +653,14 @@
       "titles": [
         {
           "title": "各大银行/品牌金条价格排行一览",
-          "url": "https://flash.jin10.com/detail/20260914103128046800",
+          "url": "https://flash.jin10.com/detail/20260915103157772800",
           "source": "金十数据",
           "ranks": [
-            3
+            4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "10时58分"
         }
       ]
     }
