@@ -1,466 +1,277 @@
 {
-  "generated_at": "2026-09-25T11:01:51.310420+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-09-26T11:04:35.382534+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT GPT 大模型",
-      "match_count": 11,
+      "match_count": 7,
       "titles": [
         {
-          "title": "高盛称AI板块仍具吸引力，8000亿美元超大规模投资支撑亚洲硬件链",
-          "url": "https://flash.jin10.com/detail/20260925105514316800",
+          "title": "美媒：特朗普将于周二推出AI驱动的新网站America.gov",
+          "url": "https://flash.jin10.com/detail/20260926105840648800",
           "source": "金十数据",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "11时04分"
         },
         {
-          "title": "商务部：中美双方就人工智能进行了首次对话；第八轮经贸磋商达成了多项共识",
-          "url": "https://wallstreetcn.com/articles/3782454",
+          "title": "通胀、赤字、AI发债齐施压，超半数市场人士押注30年期美债收益率年底前触及6%",
+          "url": "https://wallstreetcn.com/articles/3782544",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "11时04分"
         },
         {
-          "title": "半夏投资李蓓：AI资本开支或在明年年中见顶，地产的机会升级到二十年一遇",
-          "url": "https://wallstreetcn.com/articles/3782474",
+          "title": "Codex和Claude Code都跑偏了，前OpenAI研究员称Jev出现前AI世界是个悲剧",
+          "url": "https://wallstreetcn.com/articles/3782531",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "11时04分"
         },
         {
-          "title": "花旗：腾讯小微有望成为中国首选代理式AI助手",
-          "url": "https://wallstreetcn.com/livenews/3170672",
+          "title": "OpenAI的模型访问了美国人口普查局和SEC的公开数据",
+          "url": "https://wallstreetcn.com/livenews/3170944",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "11时04分"
         },
         {
           "title": "吧友手搓AI娘网站,梗图全收录",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365534&amp;topic_name=%E5%90%A7%E5%8F%8B%E6%89%8B%E6%90%93AI%E5%A8%98%E7%BD%91%E7%AB%99%2C%E6%A2%97%E5%9B%BE%E5%85%A8%E6%94%B6%E5%BD%95",
           "source": "贴吧",
           "ranks": [
-            8
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "11时04分"
         },
         {
-          "title": "如何评价 AI 短剧《我的妹妹不可爱》？",
-          "url": "https://www.zhihu.com/question/2082633591561924694",
-          "source": "知乎",
+          "title": "印度外长苏杰生：很高兴与希腊外长共同主持了题为“国际和平与安全背景下的人工智能，重点关注海上安全”的活动。活动上强调了需要充分利用人工智能带来的机遇，预见其影响并降低其风险的议题。我们还强调了在海事领域，人工智能可提升海事态势感知能力、搜救能力、灾害响应能力、可疑活动识别能力，以及港口和关键基础设施的韧性等问题。",
+          "url": "https://flash.jin10.com/detail/20260926094502036800",
+          "source": "金十数据",
           "ranks": [
-            9
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "11时04分"
         },
         {
-          "title": "UP主AI自制封神2",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BBAI%E8%87%AA%E5%88%B6%E5%B0%81%E7%A5%9E2",
-          "source": "bilibili 热搜",
+          "title": "硅基生物看人工智能短剧会笑",
+          "url": "https://s.weibo.com/weibo?q=%E7%A1%85%E5%9F%BA%E7%94%9F%E7%89%A9%E7%9C%8B%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9F%AD%E5%89%A7%E4%BC%9A%E7%AC%91&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "牛津经济学警告美国经济指标跌入衰退区间，但AI投资与消费韧性仍提供支撑",
-          "url": "https://flash.jin10.com/detail/20260925101605985800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "OpenAI、Anthropic掌门人联合国现场双双呼吁警惕AI发展过快风险",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34139046",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "食贫道硅谷看AI",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A3%9F%E8%B4%AB%E9%81%93%E7%A1%85%E8%B0%B7%E7%9C%8BAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "报道：甲骨文、Blue Owl项目延期预期在AI融资市场引发连锁反应",
-          "url": "https://wallstreetcn.com/livenews/3170653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "11时04分"
         }
       ]
     },
     {
-      "keyword_group": "央行 货币政策 降息 降准 加息",
-      "match_count": 8,
+      "keyword_group": "华为 苹果 特斯拉 微软 谷歌",
+      "match_count": 7,
       "titles": [
         {
-          "title": "央行：加强对扩大内需、科技创新、中小微企业、“六张网”建设等重点领域的金融支持",
-          "url": "https://www.cls.cn/detail/2492432",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：具体的货币政策工具由日本央行决定。 日本央行最近的加息举措旨在实现通胀目标。 希望日本央行在与政府保持沟通协调的同时，实施恰当的货币政策。 不对具体的汇率水平及汇率检查发表评论。 特朗普及美方在峰会期间对日元走弱表达了担忧。 将在外汇问题上与美方保持密切协调。 高市早苗首相总体上对日元走弱表示关注。",
-          "url": "https://wallstreetcn.com/livenews/3170674",
+          "title": "据华为官网，HUAWEI Mate 90系列及全场景新品发布会定档10月1日14:30。",
+          "url": "https://wallstreetcn.com/livenews/3170954",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "美联储“三号人物”：年内或有必要再次加息 以抑制通胀",
-          "url": "https://www.cls.cn/detail/2492451",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "美联储加息预期继续升温，金价如何才能开启反攻？",
-          "url": "https://flash.jin10.com/detail/20260925101230185800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：预计日本央行将在与政府协调的同时采取适当的货币政策。",
-          "url": "https://flash.jin10.com/detail/20260925100658459800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：日本央行最新的加息决定是为了实现通胀目标。",
-          "url": "https://flash.jin10.com/detail/20260925100645792800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：具体货币政策工具由日本央行决定。",
-          "url": "https://flash.jin10.com/detail/20260925100628054800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "美联储10月恐再加息有何影响",
-          "url": "https://www.toutiao.com/trending/7689276009891237414/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 纳斯达克 道琼斯 标普500",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美债抛售加剧，30年期美债收益率创逾20年新高，美股指承压横盘，美元原油齐升",
-          "url": "https://wallstreetcn.com/articles/3782452",
-          "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "11时04分"
         },
         {
-          "title": "美股收盘：美债风暴持续发酵 油价深夜巨震 Meta涨超4%",
-          "url": "https://www.cls.cn/detail/2492840",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "欧洲期货小幅走高，欧洲Stoxx 50指数期货涨0.4%，德国DAX指数期货涨0.4%，英国富时指数期货涨0.2%。 美股期货小幅走低，标普500、纳指期货跌0.2%。",
-          "url": "https://wallstreetcn.com/livenews/3170660",
+          "title": "苹果因侵犯触觉专利被判赔57亿美元",
+          "url": "https://wallstreetcn.com/livenews/3170945",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "IPO 上市",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "亚洲首只！光通信主动ETF今日港交所上市",
-          "url": "https://wallstreetcn.com/livenews/3170673",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "11时04分"
         },
         {
-          "title": "日本30年期国债收益率升至4.21%，创1999年上市以来新高。",
-          "url": "https://wallstreetcn.com/livenews/3170671",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "港交所今日上市两个新的ETF",
-          "url": "https://flash.jin10.com/detail/20260925100334503800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "原油 石油",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "菲部长：已与中美俄等“几乎所有国家”接洽，保障石油供应",
-          "url": "https://news.ifeng.com/c/8wgmCIqweFh",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "原油ETF持仓报告：美油持仓连续两日大幅减持",
-          "url": "https://flash.jin10.com/detail/20260925103602897800",
+          "title": "据华为官网消息，HUAWEI Mate 90系列及全场景新品发布会定档10月1日14:30。",
+          "url": "https://flash.jin10.com/detail/20260926100749007800",
           "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "马克龙称将派兵保护沙特延布石油设施",
-          "url": "https://wallstreetcn.com/livenews/3170659",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金 金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美国上周失业人数意外下降，财政部20至30年期美债回购未达60亿美元上限，美债收益率隔夜全线攀升，多名美联储官员“放鹰”，中东局势降温，黄金多头占比大幅回落，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20260925104325256800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "世界黄金协会今日最新更新的数据显示，全球最大黄金ETF--SPDR Gold Trust持仓有变动，较上日减少2.281吨，当前持仓量为1054.555吨。",
-          "url": "https://flash.jin10.com/detail/20260925103115179800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "学者：黄金价格面临新一轮调整压力",
-          "url": "https://www.toutiao.com/trending/7689264446190915098/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金融 银行",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "江苏银行、邮储银行、渤海银行、广发银行被罚，相关违法行为披露",
-          "url": "https://www.cls.cn/detail/2492534",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "各大银行/品牌金条价格排行一览",
-          "url": "https://flash.jin10.com/detail/20260925103652111800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "金十图示：2026年09月25日（周五）中国工商银行账户贵金属行情",
-          "url": "https://flash.jin10.com/detail/20260925101352266800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "华为 苹果 特斯拉 微软 谷歌",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "特斯拉开始交付Semi电动卡车",
-          "url": "https://wallstreetcn.com/livenews/3170678",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "11时04分"
         },
         {
           "title": "微软申请游戏内插播广告专利",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365502&amp;topic_name=%E5%BE%AE%E8%BD%AF%E7%94%B3%E8%AF%B7%E6%B8%B8%E6%88%8F%E5%86%85%E6%8F%92%E6%92%AD%E5%B9%BF%E5%91%8A%E4%B8%93%E5%88%A9",
           "source": "贴吧",
           "ranks": [
-            14
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "11时04分"
+        },
+        {
+          "title": "解读苹果商业逻辑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E8%8B%B9%E6%9E%9C%E5%95%86%E4%B8%9A%E9%80%BB%E8%BE%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时04分"
+        },
+        {
+          "title": "苹果侵犯专利被判赔付57亿美元",
+          "url": "https://www.toutiao.com/trending/7689610286562771494/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时04分"
+        },
+        {
+          "title": "苹果侵犯专利 被判赔付57亿美元",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E4%BE%B5%E7%8A%AF%E4%B8%93%E5%88%A9+%E8%A2%AB%E5%88%A4%E8%B5%94%E4%BB%9857%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时04分"
         }
       ]
     },
     {
-      "keyword_group": "港股 恒生指数",
-      "match_count": 1,
+      "keyword_group": "美股 纳斯达克 道琼斯 标普500",
+      "match_count": 4,
       "titles": [
         {
-          "title": "独家丨监管明确险资港股通ETF投资口径，南向“长钱活水”可期",
-          "url": "https://www.cls.cn/detail/2492436",
+          "title": "【早报】美股全线收涨，苹果再创历史收盘新高；原油大跌、黄金上涨；港交所：接纳国债等债券作为非现金抵押品；王兴兴发声，事关机器人核心瓶颈",
+          "url": "https://www.cls.cn/detail/2493196",
           "source": "财联社热门",
           "ranks": [
-            7
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "11时04分"
+        },
+        {
+          "title": "美股收盘：美债风暴持续发酵 油价深夜巨震 Meta涨超4%",
+          "url": "https://www.cls.cn/detail/2492840",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时04分"
+        },
+        {
+          "title": "美股收盘：美伊谈判消息缓和“美债风暴” 三大指数携手走高",
+          "url": "https://www.cls.cn/detail/2493190",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时04分"
+        },
+        {
+          "title": "派拉蒙天舞（Paramount SkyDance）将从纳斯达克迁往纽交所。 10月5日，该公司股票将从纳斯达克摘牌，10月6日将开始在纽交所挂牌交易。",
+          "url": "https://wallstreetcn.com/livenews/3170920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "并购 收购 重组",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "伯克希尔·哈撒韦于9月23日至25日期间，累计收购约170万股莱纳公司A类普通股、20675股B类普通。",
+          "url": "https://wallstreetcn.com/livenews/3170946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时04分"
+        },
+        {
+          "title": "巴西财长：巴西将再推出一项债务重组计划。",
+          "url": "https://wallstreetcn.com/livenews/3170924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "贸易战 关税",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "越南是如何假顺从真利用美关税的",
+          "url": "https://www.toutiao.com/trending/7689607569265921578/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时04分"
+        },
+        {
+          "title": "加拿大负责与美国贸易事务的部长Dominic Leblanc：虽然美国关税给加拿大经济的某些部分造成艰难处境，但加方并不急于达成一份糟糕的协议。 这也是我一直都向美国贸易代表格里尔表达的立场，自从8月21日贸易磋商谈崩以来，他们每个星期都要说两遍（美方不急）、预计周五稍晚还得再提一遍。",
+          "url": "https://wallstreetcn.com/livenews/3170941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时04分"
         }
       ]
     },
@@ -469,66 +280,100 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "SK海力士、三星敲定全南-光州芯片项目规划",
-          "url": "https://flash.jin10.com/detail/20260925101645892800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "监管 政策",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何解读教育司司长介绍「将在全国推行每周至少半天校外实践教学」？该政策能否落实？学校，家长该怎样配合？",
-          "url": "https://www.zhihu.com/question/2086042874961989634",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "贸易战 关税",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "受关税退款利好提振，Costco季度利润超预期",
-          "url": "https://wallstreetcn.com/livenews/3170654",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "地缘政治 冲突",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊朗战争是否可能演变为长期冲突？",
-          "url": "https://flash.jin10.com/detail/20260925105047310800",
+          "title": "英飞凌泰国半导体工厂将于10月1日投产",
+          "url": "https://flash.jin10.com/detail/20260926103818718800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "11时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "IPO 上市",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "花旗集团考虑将墨西哥银行Banmex按逾30亿美元估值IPO。",
+          "url": "https://wallstreetcn.com/livenews/3170932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 货币政策 降息 降准 加息",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "加纳央行行长：将推动与中国贸易本币结算",
+          "url": "https://flash.jin10.com/detail/20260926101324322800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "原油 石油",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "标普震荡反弹，海峡重开前景击落原油，日元盘中反弹逾1%，美债抛售暂歇但全周遭血洗",
+          "url": "https://wallstreetcn.com/articles/3782519",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "制造业 工业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "非洲将来会不会是新的一个工业制造业中心?",
+          "url": "https://www.zhihu.com/question/638598784",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金融 银行",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "救命钱被转 银行1条提醒短信都没发",
+          "url": "https://www.baidu.com/s?wd=%E6%95%91%E5%91%BD%E9%92%B1%E8%A2%AB%E8%BD%AC+%E9%93%B6%E8%A1%8C1%E6%9D%A1%E6%8F%90%E9%86%92%E7%9F%AD%E4%BF%A1%E9%83%BD%E6%B2%A1%E5%8F%91",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时04分"
         }
       ]
     }
