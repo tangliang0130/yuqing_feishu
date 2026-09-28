@@ -1,383 +1,622 @@
 {
-  "generated_at": "2026-09-27T11:10:56.968688+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-09-28T11:07:08.922535+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "人工智能 AI ChatGPT GPT 大模型",
-      "match_count": 15,
+      "keyword_group": "A股 上证指数 深证成指 创业板",
+      "match_count": 13,
       "titles": [
         {
-          "title": "AI基础设施撞上“墙”！Marvell：铜连接、内存瓶颈成下一阶段算力扩张关键",
-          "url": "https://wallstreetcn.com/articles/3782579",
-          "source": "华尔街见闻",
+          "title": "分析师：A股短期或迎修复式反弹",
+          "url": "https://www.toutiao.com/trending/7690045009706270774/",
+          "source": "今日头条",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 11时07分]"
         },
         {
-          "title": "Meta AI主管Alexandr Wang：为何我要做Muse",
-          "url": "https://wallstreetcn.com/articles/3782587",
+          "title": "创业板指跌超4%，深证成指跌3.25%，沪指跌1.77%，科创50指数跌3.8%，全市场超4800只个股下跌，F5G概念、CPO概念、光纤概念跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260928103830733800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时07分"
+        },
+        {
+          "title": "创业板指跌超4%，沪指跌超1.76%，深成指跌3.25%，算力硬件、贵金属、消费电子、农业等方向跌幅居前，沪深京三市下跌个股近4900只。",
+          "url": "https://wallstreetcn.com/livenews/3171187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时07分"
+        },
+        {
+          "title": "机构研判A股长期向好趋势不改",
+          "url": "https://www.toutiao.com/trending/7689304562242912307/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 11时07分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 11时07分]"
+        },
+        {
+          "title": "A股汽车整车股持续拉升，江淮汽车涨停，众泰汽车此前封板，安凯客车、北汽蓝谷、东风股份涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3171181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时07分"
+        },
+        {
+          "title": "深证成指跌3%，创业板指跌3.69%，沪指跌1.65%，全市场超4800只个股下跌。",
+          "url": "https://flash.jin10.com/detail/20260928103246514800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时07分"
+        },
+        {
+          "title": "创业板指跌超3%，沪指跌超1%，深成指跌2.21%，贵金属、消费电子、算力硬件、农业等方向跌幅居前，沪深京三市下跌个股近4500只。",
+          "url": "https://wallstreetcn.com/livenews/3171171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时07分"
+        },
+        {
+          "title": "A股光纤概念震荡下挫，华脉科技跌停，长盈通、优利德跌超13%，亨通光电、烽火通信、特发信息、通鼎互联等跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3171163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时07分"
+        },
+        {
+          "title": "创业板指跌超2%，沪指跌0.76%，深成指跌1.49%，贵金属、锂矿、煤炭、半导体等方向跌幅居前，沪深京三市下跌个股超4300只。",
+          "url": "https://wallstreetcn.com/livenews/3171159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时07分"
+        },
+        {
+          "title": "创业板指、科创50均跌超1%，沪指跌0.45%，深成指跌0.7%，贵金属、锂矿、煤炭、半导体等方向跌幅居前，沪深京三市下跌个股超3100只。",
+          "url": "https://wallstreetcn.com/livenews/3171153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时07分"
+        },
+        {
+          "title": "A股影视股表现活跃，博纳影业一字涨停，欢瑞世纪、华智数媒、幸福蓝海、上海电影等纷纷高开。",
+          "url": "https://wallstreetcn.com/livenews/3171147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时07分"
+        },
+        {
+          "title": "上证指数开盘报3878.41点，跌0.26%。 深证成指开盘报13265.79点，跌0.38%。 创业板指开盘报3267.60点，跌0.65%。 沪深300开盘报4423.82点，跌0.35%。 科创50开盘报1610.92点，跌0.68%。 中证500开盘报7599.20点，跌0.33%。 中证1000开盘报7551.22点，跌0.25%。",
+          "url": "https://wallstreetcn.com/livenews/3171144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能 AI ChatGPT GPT 大模型",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "本周重磅日程：美国非农与中国PMI、OpenAI开发者大会、美光财报、巴西大选",
+          "url": "https://wallstreetcn.com/articles/3782598",
           "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 11时07分]"
         },
         {
-          "title": "高盛测算：“AI第二阶段”的“资本缺口”要怎么补？",
-          "url": "https://wallstreetcn.com/articles/3782577",
+          "title": "美俄被曝在联合国管控AI武器谈判中弱化安全条款",
+          "url": "https://news.ifeng.com/c/8wldueAeGXX",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 11时07分]"
+        },
+        {
+          "title": "扎克伯格谈Muse：AI Agent爆发，“元宇宙、智能眼镜和大模型”三大赌注完成交汇",
+          "url": "https://wallstreetcn.com/articles/3782596",
           "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 11时07分]"
         },
         {
-          "title": "黄仁勋称AI不安全就别发货",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E7%A7%B0AI%E4%B8%8D%E5%AE%89%E5%85%A8%E5%B0%B1%E5%88%AB%E5%8F%91%E8%B4%A7&t=31&band_rank=7&Refer=top",
-          "source": "微博",
+          "title": "中信证券：数据中心的“政治化”或是短期AI叙事的最大障碍",
+          "url": "https://wallstreetcn.com/articles/3782605",
+          "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 11时07分]"
         },
         {
-          "title": "AI杀入科学家“主场”！OpenAI智能体将挑战人类蛋白质设计，原定“人机大战”临时改赛制",
-          "url": "https://wallstreetcn.com/articles/3782583",
+          "title": "沙盒失守！AI智能体接连失控 OpenAI再次叫停前沿模型开发",
+          "url": "https://www.cls.cn/detail/2493381",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 11时07分]"
+        },
+        {
+          "title": "入侵美澳政府网站！OpenAI暂停最先进模型训练",
+          "url": "https://news.ifeng.com/c/8wlALQRALzW",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 11时07分]"
+        },
+        {
+          "title": "\"从ICU到KTV\"！两级摇摆的\"AI叙事\"让投资者\"心累\"",
+          "url": "https://wallstreetcn.com/articles/3782611",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 11时07分]"
         },
         {
-          "title": "比尔·盖茨呼吁立法监管AI工具：“足够强大可能导致十亿人死亡”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34154543",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "美国总统特朗普：美国不会给AI“踩刹车”。",
-          "url": "https://wallstreetcn.com/livenews/3171006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "LG电子携手英伟达，共推AI数据中心散热解决方案",
-          "url": "https://flash.jin10.com/detail/20260927093611579800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "OpenAI再曝大模型越界行为！盖茨加入AI安全论战：足以导致“十亿人死亡”",
-          "url": "https://www.cls.cn/detail/2493223",
+          "title": "环球下周看点：美债风暴走向何处？星舰试飞、OpenAI开发者日、美光财报、“会飞的特斯拉”接力亮相",
+          "url": "https://www.cls.cn/detail/2493334",
           "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 11时07分]"
+        },
+        {
+          "title": "「薛甄珠找小三」最近被 AI 二创出了好多个版本，这段剧情有啥魔力，能让大家有源源不断的创作灵感？",
+          "url": "https://www.zhihu.com/question/2083583506072826134",
+          "source": "知乎",
           "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "丘成桐等人利用 AI 辅助为所有 7 维奇异球构造了正截面曲率度量，这个结果意味着什么？",
-          "url": "https://www.zhihu.com/question/2086886759296775993",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 11时07分]"
         },
         {
           "title": "吧友手搓AI娘网站,梗图全收录",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365534&amp;topic_name=%E5%90%A7%E5%8F%8B%E6%89%8B%E6%90%93AI%E5%A8%98%E7%BD%91%E7%AB%99%2C%E6%A2%97%E5%9B%BE%E5%85%A8%E6%94%B6%E5%BD%95",
           "source": "贴吧",
           "ranks": [
-            17
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 11时07分]"
         },
         {
-          "title": "比尔·盖茨警告AI或致十亿人死亡",
-          "url": "https://www.toutiao.com/trending/7689043490262269990/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "美媒：OpenAI与Anthropic正在调查数万起AI相关安全事件",
-          "url": "https://flash.jin10.com/detail/20260927082719732800",
+          "title": "中国AI大模型调用量连续二十二周领跑：匿名模型“太空兔”冲进前三，测试显示其可能来自MiniMax",
+          "url": "https://flash.jin10.com/detail/20260928103418009800",
           "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "外交部：关于人工智能表述问题，中方重视美方立场也尊重美方提法",
-          "url": "https://wallstreetcn.com/livenews/3170978",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "AI怎么让NS方程爆炸的",
-          "url": "https://search.bilibili.com/all?keyword=AI%E6%80%8E%E4%B9%88%E8%AE%A9NS%E6%96%B9%E7%A8%8B%E7%88%86%E7%82%B8%E7%9A%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 纳斯达克 道琼斯 标普500",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "冲刺美股史上最大半导体IPO！英特尔曾以90亿美元卖掉的Solidigm，如今估值或达1500亿美元",
-          "url": "https://wallstreetcn.com/articles/3782575",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "【早报】美股全线收涨，苹果再创历史收盘新高；原油大跌、黄金上涨；港交所：接纳国债等债券作为非现金抵押品；王兴兴发声，事关机器人核心瓶颈",
-          "url": "https://www.cls.cn/detail/2493196",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "海外资金疯买美股！过去12个月净流入9420亿美元，创1985年以来纪录",
-          "url": "https://wallstreetcn.com/articles/3782588",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "美股收盘：美伊谈判消息缓和“美债风暴” 三大指数携手走高",
-          "url": "https://www.cls.cn/detail/2493190",
-          "source": "财联社热门",
           "ranks": [
             7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时10分"
+          "time_info": "11时07分"
+        },
+        {
+          "title": "澳大利亚财长：预计对OpenAI黑客攻击的调查将在几周内结束。",
+          "url": "https://flash.jin10.com/detail/20260928101716634800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时07分"
         }
       ]
     },
     {
-      "keyword_group": "原油 石油",
-      "match_count": 3,
+      "keyword_group": "黄金 金价",
+      "match_count": 4,
       "titles": [
         {
-          "title": "利比亚主要输油管道恢复输送原油",
-          "url": "https://wallstreetcn.com/livenews/3171019",
-          "source": "华尔街见闻-快讯",
+          "title": "黄金",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=13&Refer=top",
+          "source": "微博",
           "ranks": [
-            1
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 11时07分]"
         },
         {
-          "title": "利比亚主要输油管道恢复输送原油",
-          "url": "https://flash.jin10.com/detail/20260927102351389800",
-          "source": "金十数据",
+          "title": "黄金价格持续下跌",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E6%8C%81%E7%BB%AD%E4%B8%8B%E8%B7%8C&t=31&band_rank=17&Refer=top",
+          "source": "微博",
           "ranks": [
-            3
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 11时07分]"
         },
         {
-          "title": "海湾地区原油出口量自战争爆发以来首次突破X000万桶/日",
-          "url": "https://flash.jin10.com/detail/20260927101715099800",
+          "title": "金十图示：2026年09月28日（周一）上海金早盘价为911.7元/克，较国际金价(910.57元/克)，高1.13元/克",
+          "url": "https://flash.jin10.com/detail/20260928101803143800",
           "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时07分"
+        },
+        {
+          "title": "黄金本周开局逆风刷新低点，华尔街看多共识有所瓦解",
+          "url": "https://flash.jin10.com/detail/20260928101715276800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金融 银行",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "三大运营商叫停金融分期购机业务背后：个人信用与缴纳话费的“强关联”引发担忧",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34161019",
+          "source": "澎湃新闻",
           "ranks": [
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 11时07分]"
+        },
+        {
+          "title": "男子 8 万救命钱被盗刷并称银行 1 条提醒短信都没发，银行称责任划分需司法机构裁决，银行到底该不该担责？",
+          "url": "https://www.zhihu.com/question/2086029809914855744",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 11时07分]"
+        },
+        {
+          "title": "各大银行/品牌金条价格排行一览",
+          "url": "https://flash.jin10.com/detail/20260928103153088800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时10分"
+          "time_info": "11时07分"
+        },
+        {
+          "title": "国庆节假期当周各地金融市场休市安排一览",
+          "url": "https://flash.jin10.com/detail/20260928102806682800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "港股 恒生指数",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "香港恒生指数上涨1%。",
+          "url": "https://wallstreetcn.com/livenews/3171166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时07分"
+        },
+        {
+          "title": "港股光通信板块走低，长飞光纤光缆(06869.HK)跌12%，中际旭创(03308.HK)跌6%，剑桥科技(06166.HK)跌超4%。",
+          "url": "https://flash.jin10.com/detail/20260928101749696800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时07分"
+        },
+        {
+          "title": "香港恒生指数开盘涨0.18%，报24554.58点；恒生科技指数涨0.29%。腾讯音乐、网易、地平线机器人、腾讯控股等涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3171142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "制造业 工业",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "国家统计局：8月份，受去年同期较高基数影响，规模以上工业企业利润增速有所回落，同比增长4.2%；从营业收入扣减营业成本计算的毛利润看，规模以上工业企业毛利润增长7.5%，比上月加快1.9个百分点。",
+          "url": "https://wallstreetcn.com/livenews/3171154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时07分"
+        },
+        {
+          "title": "中国1至8月规模以上工业企业利润同比 15.7%，前值 17.6%。",
+          "url": "https://wallstreetcn.com/livenews/3171151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时07分"
+        },
+        {
+          "title": "中国8月规模以上工业企业利润同比 4.2%，前值 11.2%。",
+          "url": "https://wallstreetcn.com/livenews/3171150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "IPO 上市",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【数读IPO】又一只高中签率新股来了",
+          "url": "https://www.cls.cn/detail/2493604",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 11时07分]"
+        },
+        {
+          "title": "香港交易所欢迎四只追踪香港交易所跨市场指数的新ETF上市",
+          "url": "https://flash.jin10.com/detail/20260928102601874800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 货币政策 降息 降准 加息",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "韩国财政部：将寻求与央行的政策协调。将加强与央行在市场监测方面的合作。",
+          "url": "https://flash.jin10.com/detail/20260928103056789800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时07分"
+        },
+        {
+          "title": "中国央行公开市场今日净投放4397亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3171143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时07分"
         }
       ]
     },
     {
       "keyword_group": "华为 苹果 特斯拉 微软 谷歌",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "特斯拉一个月降价两次惹怒新车主",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%80%E4%B8%AA%E6%9C%88%E9%99%8D%E4%BB%B7%E4%B8%A4%E6%AC%A1%E6%83%B9%E6%80%92%E6%96%B0%E8%BD%A6%E4%B8%BB",
-          "source": "百度热搜",
+          "title": "华为Mate90正面外观曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAMate90%E6%AD%A3%E9%9D%A2%E5%A4%96%E8%A7%82%E6%9B%9D%E5%85%89%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
           "ranks": [
-            4
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "特斯拉一个月降价两次惹怒新车主",
-          "url": "https://www.toutiao.com/trending/7689057978409812004/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 11时07分]"
         },
         {
           "title": "微软申请游戏内插播广告专利",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365502&amp;topic_name=%E5%BE%AE%E8%BD%AF%E7%94%B3%E8%AF%B7%E6%B8%B8%E6%88%8F%E5%86%85%E6%8F%92%E6%92%AD%E5%B9%BF%E5%91%8A%E4%B8%93%E5%88%A9",
           "source": "贴吧",
           "ranks": [
-            25
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 11时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 纳斯达克 道琼斯 标普500",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "高盛：别等中期选举，“金发姑娘”行情或提前点燃美股年末行情",
+          "url": "https://wallstreetcn.com/articles/3782600",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 11时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片 半导体 集成电路",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“网红芯片分析师”P Equity访谈：算力缺口、存储周期、隐形瓶颈、铜退光进以及“10年需求能见度的弥天大谎”",
+          "url": "https://wallstreetcn.com/articles/3782602",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 11时07分]"
         }
       ]
     },
     {
       "keyword_group": "地缘政治 冲突",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "白宫与CNN冲突再升级",
-          "url": "https://news.ifeng.com/c/8wkBkzwthf2",
-          "source": "凤凰网",
+          "title": "沙特卷入中东冲突“风暴中心”",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%99%E7%89%B9%E5%8D%B7%E5%85%A5%E4%B8%AD%E4%B8%9C%E5%86%B2%E7%AA%81%E2%80%9C%E9%A3%8E%E6%9A%B4%E4%B8%AD%E5%BF%83%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            4
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（9月27日）",
-          "url": "https://flash.jin10.com/detail/20260927094226281800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 11时07分]"
         }
       ]
     },
     {
-      "keyword_group": "央行 货币政策 降息 降准 加息",
+      "keyword_group": "原油 石油",
       "match_count": 1,
       "titles": [
         {
-          "title": "10月加息稳了？“鹰风”席卷美联储：三位官员同日警告通胀风险",
-          "url": "https://www.cls.cn/detail/2493210",
+          "title": "【早报】伊朗：已为与美战事重开做好准备；特朗普：预计本周与伊朗谈判；原油高开、黄金下跌；武契奇宣布辞职",
+          "url": "https://www.cls.cn/detail/2493599",
           "source": "财联社热门",
           "ranks": [
-            10
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金 金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "41岁刘一峰任浙大数学科学学院院长，系北大数学“黄金一代”成员",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34156909",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金融 银行",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "到手两万多从银行离职不后悔",
-          "url": "https://s.weibo.com/weibo?q=%E5%88%B0%E6%89%8B%E4%B8%A4%E4%B8%87%E5%A4%9A%E4%BB%8E%E9%93%B6%E8%A1%8C%E7%A6%BB%E8%81%8C%E4%B8%8D%E5%90%8E%E6%82%94&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 11时07分]"
         }
       ]
     }
