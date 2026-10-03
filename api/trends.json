@@ -1,215 +1,110 @@
 {
-  "generated_at": "2026-10-02T11:39:50.088352+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-10-03T11:23:46.867429+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT GPT 大模型",
-      "match_count": 10,
+      "match_count": 9,
       "titles": [
         {
-          "title": "玉渊谭天：中美11月人工智能对话料将敲定AI风险事件通报范围等",
-          "url": "https://wallstreetcn.com/livenews/3173590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "玉渊谭天：中美11月人工智能对话存在三个现实推进方向",
-          "url": "https://flash.jin10.com/detail/20261002113145291800",
-          "source": "金十数据",
+          "title": "恒指失守24000点创三月来最大跌幅，物理AI牛股暴跌近50%，权重科网股集体下跌，赛力斯盘中一度大涨15%",
+          "url": "https://wallstreetcn.com/articles/3782911",
+          "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时23分"
         },
         {
-          "title": "绑架马杜罗前，特朗普特地问了AI数小时",
-          "url": "https://news.ifeng.com/c/8wtBVDhtxOv",
-          "source": "凤凰网",
+          "title": "中国的 AI 短剧发展得如火如荼，而国外 AI 短剧却没怎么发展起来，是什么原因？",
+          "url": "https://www.zhihu.com/question/2087643546463613137",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "数学顾问组对OpenAI提出哪些要求",
+          "url": "https://search.bilibili.com/all?keyword=%E6%95%B0%E5%AD%A6%E9%A1%BE%E9%97%AE%E7%BB%84%E5%AF%B9OpenAI%E6%8F%90%E5%87%BA%E5%93%AA%E4%BA%9B%E8%A6%81%E6%B1%82",
+          "source": "bilibili 热搜",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "越查事越大 OpenAI发失控智能体警报",
-          "url": "https://www.baidu.com/s?wd=%E8%B6%8A%E6%9F%A5%E4%BA%8B%E8%B6%8A%E5%A4%A7+OpenAI%E5%8F%91%E5%A4%B1%E6%8E%A7%E6%99%BA%E8%83%BD%E4%BD%93%E8%AD%A6%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时23分"
         },
         {
           "title": "大空头“剑指”Anthropic和OpenAI：市场应狠狠下跌，阻止它们上市！",
           "url": "https://www.cls.cn/detail/2496950",
           "source": "财联社热门",
           "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "马克龙担忧：社交媒体已撕裂民主，AI别重蹈覆辙",
-          "url": "https://news.ifeng.com/c/8wrsY6wZAdl",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "网传一大学生因公选课老师连续缺课，自己上台用 AI 生成 PPT 讲了一小时课，是真的吗？暴露了哪些问题？",
-          "url": "https://www.zhihu.com/question/2088388963652166144",
-          "source": "知乎",
-          "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时23分"
         },
         {
-          "title": "华泰证券：AI链放量推动韩国出口继续攀升",
-          "url": "https://wallstreetcn.com/livenews/3173568",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "Bin哥点评世一上AI剧:很牛",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366031&amp;topic_name=Bin%E5%93%A5%E7%82%B9%E8%AF%84%E4%B8%96%E4%B8%80%E4%B8%8AAI%E5%89%A7%3A%E5%BE%88%E7%89%9B",
-          "source": "贴吧",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "野村：阿里巴巴AI与云业务增长势头料延续 上调2027财年调整后净利润预期",
-          "url": "https://flash.jin10.com/detail/20261002104449719800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "华为 苹果 特斯拉 微软 谷歌",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "17年果粉买到华为Mate90激动到结巴",
-          "url": "https://www.toutiao.com/trending/7690954212159193151/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "Mate90登场 能打苹果的还得是华为",
-          "url": "https://www.baidu.com/s?wd=Mate90%E7%99%BB%E5%9C%BA+%E8%83%BD%E6%89%93%E8%8B%B9%E6%9E%9C%E7%9A%84%E8%BF%98%E5%BE%97%E6%98%AF%E5%8D%8E%E4%B8%BA",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "如何看待华为、赛力斯达成新五年合作：共同升级问界业务推动品牌向上，余承东与张兴海出席签约？",
-          "url": "https://www.zhihu.com/question/2089062587409421035",
+          "title": "用 AI 抽卡拿到大结果了，论文署名应该归谁？",
+          "url": "https://www.zhihu.com/question/2088617692831774235",
           "source": "知乎",
           "ranks": [
-            10
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时23分"
         },
         {
-          "title": "华为赛力斯为何光速“复合”",
-          "url": "https://www.toutiao.com/trending/7691705577122041385/",
-          "source": "今日头条",
+          "title": "OpenAI的CEO Altman：Cerebras是一个紧密的合作伙伴。",
+          "url": "https://wallstreetcn.com/livenews/3173834",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时23分"
         },
         {
-          "title": "华为Mate万元旗舰 套上59元积木壳",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BAMate%E4%B8%87%E5%85%83%E6%97%97%E8%88%B0+%E5%A5%97%E4%B8%8A59%E5%85%83%E7%A7%AF%E6%9C%A8%E5%A3%B3",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "华为与赛力斯达成新五年合作，联合组建问界业务专属团队",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34187045",
+          "title": "魔都眼丨“AI市集”亮相国庆街头：科技新品走近市民，消费群体渐趋多元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34186242",
           "source": "澎湃新闻",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时23分"
         },
         {
-          "title": "Mate90开售 华为门店人从众",
-          "url": "https://www.baidu.com/s?wd=Mate90%E5%BC%80%E5%94%AE+%E5%8D%8E%E4%B8%BA%E9%97%A8%E5%BA%97%E4%BA%BA%E4%BB%8E%E4%BC%97",
-          "source": "百度热搜",
+          "title": "重燃对AI云业务信心，野村上调阿里巴巴净利预估",
+          "url": "https://wallstreetcn.com/livenews/3173783",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时23分"
         },
         {
-          "title": "赛力斯华为合作模式再生变",
-          "url": "https://www.douyin.com/hot/2676572",
-          "source": "抖音",
+          "title": "Bin哥点评世一上AI剧:很牛",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366031&amp;topic_name=Bin%E5%93%A5%E7%82%B9%E8%AF%84%E4%B8%96%E4%B8%80%E4%B8%8AAI%E5%89%A7%3A%E5%BE%88%E7%89%9B",
+          "source": "贴吧",
           "ranks": [
-            26
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时23分"
         }
       ]
     },
@@ -218,192 +113,276 @@
       "match_count": 7,
       "titles": [
         {
-          "title": "美股10月惊险开门红，美联储二把手放鸽，美债收益率暂别多年高位，美元站上102，油金齐涨",
-          "url": "https://wallstreetcn.com/articles/3782859",
+          "title": "非农大幅低于预期！美国9月新增就业2.9万，预期9万，美债收益率下行，美股期货上涨",
+          "url": "https://wallstreetcn.com/articles/3782938",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时23分"
         },
         {
           "title": "【早报】美股光通信、存储芯片股，全线爆发；原油、黄金齐涨；华为与赛力斯达成新五年合作",
           "url": "https://www.cls.cn/detail/2497140",
           "source": "财联社热门",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "美股收盘：通胀不及预期缓解加息担忧 三大指数涨跌不一",
-          "url": "https://www.cls.cn/detail/2496732",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "“新债王”Gundlach：美股“表面繁荣内部腐烂”，就像一棵即将折断的“空心树”",
-          "url": "https://wallstreetcn.com/articles/3782885",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "美股收盘：光通信、存储概念双双走强 三大指数集体微涨",
-          "url": "https://www.cls.cn/detail/2497130",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "美债收益率直冲24年高位 新交易月伊始美股期指上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2497008",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "莫德纳将纳入纳斯达克100指数",
-          "url": "https://wallstreetcn.com/livenews/3173565",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "央行 货币政策 降息 降准 加息",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "【早报】美联储10月加息概率，大幅回落；原油、黄金双双上涨；美光科技，Q4营收利润双超预期",
-          "url": "https://www.cls.cn/detail/2496760",
-          "source": "财联社热门",
-          "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时23分"
         },
         {
-          "title": "\"二号、三号高管\"连续放鸽，压制一众鹰派发声，美联储平息\"10月加息\"预期",
-          "url": "https://wallstreetcn.com/articles/3782895",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "日本经济财政大臣城内实：希望日本央行在政策引导方面继续与政府保持密切沟通。 鉴于日本央行决定结束收益率曲线控制，日本已不再需要实施非常规货币刺激措施。 日本已不再处于通缩状态，因此无需采取过度宽松、推高通胀的货币政策。 高市政府的政策不同于旨在使日本摆脱通缩的再通胀政策。 高市政府的政策不同于安倍经济学，力求同时实现强劲经济和财政纪律，侧重提升日本的供给能力。",
-          "url": "https://wallstreetcn.com/livenews/3173586",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "美国8月PCE通胀低于预期、消费强劲 10月加息预期降温",
-          "url": "https://www.cls.cn/detail/2496630",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "美联储卡什卡利预计年内再加息一次，高盛将加息预期时间推迟至12月",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34187900",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "日本经济大臣：日本已摆脱通缩 无需过度宽松货币政策",
-          "url": "https://flash.jin10.com/detail/20261002104606062800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "财报 业绩",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "机器人进店卖锅 3天业绩超200万元",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%9B%E5%BA%97%E5%8D%96%E9%94%85+3%E5%A4%A9%E4%B8%9A%E7%BB%A9%E8%B6%85200%E4%B8%87%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "美光财报炸裂，股价却“无动于衷”！华尔街仍看好，最高目标价喊到1625美元",
-          "url": "https://wallstreetcn.com/articles/3782889",
+          "title": "马克龙呼吁G7协调联合抛储，油价应声跳水，欧美股市集体上涨，10年德债收益率跌至三周低位",
+          "url": "https://wallstreetcn.com/articles/3782926",
           "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时23分"
         },
         {
-          "title": "美光财报炸裂：手握26份长协 料“存储荒”持续至2028年",
-          "url": "https://www.cls.cn/detail/2496812",
-          "source": "财联社热门",
+          "title": "非农爆冷挫伤加息预期，美股续涨、英伟达盘中新高，美债收益率走V，G7释储重创原油，金银全周大跌",
+          "url": "https://wallstreetcn.com/articles/3782953",
+          "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时23分"
+        },
+        {
+          "title": "美国9月非农大幅低于预期 美股三大期指集体上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2497348",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "美股收盘：英伟达盘中破纪录 纳斯达克100指数收新高",
+          "url": "https://www.cls.cn/detail/2497450",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "周五（10月2日，非农日）纽约尾盘，标普500股指期货最终涨0.73%，道指期货涨0.52%，纳斯达克100股指期货涨0.97%。 罗素2000股指期货涨0.74%。",
+          "url": "https://wallstreetcn.com/livenews/3173823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为 苹果 特斯拉 微软 谷歌",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "截至2026年10月2日，华为乾崑官网显示累计辅助驾驶里程已正式突破160亿公里。",
+          "url": "https://wallstreetcn.com/livenews/3173850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "截至2026年10月2日，华为乾崑官网显示累计辅助驾驶里程已正式突破160亿公里。",
+          "url": "https://flash.jin10.com/detail/20261003094644540800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "特斯拉大涨！三季度全球交付量超预期，欧洲8月同比增长53%，加拿大Model 3销量攀升",
+          "url": "https://wallstreetcn.com/articles/3782939",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "华为Mate90系列韬定律解析",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E4%B8%BAMate90%E7%B3%BB%E5%88%97%E9%9F%AC%E5%AE%9A%E5%BE%8B%E8%A7%A3%E6%9E%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "苹果发布iOS升级提醒",
+          "url": "https://wallstreetcn.com/livenews/3173831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 电动汽车 电动车",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "新能源车事故维修平均费用达燃油车 1.7 倍，电车「修不起」的根本原因是什么？车主的用车成本该怎么算？",
+          "url": "https://www.zhihu.com/question/2087701209415271180",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "新能源车主反映“充电排队取号像食堂打饭”，枣阳北服务区：排队最久一晚派了100多号",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34190910",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "新能源车 假日充电大考",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6+%E5%81%87%E6%97%A5%E5%85%85%E7%94%B5%E5%A4%A7%E8%80%83",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 货币政策 降息 降准 加息",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国9月非农意外“爆冷” 美联储10月加息概率骤降",
+          "url": "https://www.cls.cn/detail/2497367",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "美联储本月加不加息？美国9月非农今晚揭晓 全球市场严阵以待",
+          "url": "https://www.cls.cn/detail/2497213",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "美国克利夫兰联储主席Hammack：FOMC在（10月份）货币政策会议之前还有时间来评估数据。 “在月底的会议之前，我们仍会获得大量信息，因此有充足时间就合适的政策立场作出决定，以确保我们同时履行双重使命。” “在充分就业这一使命方面，我认为我们的表现相当不错。我真正担心的是通胀方面。我们在通胀使命上已经偏离目标超过五年半，因此，将通胀重新降至2%的目标至关重要。”",
+          "url": "https://wallstreetcn.com/livenews/3173832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金 金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "现货黄金突破4220美元",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E7%AA%81%E7%A0%B44220%E7%BE%8E%E5%85%83&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "黄金“投降”了吗？",
+          "url": "https://wallstreetcn.com/articles/3782915",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "国际金价非农日冲高回落最终跌超0.9%，本周跌3.4%",
+          "url": "https://wallstreetcn.com/livenews/3173821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "财报 业绩",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美光财报炸裂：手握26份长协 料“存储荒”持续至2028年",
+          "url": "https://www.cls.cn/detail/2496812",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
         },
         {
           "title": "前三季度基金业绩排名出炉，杨宗昌包揽冠亚军",
@@ -414,102 +393,35 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时23分"
         }
       ]
     },
     {
-      "keyword_group": "黄金 金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "国庆黄金周文旅消费火热可期",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E9%BB%84%E9%87%91%E5%91%A8%E6%96%87%E6%97%85%E6%B6%88%E8%B4%B9%E7%81%AB%E7%83%AD%E5%8F%AF%E6%9C%9F%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "黄金白银直线跳水",
-          "url": "https://www.douyin.com/hot/2677719",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "美银警告：高油价成四季度头号威胁，金价或破3750美元",
-          "url": "https://flash.jin10.com/detail/20261002104822813800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股 恒生指数",
+      "keyword_group": "反垄断 反倾销",
       "match_count": 2,
       "titles": [
         {
-          "title": "赛力斯港股盘中一度涨超16%。",
-          "url": "https://wallstreetcn.com/livenews/3173582",
+          "title": "商务部：对原产于欧盟的进口对硝基甲苯发起反倾销立案调查",
+          "url": "https://wallstreetcn.com/livenews/3173853",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "赛力斯港股盘中一度涨超9%，报38.3港元/股。此前华为与赛力斯达成新五年合作。",
-          "url": "https://wallstreetcn.com/livenews/3173579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片 半导体 集成电路",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "华为Mate 90系列发布：全系搭载韬芯片，麒麟9050 Pro亮相",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34186076",
-          "source": "澎湃新闻",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时23分"
         },
         {
-          "title": "韬定律芯片表现",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%AC%E5%AE%9A%E5%BE%8B%E8%8A%AF%E7%89%87%E8%A1%A8%E7%8E%B0",
-          "source": "bilibili 热搜",
+          "title": "商务部新闻发言人就对原产于欧盟的进口对硝基甲苯发起反倾销调查答记者问",
+          "url": "https://flash.jin10.com/detail/20261003101845550800",
+          "source": "金十数据",
           "ranks": [
-            29
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时23分"
         }
       ]
     },
@@ -518,26 +430,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "以防长称迪拜航班驾驶舱冲突事件是「未遂恐怖袭击」，迪拜航空暂停往返以色列航班，此事可能带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2088670761540233026",
-          "source": "知乎",
+          "title": "美媒：特朗普核心内阁成员在戴维营密会数小时，讨论伊朗及胡塞冲突下一步行动",
+          "url": "https://flash.jin10.com/detail/20261003111318434800",
+          "source": "金十数据",
           "ranks": [
-            6
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时23分"
         },
         {
-          "title": "迪拜航空驾驶舱冲突事件受伤机长和副驾返回阿联酋",
-          "url": "https://wallstreetcn.com/livenews/3173562",
-          "source": "华尔街见闻-快讯",
+          "title": "据Axios：特朗普的高级内阁成员周五在戴维营聚集数小时，讨论伊朗战争以及沙特-胡塞冲突的下一步行动。",
+          "url": "https://flash.jin10.com/detail/20261003111034370800",
+          "source": "金十数据",
           "ranks": [
-            29
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时23分"
         }
       ]
     },
@@ -546,99 +458,94 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "马来西亚天然气公司首席执行官：预计将在2027年下半年就吉打州（Kedah）再气化终端作出最终投资决定。计划中的吉打州再气化终端预计将在2030年底前投入商业运营。计划中的再气化终端将使我们能够选择绕过马来西亚国家石油公司，直接从其他供应商采购天然气。",
-          "url": "https://flash.jin10.com/detail/20261002110911667800",
-          "source": "金十数据",
+          "title": "【早报】9月非农不及预期；G7将在4个月内释放至多1亿桶柴油和原油储备",
+          "url": "https://www.cls.cn/detail/2497453",
+          "source": "财联社热门",
           "ranks": [
-            13
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时23分"
         },
         {
-          "title": "原油实物溢价发出“反空警报”，但油市或在给自己加盖天花板？",
-          "url": "https://flash.jin10.com/detail/20261002104022415800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "制造业 工业",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美9月ISM制造业指数继续扩张但连降两月、成本压力骤升，标普转跌、长债承压",
-          "url": "https://wallstreetcn.com/articles/3782890",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "工业和信息化部将加大工业遗产资源保护利用力度",
-          "url": "https://flash.jin10.com/detail/20261002105046844800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金融 银行",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "市场消息：韩国金融服务委员会（FSC）将就数据泄露问题与银行业召开会议。",
-          "url": "https://flash.jin10.com/detail/20261002110645107800",
-          "source": "金十数据",
+          "title": "美国总统特朗普表示，将很快用委内瑞拉石油填满战略石油储备。",
+          "url": "https://wallstreetcn.com/livenews/3173840",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "郑州金融岛把张杰演唱会续上了",
-          "url": "https://www.douyin.com/hot/2677438",
-          "source": "抖音",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时23分"
         }
       ]
     },
     {
-      "keyword_group": "IPO 上市",
+      "keyword_group": "芯片 半导体 集成电路",
       "match_count": 1,
       "titles": [
         {
-          "title": "Anthropic上市再进一步：被曝冲刺感恩节前2万亿估值IPO，10月14日办投资者日",
-          "url": "https://wallstreetcn.com/articles/3782894",
-          "source": "华尔街见闻",
+          "title": "如何评价极客湾最新视频《逻辑折叠深度解析！华为 Mate 90 系列韬定律芯片有多强？》？",
+          "url": "https://www.zhihu.com/question/2089412797440455404",
+          "source": "知乎",
           "ranks": [
-            9
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "11时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "监管 政策",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "日本财务大臣片山皋月：日本正调整信息传达以反制再通胀政策观点",
+          "url": "https://flash.jin10.com/detail/20261003102617193800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房地产 房价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "75岁王石重返房地产",
+          "url": "https://www.toutiao.com/trending/7690858079566528554/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "制造业 工业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "越南1月至9月工业产出同比增长12.3%。",
+          "url": "https://flash.jin10.com/detail/20261003090403236800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
         }
       ]
     }
