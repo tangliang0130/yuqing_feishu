@@ -1,427 +1,332 @@
 {
-  "generated_at": "2026-10-03T11:23:46.867429+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-10-04T11:51:01.026680+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT GPT 大模型",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
-          "title": "恒指失守24000点创三月来最大跌幅，物理AI牛股暴跌近50%，权重科网股集体下跌，赛力斯盘中一度大涨15%",
-          "url": "https://wallstreetcn.com/articles/3782911",
+          "title": "9月AI债发行突然“踩刹车”，大摩判断：四季度或卷土重来",
+          "url": "https://wallstreetcn.com/articles/3782964",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
         },
         {
-          "title": "中国的 AI 短剧发展得如火如荼，而国外 AI 短剧却没怎么发展起来，是什么原因？",
-          "url": "https://www.zhihu.com/question/2087643546463613137",
+          "title": "AI大神Karpathy最新洞察：未来我们更该“理解”大模型输出，而不是被它淹没",
+          "url": "https://wallstreetcn.com/articles/3782967",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
+        },
+        {
+          "title": "首部 AI 院线电影《三星堆：未来往事》定档 10 月 23 日上映，对此你有何期待？",
+          "url": "https://www.zhihu.com/question/2087491722213159014",
           "source": "知乎",
           "ranks": [
-            3
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
         },
         {
-          "title": "数学顾问组对OpenAI提出哪些要求",
-          "url": "https://search.bilibili.com/all?keyword=%E6%95%B0%E5%AD%A6%E9%A1%BE%E9%97%AE%E7%BB%84%E5%AF%B9OpenAI%E6%8F%90%E5%87%BA%E5%93%AA%E4%BA%9B%E8%A6%81%E6%B1%82",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "大空头“剑指”Anthropic和OpenAI：市场应狠狠下跌，阻止它们上市！",
-          "url": "https://www.cls.cn/detail/2496950",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "用 AI 抽卡拿到大结果了，论文署名应该归谁？",
-          "url": "https://www.zhihu.com/question/2088617692831774235",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "OpenAI的CEO Altman：Cerebras是一个紧密的合作伙伴。",
-          "url": "https://wallstreetcn.com/livenews/3173834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "魔都眼丨“AI市集”亮相国庆街头：科技新品走近市民，消费群体渐趋多元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34186242",
-          "source": "澎湃新闻",
+          "title": "国庆反向旅游的好像都被AI坑了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E5%8F%8D%E5%90%91%E6%97%85%E6%B8%B8%E7%9A%84%E5%A5%BD%E5%83%8F%E9%83%BD%E8%A2%ABAI%E5%9D%91%E4%BA%86%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
         },
         {
-          "title": "重燃对AI云业务信心，野村上调阿里巴巴净利预估",
-          "url": "https://wallstreetcn.com/livenews/3173783",
-          "source": "华尔街见闻-快讯",
+          "title": "AI已经有意识了吗",
+          "url": "https://www.toutiao.com/trending/7692619440478752298/",
+          "source": "今日头条",
           "ranks": [
-            25
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
         },
         {
-          "title": "Bin哥点评世一上AI剧:很牛",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366031&amp;topic_name=Bin%E5%93%A5%E7%82%B9%E8%AF%84%E4%B8%96%E4%B8%80%E4%B8%8AAI%E5%89%A7%3A%E5%BE%88%E7%89%9B",
-          "source": "贴吧",
+          "title": "23组AI歌手献唱如愿",
+          "url": "https://search.bilibili.com/all?keyword=23%E7%BB%84AI%E6%AD%8C%E6%89%8B%E7%8C%AE%E5%94%B1%E5%A6%82%E6%84%BF",
+          "source": "bilibili 热搜",
           "ranks": [
-            28
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 纳斯达克 道琼斯 标普500",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "非农大幅低于预期！美国9月新增就业2.9万，预期9万，美债收益率下行，美股期货上涨",
-          "url": "https://wallstreetcn.com/articles/3782938",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
         },
         {
-          "title": "【早报】美股光通信、存储芯片股，全线爆发；原油、黄金齐涨；华为与赛力斯达成新五年合作",
-          "url": "https://www.cls.cn/detail/2497140",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "马克龙呼吁G7协调联合抛储，油价应声跳水，欧美股市集体上涨，10年德债收益率跌至三周低位",
-          "url": "https://wallstreetcn.com/articles/3782926",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "非农爆冷挫伤加息预期，美股续涨、英伟达盘中新高，美债收益率走V，G7释储重创原油，金银全周大跌",
-          "url": "https://wallstreetcn.com/articles/3782953",
-          "source": "华尔街见闻",
+          "title": "白宫新设人工智能工作组将起草AI风险评估报告",
+          "url": "https://flash.jin10.com/detail/20261004100514479800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时23分"
+          "time_info": "11时51分"
         },
         {
-          "title": "美国9月非农大幅低于预期 美股三大期指集体上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2497348",
-          "source": "财联社热门",
+          "title": "苹果将加强Mac隐私控制，警告AI智能体带来的风险上升",
+          "url": "https://wallstreetcn.com/livenews/3173902",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时23分"
+          "time_info": "11时51分"
         },
         {
-          "title": "美股收盘：英伟达盘中破纪录 纳斯达克100指数收新高",
-          "url": "https://www.cls.cn/detail/2497450",
-          "source": "财联社热门",
+          "title": "OpenAI安全部门员工辞职，呼吁采取核电级别的防护措施",
+          "url": "https://wallstreetcn.com/livenews/3173900",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时23分"
+          "time_info": "11时51分"
         },
         {
-          "title": "周五（10月2日，非农日）纽约尾盘，标普500股指期货最终涨0.73%，道指期货涨0.52%，纳斯达克100股指期货涨0.97%。 罗素2000股指期货涨0.74%。",
-          "url": "https://wallstreetcn.com/livenews/3173823",
+          "title": "数据中心之外，Meta正在悄然扩张一个不太显眼的AI基建领域",
+          "url": "https://flash.jin10.com/detail/20261004051915043800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "据Business Insider，OpenAI安全系统团队负责人大卫·罗宾逊（David Robinson）已辞职。",
+          "url": "https://wallstreetcn.com/livenews/3173886",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "华为 苹果 特斯拉 微软 谷歌",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "截至2026年10月2日，华为乾崑官网显示累计辅助驾驶里程已正式突破160亿公里。",
-          "url": "https://wallstreetcn.com/livenews/3173850",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "截至2026年10月2日，华为乾崑官网显示累计辅助驾驶里程已正式突破160亿公里。",
-          "url": "https://flash.jin10.com/detail/20261003094644540800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "特斯拉大涨！三季度全球交付量超预期，欧洲8月同比增长53%，加拿大Model 3销量攀升",
-          "url": "https://wallstreetcn.com/articles/3782939",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "华为Mate90系列韬定律解析",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E4%B8%BAMate90%E7%B3%BB%E5%88%97%E9%9F%AC%E5%AE%9A%E5%BE%8B%E8%A7%A3%E6%9E%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "苹果发布iOS升级提醒",
-          "url": "https://wallstreetcn.com/livenews/3173831",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "新能源 电动汽车 电动车",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "新能源车事故维修平均费用达燃油车 1.7 倍，电车「修不起」的根本原因是什么？车主的用车成本该怎么算？",
-          "url": "https://www.zhihu.com/question/2087701209415271180",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "新能源车主反映“充电排队取号像食堂打饭”，枣阳北服务区：排队最久一晚派了100多号",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34190910",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "新能源车 假日充电大考",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6+%E5%81%87%E6%97%A5%E5%85%85%E7%94%B5%E5%A4%A7%E8%80%83",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
+          "time_info": "11时51分"
         }
       ]
     },
     {
       "keyword_group": "央行 货币政策 降息 降准 加息",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
-          "title": "美国9月非农意外“爆冷” 美联储10月加息概率骤降",
-          "url": "https://www.cls.cn/detail/2497367",
+          "title": "加息预期骤变！美联储官员鹰派立场软化 又一大行“撕报告”",
+          "url": "https://www.cls.cn/detail/2497471",
           "source": "财联社热门",
           "ranks": [
-            10
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
+        },
+        {
+          "title": "美联储 10 月还会不会加息？",
+          "url": "https://www.zhihu.com/question/2087474854505333797",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
         },
         {
           "title": "美联储本月加不加息？美国9月非农今晚揭晓 全球市场严阵以待",
           "url": "https://www.cls.cn/detail/2497213",
           "source": "财联社热门",
           "ranks": [
-            12
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
         },
         {
-          "title": "美国克利夫兰联储主席Hammack：FOMC在（10月份）货币政策会议之前还有时间来评估数据。 “在月底的会议之前，我们仍会获得大量信息，因此有充足时间就合适的政策立场作出决定，以确保我们同时履行双重使命。” “在充分就业这一使命方面，我认为我们的表现相当不错。我真正担心的是通胀方面。我们在通胀使命上已经偏离目标超过五年半，因此，将通胀重新降至2%的目标至关重要。”",
-          "url": "https://wallstreetcn.com/livenews/3173832",
-          "source": "华尔街见闻-快讯",
+          "title": "美国9月非农意外“爆冷” 美联储10月加息概率骤降",
+          "url": "https://www.cls.cn/detail/2497367",
+          "source": "财联社热门",
           "ranks": [
-            19
+            13
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
+        },
+        {
+          "title": "美联储和欧洲央行会议纪要将于下周公布 料凸出通胀担忧",
+          "url": "https://flash.jin10.com/detail/20261004044609290800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时23分"
+          "time_info": "11时51分"
         }
       ]
     },
     {
-      "keyword_group": "黄金 金价",
-      "match_count": 3,
+      "keyword_group": "原油 石油",
+      "match_count": 4,
       "titles": [
         {
-          "title": "现货黄金突破4220美元",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E7%AA%81%E7%A0%B44220%E7%BE%8E%E5%85%83&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "【早报】9月非农不及预期；G7将在4个月内释放至多1亿桶柴油和原油储备",
+          "url": "https://www.cls.cn/detail/2497453",
+          "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
         },
         {
-          "title": "黄金“投降”了吗？",
-          "url": "https://wallstreetcn.com/articles/3782915",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "国际金价非农日冲高回落最终跌超0.9%，本周跌3.4%",
-          "url": "https://wallstreetcn.com/livenews/3173821",
+          "title": "胡塞武装称对沙特阿美石油公司目标实施打击",
+          "url": "https://wallstreetcn.com/livenews/3173906",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时23分"
+          "time_info": "11时51分"
+        },
+        {
+          "title": "国际能源署：已释放约3.25亿桶战略石油储备",
+          "url": "https://wallstreetcn.com/livenews/3173901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "美国财长贝森特：本周伊朗海上在途石油将归零。",
+          "url": "https://wallstreetcn.com/livenews/3173890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         }
       ]
     },
     {
-      "keyword_group": "财报 业绩",
-      "match_count": 2,
+      "keyword_group": "华为 苹果 特斯拉 微软 谷歌",
+      "match_count": 4,
       "titles": [
         {
-          "title": "美光财报炸裂：手握26份长协 料“存储荒”持续至2028年",
-          "url": "https://www.cls.cn/detail/2496812",
-          "source": "财联社热门",
+          "title": "交付超预期难改盈利压力！摩根大通：特斯拉盈利或从2028年开始加速",
+          "url": "https://wallstreetcn.com/articles/3782960",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
+        },
+        {
+          "title": "苹果将为受影响用户免费更换新机",
+          "url": "https://www.toutiao.com/trending/7691648678775475748/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
+        },
+        {
+          "title": "苹果将为受影响用户免费更换新机",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%B0%86%E4%B8%BA%E5%8F%97%E5%BD%B1%E5%93%8D%E7%94%A8%E6%88%B7%E5%85%8D%E8%B4%B9%E6%9B%B4%E6%8D%A2%E6%96%B0%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
+        },
+        {
+          "title": "苹果将为受影响用户免费更换新机",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%B0%86%E4%B8%BA%E5%8F%97%E5%BD%B1%E5%93%8D%E7%94%A8%E6%88%B7%E5%85%8D%E8%B4%B9%E6%9B%B4%E6%8D%A2%E6%96%B0%E6%9C%BA%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 纳斯达克 道琼斯 标普500",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美股四季度“逼空”信号浮现：CTA仓位大撤退，1.3万亿美元回购蓄势待发",
+          "url": "https://wallstreetcn.com/articles/3782965",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
         },
         {
-          "title": "前三季度基金业绩排名出炉，杨宗昌包揽冠亚军",
-          "url": "https://www.cls.cn/detail/2496819",
+          "title": "美国9月非农大幅低于预期 美股三大期指集体上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2497348",
           "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "反垄断 反倾销",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "商务部：对原产于欧盟的进口对硝基甲苯发起反倾销立案调查",
-          "url": "https://wallstreetcn.com/livenews/3173853",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
         },
         {
-          "title": "商务部新闻发言人就对原产于欧盟的进口对硝基甲苯发起反倾销调查答记者问",
-          "url": "https://flash.jin10.com/detail/20261003101845550800",
-          "source": "金十数据",
+          "title": "美股收盘：英伟达盘中破纪录 纳斯达克100指数收新高",
+          "url": "https://www.cls.cn/detail/2497450",
+          "source": "财联社热门",
           "ranks": [
-            8
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
         }
       ]
     },
@@ -430,71 +335,71 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "美媒：特朗普核心内阁成员在戴维营密会数小时，讨论伊朗及胡塞冲突下一步行动",
-          "url": "https://flash.jin10.com/detail/20261003111318434800",
-          "source": "金十数据",
+          "title": "张玉宁在赛后冲突中被掐脖子",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E7%8E%89%E5%AE%81%E5%9C%A8%E8%B5%9B%E5%90%8E%E5%86%B2%E7%AA%81%E4%B8%AD%E8%A2%AB%E6%8E%90%E8%84%96%E5%AD%90",
+          "source": "百度热搜",
           "ranks": [
-            1
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
         },
         {
-          "title": "据Axios：特朗普的高级内阁成员周五在戴维营聚集数小时，讨论伊朗战争以及沙特-胡塞冲突的下一步行动。",
-          "url": "https://flash.jin10.com/detail/20261003111034370800",
+          "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（10月4日）",
+          "url": "https://flash.jin10.com/detail/20261004082251668800",
           "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "原油 石油",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【早报】9月非农不及预期；G7将在4个月内释放至多1亿桶柴油和原油储备",
-          "url": "https://www.cls.cn/detail/2497453",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        },
-        {
-          "title": "美国总统特朗普表示，将很快用委内瑞拉石油填满战略石油储备。",
-          "url": "https://wallstreetcn.com/livenews/3173840",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时23分"
+          "time_info": "11时51分"
         }
       ]
     },
     {
-      "keyword_group": "芯片 半导体 集成电路",
+      "keyword_group": "黄金 金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "非农公布后现货黄金一度升至 4259 美元附近，涨超 1% 后转跌，核心逻辑是什么？未来趋势如何？",
+          "url": "https://www.zhihu.com/question/2089644862312400003",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
+        },
+        {
+          "title": "金价坐“过山车”谁在入手",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%9D%90%E2%80%9C%E8%BF%87%E5%B1%B1%E8%BD%A6%E2%80%9D%E8%B0%81%E5%9C%A8%E5%85%A5%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "财报 业绩",
       "match_count": 1,
       "titles": [
         {
-          "title": "如何评价极客湾最新视频《逻辑折叠深度解析！华为 Mate 90 系列韬定律芯片有多强？》？",
-          "url": "https://www.zhihu.com/question/2089412797440455404",
-          "source": "知乎",
+          "title": "前三季度哪些基金业绩最差？追错方向，多只逼近腰斩",
+          "url": "https://www.cls.cn/detail/2497541",
+          "source": "财联社热门",
           "ranks": [
-            11
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
         }
       ]
     },
@@ -503,32 +408,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "日本财务大臣片山皋月：日本正调整信息传达以反制再通胀政策观点",
-          "url": "https://flash.jin10.com/detail/20261003102617193800",
-          "source": "金十数据",
+          "title": "苏州阳澄半岛乐园攀爬项目设“无人监管风险自担” 提示，律师：无效力，属经营管理缺陷",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34194435",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
         }
       ]
     },
     {
-      "keyword_group": "房地产 房价",
+      "keyword_group": "反垄断 反倾销",
       "match_count": 1,
       "titles": [
         {
-          "title": "75岁王石重返房地产",
-          "url": "https://www.toutiao.com/trending/7690858079566528554/",
-          "source": "今日头条",
+          "title": "【早报】外交部：中方欢迎普京总统出席APEC深圳峰会；商务部对原产于欧盟的进口对硝基甲苯发起反倾销调查",
+          "url": "https://www.cls.cn/detail/2497600",
+          "source": "财联社热门",
           "ranks": [
-            22
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
         }
       ]
     },
@@ -537,15 +442,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "越南1月至9月工业产出同比增长12.3%。",
-          "url": "https://flash.jin10.com/detail/20261003090403236800",
-          "source": "金十数据",
+          "title": "从工业遗存到二次元“痛岛”，这片江心之地如何更年轻？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34194432",
+          "source": "澎湃新闻",
           "ranks": [
-            20
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
         }
       ]
     }
