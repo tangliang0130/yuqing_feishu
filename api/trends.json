@@ -1,527 +1,388 @@
 {
-  "generated_at": "2026-10-31T11:43:17.226232+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-11-01T11:51:21.517505+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT GPT 大模型",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
-          "title": "AI攻克全维度挂谷猜想",
-          "url": "https://search.bilibili.com/all?keyword=AI%E6%94%BB%E5%85%8B%E5%85%A8%E7%BB%B4%E5%BA%A6%E6%8C%82%E8%B0%B7%E7%8C%9C%E6%83%B3",
+          "title": "当前AI最紧迫的瓶颈：廉价资金正在枯竭！",
+          "url": "https://wallstreetcn.com/articles/3784910",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "谷歌太空AI算力中心成功运行",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%A4%AA%E7%A9%BAAI%E7%AE%97%E5%8A%9B%E4%B8%AD%E5%BF%83%E6%88%90%E5%8A%9F%E8%BF%90%E8%A1%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
+          "appearance_count": 1,
+          "time_info": "11时51分"
         },
         {
-          "title": "AI最危险的交易或许不在科技股，而在美元",
-          "url": "https://wallstreetcn.com/articles/3784878",
+          "title": "2008再现！一文读懂华尔街最热门交易：AI CDS",
+          "url": "https://wallstreetcn.com/articles/3784900",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
-        },
-        {
-          "title": "美银Hartnett：AI与ABB的矛盾正在引爆，科技股真正的解压窗口要等到明年",
-          "url": "https://wallstreetcn.com/articles/3784877",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
-        },
-        {
-          "title": "微软等五大科技巨头因AI开支大砍八成回购 股东回报比例创至少15年新低",
-          "url": "https://www.cls.cn/detail/2521354",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
+          "appearance_count": 1,
+          "time_info": "11时51分"
         },
         {
           "title": "CRO或成最大赢家？AI重构药企组织范式：“一人管线”横空出世",
           "url": "https://www.cls.cn/detail/2520513",
           "source": "财联社热门",
           "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "吧友拿十六进制撩AI,回复亮了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368713&amp;topic_name=%E5%90%A7%E5%8F%8B%E6%8B%BF%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6%E6%92%A9AI%2C%E5%9B%9E%E5%A4%8D%E4%BA%AE%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "Anthropic冲刺IPO：一场与OpenAI的估值、营收和算力竞赛",
+          "url": "https://www.cls.cn/detail/2521127",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "环球下周看点：AI热潮遇考验 美国中期选举、非农与苹果财报接连来袭",
+          "url": "https://www.cls.cn/detail/2521662",
+          "source": "财联社热门",
+          "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "AI的“火” PCB三季报接住了",
+          "url": "https://www.cls.cn/detail/2521696",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "「豆包们」正在成为医患之间的「第三人」，大量 AI 问诊对门诊医生造成了什么影响？会有哪些困扰？",
+          "url": "https://www.zhihu.com/question/2096595801644299451",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "OpenAI宣布ChatGPT部分功能将与Codex共享额度",
+          "url": "https://flash.jin10.com/detail/20261101090651990800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "AI短片邪修润魂子",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E9%82%AA%E4%BF%AE%E6%B6%A6%E9%AD%82%E5%AD%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         },
         {
           "title": "AI写文被扒,榜一转头开团榜二",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368606&amp;topic_name=AI%E5%86%99%E6%96%87%E8%A2%AB%E6%89%92%2C%E6%A6%9C%E4%B8%80%E8%BD%AC%E5%A4%B4%E5%BC%80%E5%9B%A2%E6%A6%9C%E4%BA%8C",
           "source": "贴吧",
           "ranks": [
-            13
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
+          "appearance_count": 1,
+          "time_info": "11时51分"
         },
         {
-          "title": "AI回答不合意,老外杠上Grok",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368500&amp;topic_name=AI%E5%9B%9E%E7%AD%94%E4%B8%8D%E5%90%88%E6%84%8F%2C%E8%80%81%E5%A4%96%E6%9D%A0%E4%B8%8AGrok",
-          "source": "贴吧",
+          "title": "12个AI预测BLG对阵HLE",
+          "url": "https://search.bilibili.com/all?keyword=12%E4%B8%AAAI%E9%A2%84%E6%B5%8BBLG%E5%AF%B9%E9%98%B5HLE",
+          "source": "bilibili 热搜",
           "ranks": [
-            17
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
-        },
-        {
-          "title": "AI珍珠圣女妆",
-          "url": "https://www.douyin.com/hot/2720954",
-          "source": "抖音",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
-        },
-        {
-          "title": "OpenAI将最新一轮融资目标砍掉100亿美元，现在寻求按1.25万亿美元估值融资大约200亿美元。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3191865",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "AI抄底者遭重创，抛售狂潮终结连续三周跌势",
-          "url": "https://wallstreetcn.com/livenews/3191864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "据知情人士透露，AI初创公司Baseten Labs Inc.料将大约按300亿美元估值（超过翻倍）实施新一轮融资。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3191857",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "StarLink AI Acquisition Corp.（QTAI）与Spider Digital洽谈特殊目的收购公司（SPAC）交易，对这笔潜在合并交易的估值为2.5亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3191853",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "制造业 工业",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "国家统计局：10月高技术制造业和装备制造业PMI分别为51.3%和50.6%",
-          "url": "https://wallstreetcn.com/livenews/3191914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "国家统计局：10月大型制造业企业继续扩张",
-          "url": "https://wallstreetcn.com/livenews/3191912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "中国10月官方制造业PMI 49.3，前值 50.1。 中国10月官方非制造业PMI 49.7，前值 50.2。 中国10月官方综合PMI 49.7，前值 50.7。",
-          "url": "https://wallstreetcn.com/livenews/3191909",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "国家统计局：10月份，制造业采购经理指数（PMI）为49.3%，比上月下降0.8个百分点，制造业景气水平有所回落。从企业规模看，大型企业PMI为50.2%，比上月下降0.4个百分点，仍高于临界点；中、小型企业PMI分别为48.4%和47.5%，比上月下降1.3个和1.4个百分点，低于临界点。",
-          "url": "https://flash.jin10.com/detail/20261031093702243800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "解读：受假期前部分需求提前释放以及国际环境复杂多变等因素影响，制造业PMI降至49.3%",
-          "url": "https://flash.jin10.com/detail/20261031093510316800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "10月中国制造业采购经理指数公布 景气呈季节性回调",
-          "url": "https://flash.jin10.com/detail/20261031093121366800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "中国10月非制造业PMI 49.7，预期50，前值50.2。",
-          "url": "https://flash.jin10.com/detail/20261031093021051800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "中国10月官方制造业PMI 49.3，预期50，前值50.1。",
-          "url": "https://flash.jin10.com/detail/20261031093016148800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "中国10月官方制造业PMI将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20261031092000001800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 纳斯达克 道琼斯 标普500",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美股收盘：三大指数全线收跌 纳指跌近3% 英特尔创52年来最大日跌幅",
-          "url": "https://www.cls.cn/detail/2521391",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
-        },
-        {
-          "title": "英特尔美股暴跌科技股同步大跌",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B1%E7%89%B9%E5%B0%94%E7%BE%8E%E8%82%A1%E6%9A%B4%E8%B7%8C%E7%A7%91%E6%8A%80%E8%82%A1%E5%90%8C%E6%AD%A5%E5%A4%A7%E8%B7%8C&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
-        },
-        {
-          "title": "研究员：美股科技股大跌是挤水行动",
-          "url": "https://www.toutiao.com/trending/7702642859194715686/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
-        },
-        {
-          "title": "标普道琼斯指数公司：将Okta纳入标普500指数，取代Kenvue。 将McGrath RentCorp.纳入标普小盘股600指数，取代Glaukos。",
-          "url": "https://wallstreetcn.com/livenews/3191867",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
+          "time_info": "11时51分"
         }
       ]
     },
     {
       "keyword_group": "财报 业绩",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
-          "title": "长鑫科技Q3归母净利润544.35亿元，同比扭亏、环比增长3.01%，拟最高20亿元回购公司股份 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3784870",
+          "title": "财报炸裂，但闪迪隔夜为何暴跌？",
+          "url": "https://wallstreetcn.com/articles/3784914",
           "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
-        },
-        {
-          "title": "财报不达标就遭猛烈抛售！华尔街掀起严厉“业绩审判”",
-          "url": "https://www.cls.cn/detail/2521316",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
-        },
-        {
-          "title": "铠侠营业利润同比暴增2181.1% 业绩指引却令分析师直呼看不懂",
-          "url": "https://www.cls.cn/detail/2521287",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "地缘政治 冲突",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "波兰宪法法院发生抗议冲突 总统中断访问紧急回国",
-          "url": "https://wallstreetcn.com/livenews/3191925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "波兰宪法法院发生抗议冲突 总统中断访问紧急回国",
-          "url": "https://flash.jin10.com/detail/20261031100253454800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（10月31日）",
-          "url": "https://flash.jin10.com/detail/20261031092810352800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "华为 苹果 特斯拉 微软 谷歌",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "华为畅享100系列价格真香",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E7%95%85%E4%BA%AB100%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC%E7%9C%9F%E9%A6%99%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
-        },
-        {
-          "title": "苹果官宣：Apple智能接入阿里千问，11月4日开放测试",
-          "url": "https://flash.jin10.com/detail/20261031093953174800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "苹果官宣：Apple智能接入阿里千问，11月4日开放测试",
-          "url": "https://wallstreetcn.com/livenews/3191850",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股 上证指数 深证成指 创业板",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "A股三大股指午后全线翻红转涨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34367690",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
-        },
-        {
-          "title": "10月收官日！沪指跌超1%失守3600点，创业板跌超4%，白酒、医药爆发，光模块“易中天”大跌，30年期国债创3月来最大跌幅",
-          "url": "https://wallstreetcn.com/articles/3784820",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "IPO 上市",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Anthropic IPO文件披露近9000亿美元“隐性债务”",
-          "url": "https://flash.jin10.com/detail/20261031094347383800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "Anthropic IPO文件披露近9000亿美元“隐性债务”",
-          "url": "https://wallstreetcn.com/livenews/3191854",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "原油 石油",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "英特尔跌幅创四十年之最，纳指跌近3%，苹果市值超越英伟达，黄金一年新低，原油连涨四个月",
-          "url": "https://wallstreetcn.com/articles/3784816",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
-        },
-        {
-          "title": "美国石油双雄再冲新高 科技板块迎“背靠背”重挫 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2521174",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金 金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国际金价暴跌创近一年新低",
-          "url": "https://www.douyin.com/hot/2722142",
-          "source": "抖音",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
+          "appearance_count": 1,
+          "time_info": "11时51分"
         },
         {
-          "title": "贵金属遭遇抛售潮！黄金下破3900美元 白银失守50美元关口",
-          "url": "https://www.cls.cn/detail/2521313",
+          "title": "长鑫科技业绩交流会：LPDDR6瞄准汽车新场景，20亿回购获通过，强劲现金流支撑再投入",
+          "url": "https://wallstreetcn.com/articles/3784905",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "中药板块“高分红梯队”成型 十余家公司股息率超4% 三季报预验业绩底色",
+          "url": "https://www.cls.cn/detail/2521580",
           "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "直击长鑫科技业绩会：已与多家头部客户协商长期供货协议 预计Q4毛利率将保持稳定",
+          "url": "https://www.cls.cn/detail/2521594",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "地缘政治 冲突",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金十数据整理：俄乌冲突最新24小时局势跟踪（11月1日）",
+          "url": "https://flash.jin10.com/detail/20261101091102852800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "美国总统特朗普：正在了解币安的情况，不担心币安。 伊朗想达成协议，正在了解情况，我们不着急。 仍有一两处地点需要处理，正在关注镐山。 俄乌冲突将在不久后结束。",
+          "url": "https://wallstreetcn.com/livenews/3192000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "法国多地冲突511人被拘",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E5%A4%9A%E5%9C%B0%E5%86%B2%E7%AA%81511%E4%BA%BA%E8%A2%AB%E6%8B%98%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "特朗普：俄乌冲突将在不太遥远的未来结束。",
+          "url": "https://flash.jin10.com/detail/20261101081509351800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片 半导体 集成电路",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "Marvell收购Lumentum：“芯片 + 光学”的首次深度闭环，“既当裁判又当运动员”与光通信的“赢家通吃”",
+          "url": "https://wallstreetcn.com/articles/3784923",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "韩国10月出口额同比增长93.7%，芯片出口激增259%",
+          "url": "https://flash.jin10.com/detail/20261101095906666800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "如何看待特朗普再称台湾为「芯片小偷」，台湾地区外事发言人回应「他这是挫折和羡慕我们」？",
+          "url": "https://www.zhihu.com/question/2098805525668537881",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金 金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "“黄金平替”全球爆单",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%BB%84%E9%87%91%E5%B9%B3%E6%9B%BF%E2%80%9D%E5%85%A8%E7%90%83%E7%88%86%E5%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "“黄金平替”全球爆单，出口大增",
+          "url": "https://www.cls.cn/detail/2521676",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "现货黄金失守3900美元关口，创一年新低，金价长期逻辑变了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34375945",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 纳斯达克 道琼斯 标普500",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "付鹏：美股AI巨头的“高压锅”还能撑多久？看科技巨头的三重风险信号【付鹏说图表】",
+          "url": "https://wallstreetcn.com/premium/articles/3784907?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "美股AI暴跌,万亿市值蒸发",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368651&amp;topic_name=%E7%BE%8E%E8%82%A1AI%E6%9A%B4%E8%B7%8C%2C%E4%B8%87%E4%BA%BF%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
+          "source": "贴吧",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "新能源 电动汽车 电动车",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "上汽通用五菱：2026年10月全球总销量142757辆，其中新能源销量为99958辆。",
+          "url": "https://wallstreetcn.com/livenews/3192018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "上汽MG：10月全球新能源销量超8.5万台",
+          "url": "https://wallstreetcn.com/livenews/3192009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         }
       ]
     },
@@ -530,94 +391,77 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "工资发到数币钱包和打银行卡有何不同",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%A5%E8%B5%84%E5%8F%91%E5%88%B0%E6%95%B0%E5%B8%81%E9%92%B1%E5%8C%85%E5%92%8C%E6%89%93%E9%93%B6%E8%A1%8C%E5%8D%A1%E6%9C%89%E4%BD%95%E4%B8%8D%E5%90%8C",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
-        },
-        {
-          "title": "银行职员输错数字存两千五变两万五，储户以“离柜概不负责”为由拒退，湖北一法院认定该条款无效",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34368841",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股 恒生指数",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "股权高度集中，年内17家港股公司被香港证监会公示",
-          "url": "https://wallstreetcn.com/livenews/3191916",
+          "title": "紫光股份：目前超节点已在头部互联网项目落地，大型银行亦开始试点部署",
+          "url": "https://wallstreetcn.com/livenews/3192007",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时43分"
+          "time_info": "11时51分"
+        },
+        {
+          "title": "紫光股份：目前超节点已在头部互联网项目落地，大型银行亦开始试点部署",
+          "url": "https://flash.jin10.com/detail/20261101092110819800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         }
       ]
     },
     {
-      "keyword_group": "芯片 半导体 集成电路",
+      "keyword_group": "A股 上证指数 深证成指 创业板",
       "match_count": 1,
       "titles": [
         {
-          "title": "【早报】美芯片股遭重挫，英特尔跌逾28%；原油集体走高、黄金大幅下挫；长鑫科技、贵州茅台等披露三季报",
-          "url": "https://www.cls.cn/detail/2521408",
+          "title": "暗藏风险？11家A股公司三季报有董事拒投“赞成票”",
+          "url": "https://www.cls.cn/detail/2521638",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "原油 石油",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "原中国石油化工集团公司党组书记、董事长傅成玉被查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34377447",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "华为 苹果 特斯拉 微软 谷歌",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【早报】阿里巴巴、苹果，达成合作；金饰克价，年内暴跌近550元",
+          "url": "https://www.cls.cn/detail/2521670",
           "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "并购 收购 重组",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国稀土筹划重大资产重组",
-          "url": "https://www.douyin.com/hot/2721882",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 11时43分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "合作 战略合作",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "日美韩签署北极太平洋合作备忘录，将设工作组推进海洋与经济合作",
-          "url": "https://flash.jin10.com/detail/20261031103059075800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时43分"
+          "time_info": "11时51分"
         }
       ]
     }
