@@ -1,549 +1,467 @@
 {
-  "generated_at": "2026-11-13T12:39:54.775936+08:00",
+  "generated_at": "2026-11-14T12:34:38.479315+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI ChatGPT GPT 大模型",
-      "match_count": 17,
+      "match_count": 12,
       "titles": [
         {
-          "title": "英伟达CEO黄仁勋辞职 全球AI板块承压 纳指期货跌超1% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2533122",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "徐峥刷到自己的AI换脸视频惊了",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%90%E5%B3%A5%E5%88%B7%E5%88%B0%E8%87%AA%E5%B7%B1%E7%9A%84AI%E6%8D%A2%E8%84%B8%E8%A7%86%E9%A2%91%E6%83%8A%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "LCK选手AI性转视频走红韩网",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369800&amp;topic_name=LCK%E9%80%89%E6%89%8BAI%E6%80%A7%E8%BD%AC%E8%A7%86%E9%A2%91%E8%B5%B0%E7%BA%A2%E9%9F%A9%E7%BD%91",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "AI需求持续爆发！美国半导体设备龙头：营收、盈利、业绩指引全面超预期",
-          "url": "https://www.cls.cn/detail/2533315",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "男子花四千多元做AI短剧火了",
-          "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E8%8A%B1%E5%9B%9B%E5%8D%83%E5%A4%9A%E5%85%83%E5%81%9AAI%E7%9F%AD%E5%89%A7%E7%81%AB%E4%BA%86&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-11-13）",
-          "url": "https://flash.jin10.com/detail/20261113120111605800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "上海00后女生靠AI卖穿戴甲月入10万",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B700%E5%90%8E%E5%A5%B3%E7%94%9F%E9%9D%A0AI%E5%8D%96%E7%A9%BF%E6%88%B4%E7%94%B2%E6%9C%88%E5%85%A510%E4%B8%87%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "赵丽颖起诉红果和抖音，律师：关键是公众能不能认出这个AI人像赵丽颖",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34458622",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "马上评｜明星起诉短剧“偷脸”，AI用脸的边界在哪？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34459124",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "“AI央行”大地震，冲击会沿融资链传多远？",
-          "url": "https://www.cls.cn/detail/2533216",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "SpaceXAI密西西比数据中心施工强度惊人：MACROHARDER项目每天浇筑逾1150立方米混凝土",
-          "url": "https://flash.jin10.com/detail/20261113115339727800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "AI预测BLG与GenG谁将夺冠",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8BBLG%E4%B8%8EGenG%E8%B0%81%E5%B0%86%E5%A4%BA%E5%86%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "马来西亚将评估购买的人工智能芯片是否已被再出口，考虑采取措施加强芯片出口管制。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3199537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "首个AI漫剧晚会阵容官宣",
-          "url": "https://www.douyin.com/hot/2742996",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "为什么设计师用AI生成的图更好看",
-          "url": "https://www.toutiao.com/trending/7706731432093483071/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "用AI制作灭霸全家福MV",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%88%B6%E4%BD%9C%E7%81%AD%E9%9C%B8%E5%85%A8%E5%AE%B6%E7%A6%8FMV",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "AI找到BLG赢GEN的办法了",
-          "url": "https://s.weibo.com/weibo?q=AI%E6%89%BE%E5%88%B0BLG%E8%B5%A2GEN%E7%9A%84%E5%8A%9E%E6%B3%95%E4%BA%86&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "华为 苹果 特斯拉 微软 谷歌",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "微软多项服务发生大规模故障，Outlook 异常报告超 13 万起，问题可能出在哪？你现在还能正常登录吗？",
-          "url": "https://www.zhihu.com/question/2104481527711143901",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "国产苹果卷出新高度",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7%E8%8B%B9%E6%9E%9C%E5%8D%B7%E5%87%BA%E6%96%B0%E9%AB%98%E5%BA%A6",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "华为Mate X8真机疑曝光",
-          "url": "https://www.toutiao.com/trending/7707473012869841417/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "微软大规模宕机持续数小时",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E8%BD%AF%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%AE%95%E6%9C%BA%E6%8C%81%E7%BB%AD%E6%95%B0%E5%B0%8F%E6%97%B6",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "微软Outlook服务宕机",
-          "url": "https://s.weibo.com/weibo?q=%E5%BE%AE%E8%BD%AFOutlook%E6%9C%8D%E5%8A%A1%E5%AE%95%E6%9C%BA&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "如何看待 2026 年 10 月特斯拉国内销量暴跌？",
-          "url": "https://www.zhihu.com/question/2103258099138172807",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "微软谈服务中断：我们正尽可能实施基础设施容量优化，以协助支撑正在恢复上线地区的流量。 我们已监测了为改善服务可用性所实施变更的状态，确认其效果未达预期。",
-          "url": "https://wallstreetcn.com/livenews/3199536",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "谷歌发布Gemini 4 Hydrogen",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83Gemini%204%20Hydroge",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金 金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "特朗普称美国不需要与伊朗达成协议 国际油价大幅拉升 现货黄金失守3900美元关口",
-          "url": "https://www.cls.cn/detail/2533138",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "金十图示：2026年11月13日（周五）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20261113115601571800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "黄金或迎33亿美元指数调仓买盘！法兴银行：明年1月资金将集中涌入",
-          "url": "https://flash.jin10.com/detail/20261113115137558800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "金价连跌三天，今晚PPI能救场吗？",
-          "url": "https://flash.jin10.com/detail/20261113113046040800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股 上证指数 深证成指 创业板",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "A股英伟达概念股遭遇冲击",
-          "url": "https://www.toutiao.com/trending/7707322757604786715/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "上证指数早盘收报3663.71点，涨0.22%。 深证成指早盘收报11135.40点，跌0.56%。 创业板指早盘收报2472.53点，跌1.47%。 沪深300早盘收报4042.05点，跌0.05%。 科创50早盘收报1303.51点，跌0.48%。 中证500早盘收报6588.58点，跌0.24%。 中证1000早盘收报6514.71点，跌0.35%。",
-          "url": "https://wallstreetcn.com/livenews/3199544",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "A股午评：指数冲高回落走势分化 影视院线逆市拉升",
-          "url": "https://flash.jin10.com/detail/20261113114116168800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 纳斯达克 道琼斯 标普500",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "【早报】黄仁勋辞职；英伟达市值，一夜蒸发1.2万亿元；多家美股科技硬件巨头，业绩超预期；国际油价，大幅拉升",
-          "url": "https://www.cls.cn/detail/2533284",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "黄仁勋辞职叠加油价走强，美股承压，英伟达市值一度跌破4万亿，美债、黄金遭抛售",
-          "url": "https://wallstreetcn.com/articles/3785806",
+          "title": "英伟达新掌门会给AI融资踩刹车？她曾将2500亿美元数据中心担保砍半，被黄仁勋嘲讽“只会做财务”，是“惊弓之鹿”",
+          "url": "https://wallstreetcn.com/articles/3785870",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时39分"
+          "time_info": "12时34分"
         },
         {
-          "title": "美股收盘：AMD“五连阳”累涨超40% 科技硬件链盘后利好频出",
-          "url": "https://www.cls.cn/detail/2533275",
-          "source": "财联社热门",
+          "title": "高校“抬头率”争议背后：AI监督能裁定一堂课的好坏吗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34468836",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股 恒生指数",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "港股午评：恒指收跌0.92% PCB、光通信板块走低",
-          "url": "https://flash.jin10.com/detail/20261113121535265800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
+          "time_info": "12时34分"
         },
         {
-          "title": "港股新能源车企股持续震荡走低，蔚来-SW(09866.HK)跌超5%，小鹏集团(09868.HK)跌3.93%，理想汽车(02015.HK)跌2.22%，吉利汽车(00175.HK)跌2.23%。",
-          "url": "https://flash.jin10.com/detail/20261113112922923800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片 半导体 集成电路",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "台积电计划设立5亿美元创投基金 扶持芯片初创企业",
-          "url": "https://wallstreetcn.com/livenews/3199548",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "英伟达跌了，对手却在涨：做空芯片股还行得通吗？丨大空头手记",
-          "url": "https://flash.jin10.com/detail/20261113114345330800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "IPO 上市",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "海康威视：海康机器人已完成股份制改制及上市辅导备案",
-          "url": "https://flash.jin10.com/detail/20261113120820170800",
+          "title": "吴清：进一步深化人工智能与资本市场双向赋能研究",
+          "url": "https://flash.jin10.com/detail/20261114120203176800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时39分"
+          "time_info": "12时34分"
         },
         {
-          "title": "海康威视在互动平台表示，海康机器人已完成股份制改制及上市辅导备案，IPO相关进展请以官方披露信息为准。",
-          "url": "https://wallstreetcn.com/livenews/3199553",
+          "title": "吴清：有效防范算法黑箱、AI网络攻击、提升金融基础设施韧性等重点问题，推动人工智能安全规范应用",
+          "url": "https://wallstreetcn.com/livenews/3200094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "警方通报：酒类销售人员组织他人利用AI制作“和平饭店天价酒水账单”，15人被抓",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34466609",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "LCK选手AI性转视频走红韩网",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369800&amp;topic_name=LCK%E9%80%89%E6%89%8BAI%E6%80%A7%E8%BD%AC%E8%A7%86%E9%A2%91%E8%B5%B0%E7%BA%A2%E9%9F%A9%E7%BD%91",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "都说 AI 提效，为什么打工人反而更累了？",
+          "url": "https://www.zhihu.com/question/2074136077611298927",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "AI 短剧《梦回红楼》被指侵害 17 位演员肖像，还魔改出林黛玉掌掴薛宝钗等情节，制作方要承担哪些法律责任？",
+          "url": "https://www.zhihu.com/question/2104307708622889582",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "美国国土安全部长穆林：未发现任何证据表明此次事件是网络攻击或人工智能所致。 仍在审视网络攻击的可能性，并未排除这一可能。",
+          "url": "https://wallstreetcn.com/livenews/3200080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "美国联邦航空管理局（FAA）的地面停飞令即将解除。（Air Current）",
+          "url": "https://wallstreetcn.com/livenews/3200075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "全美航班停运是AI的锅吗",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%BE%8E%E8%88%AA%E7%8F%AD%E5%81%9C%E8%BF%90%E6%98%AFAI%E7%9A%84%E9%94%85%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "美联储副主席Jefferson：根据我的经验，债务或赤字问题从未进入过美联储的政策辩论中。 在我参加过的联邦公开市场委员会（FOMC）会议上，从未出现过政治因素介入讨论的情况。 FOMC将在几个月内（甚至更早）听取美联储特别工作组的汇报。 人工智能（AI）建设使我不得不关注总需求，而总需求正是通胀压力的来源。",
+          "url": "https://wallstreetcn.com/livenews/3200068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "IPO 上市",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "吴清：科学把握节奏的同时加强对科技企业发行上市的制度适配性研究",
+          "url": "https://wallstreetcn.com/livenews/3200093",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时39分"
+          "time_info": "12时34分"
+        },
+        {
+          "title": "如何评价 11 月 13 日上市的问界新 M8，售价 37.98 万元起，这一价格在如今的市场有竞争力嘛？",
+          "url": "https://www.zhihu.com/question/2104607471683817591",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "阿里巴巴公告拟分拆平头哥赴港独立上市，已于 9 月 11 日秘密递交上市申请，怎样解读这一动作？上市前景如何？",
+          "url": "https://www.zhihu.com/question/2103593134626009683",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "Anthropic为何比SpaceX上市定价保守",
+          "url": "https://www.baidu.com/s?wd=Anthropic%E4%B8%BA%E4%BD%95%E6%AF%94SpaceX%E4%B8%8A%E5%B8%82%E5%AE%9A%E4%BB%B7%E4%BF%9D%E5%AE%88",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "黄仁勋辞职或影响史上最大IPO",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%BE%9E%E8%81%8C%E6%88%96%E5%BD%B1%E5%93%8D%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7IPO",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "黄仁勋辞职或影响史上最大IPO",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E8%BE%9E%E8%81%8C%E6%88%96%E5%BD%B1%E5%93%8D%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7IPO%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         }
       ]
     },
     {
-      "keyword_group": "监管 政策",
-      "match_count": 2,
+      "keyword_group": "华为 苹果 特斯拉 微软 谷歌",
+      "match_count": 4,
       "titles": [
         {
-          "title": "市场监管总局等三部门联合印发通知 深化拓展企业信息变更等四项“一件事”",
-          "url": "https://flash.jin10.com/detail/20261113120207267800",
+          "title": "纳指跌0.9%、道指逆势收涨，英伟达跌2%，苹果盘中刷新历史高位，比特币跌破7万",
+          "url": "https://wallstreetcn.com/articles/3785885",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "微软：（就宕机事件回应）此前受影响环境中的服务已全部恢复。",
+          "url": "https://flash.jin10.com/detail/20261114120101366800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时39分"
+          "time_info": "12时34分"
         },
         {
-          "title": "11月13日投资避雷针：上交所向大东方、日出东方下发监管工作函",
-          "url": "https://www.cls.cn/detail/2533314",
+          "title": "微软全球服务故障持续至第二天 美国空管系统又出现问题 | 环球市场",
+          "url": "https://www.cls.cn/detail/2534362",
           "source": "财联社热门",
           "ranks": [
-            10
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时39分"
+          "time_info": "12时34分"
+        },
+        {
+          "title": "美国国土安全部部长穆林：事态似乎正朝着正确的方向发展。 没有发生网络攻击，目前仍在走排查流程。 美国联邦航空管理局（FAA）系统故障与微软故障之间没有关联。 发布地面停飞令是出于高度谨慎的考虑。 在整个过程中，公众从未处于危险之中。",
+          "url": "https://wallstreetcn.com/livenews/3200078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "监管 政策",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "吴清：研究评估量化、减持等制度的优化和公平合理的监管安排",
+          "url": "https://flash.jin10.com/detail/20261114115618974800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "吴清：研究评估量化、减持等制度的优化和公平合理的监管安排",
+          "url": "https://wallstreetcn.com/livenews/3200091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "深交所监管93起证券异常交易",
+          "url": "https://www.douyin.com/hot/2745211",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 纳斯达克 道琼斯 标普500",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股收盘：苹果、“美国茅台”再创新高 AI交易依然颠簸",
+          "url": "https://www.cls.cn/detail/2534350",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "美国10月PPI低于预期 美股三大期指受提振携手上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2534230",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "央行 货币政策 降息 降准 加息",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "央行将开展2000亿元买断式逆回购操作 缩量续作稳定市场预期",
+          "url": "https://www.cls.cn/detail/2534228",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "美国10月PPI同比 6.5%创四年新高、但低于预期，激进加息预期小幅降温",
+          "url": "https://wallstreetcn.com/articles/3785905",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金 金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "向太称不要去炒黄金",
+          "url": "https://www.toutiao.com/trending/7707483828843004467/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "国际金价再度失守3900美元，金饰克价年内跌超500元，趋势何时扭转？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34467659",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         }
       ]
     },
     {
       "keyword_group": "金融 银行",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
-          "title": "金十图示：2026年11月13日（周五）富时中国A50指数成分股午盘收盘行情一览：银行股全面走高，CPO板块下挫；家电、白酒、煤炭股飘红",
-          "url": "https://flash.jin10.com/detail/20261113113407108800",
-          "source": "金十数据",
+          "title": "10月金融数据出炉：今年来企业债净融资3.1万亿，达上年同期增量的1.7倍",
+          "url": "https://www.cls.cn/detail/2533957",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "金融圈退回了“传真机时代”",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E8%9E%8D%E5%9C%88%E9%80%80%E5%9B%9E%E4%BA%86%E2%80%9C%E4%BC%A0%E7%9C%9F%E6%9C%BA%E6%97%B6%E4%BB%A3%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时39分"
+          "time_info": "12时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股 上证指数 深证成指 创业板",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【每日收评】创业板指震荡走低跌超3%，全市场逾4700股收绿，算力硬件股持续调整",
+          "url": "https://www.cls.cn/detail/2533898",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "并购 收购 重组",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国稀土重大资产重组",
+          "url": "https://www.toutiao.com/trending/7707618114590097930/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "原油 石油",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "原油66亿美元卖盘后，多空谁在悄悄换边？",
+          "url": "https://flash.jin10.com/detail/20261114120748924800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         }
       ]
     }
